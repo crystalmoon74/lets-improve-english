@@ -192,6 +192,21 @@ button { font: inherit; color: inherit; }
 .sent { cursor: pointer; border-radius: 4px; transition: background .15s; }
 .sent:hover, .sent:active { background: var(--primary-soft); }
 
+/* full-article narration */
+.listen { margin: 12px 0 0; }
+.listen-row { display: flex; align-items: center; gap: 12px; }
+.btn.listen-btn { flex: none; min-width: 124px; }
+.listen.playing .listen-btn { background: var(--ok); }
+.listen-ico { display: inline-block; width: 1.1em; text-align: center; font-size: .9em; }
+.listen-progress { flex: 1; min-width: 0; }
+.listen-seek { width: 100%; margin: 0; accent-color: var(--primary); height: 28px; }
+.speed { display: flex; gap: 6px; margin-top: 8px; }
+.speed button {
+  border: 1px solid var(--line); background: none; border-radius: 999px; padding: 4px 12px;
+  font-size: .8rem; font-weight: 600; color: var(--muted); cursor: pointer; min-height: 32px;
+}
+.speed button.on { border-color: var(--primary); background: var(--primary-soft); color: var(--primary); }
+
 /* recorder */
 .recorder.sticky-rec { position: sticky; top: 108px; z-index: 9; box-shadow: 0 4px 14px rgba(0,0,0,.06); }
 .recorder.inline { margin-top: 10px; }

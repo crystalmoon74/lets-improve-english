@@ -74,6 +74,7 @@ function pickQuestions(discussion, further) {
 function simplifyLesson(lesson, header) {
   const vocab = [];
   const paragraphs = [];
+  let audio = '';
   const discussion = [];
   const further = [];
 
@@ -98,6 +99,7 @@ function simplifyLesson(lesson, header) {
           });
         }
       } else if (sec._type === 'ArticleSection') {
+        audio ||= sec.combined_audio?.url ?? ''; // narration of the whole article
         for (const p of sec.paragraphs ?? []) {
           const sentences = (p.paragraph_sentences ?? []).map((s) => ({ text: text(s.text), audio: s.sound?.url ?? '' }));
           if (sentences.length) paragraphs.push({ heading: text(p.title_text), sentences });
@@ -120,6 +122,7 @@ function simplifyLesson(lesson, header) {
     level: appLevel(header.content_level),
     publishedAt: header.first_published_at,
     url: `https://engoo.com/app/daily-news/article/${slugify(title)}/${uuidToShortId(header.master_id)}`,
+    audio,
     paragraphs,
     vocab,
     discussion,

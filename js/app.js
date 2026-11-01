@@ -10,7 +10,8 @@ const LEVELS = {
 const app = document.getElementById('app');
 let data = { updatedAt: null, articles: [] };
 let activeRecording = null; // { key, handle, timer }
-const player = new Audio();
+const player = new Audio(); // short clips: words, example sentences, single sentences
+const narration = new Audio(); // whole-article narration
 
 // ---------- helpers ----------
 const esc = (s = '') => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
@@ -58,6 +59,7 @@ function progressOf(article) {
 
 function playUrl(url) {
   if (!url) return;
+  narration.pause();
   player.pause();
   player.src = url;
   player.play().catch(() => toast('오디오를 재생할 수 없어요.'));
@@ -79,6 +81,7 @@ function updateChrome(tab) {
 function route() {
   stopActiveRecording(true);
   player.pause();
+  narration.pause();
   const parts = location.hash.replace(/^#\/?/, '').split('/').filter(Boolean);
   const level = store.getLevel();
   window.scrollTo(0, 0);
@@ -181,6 +184,7 @@ function renderArticle(id, tab) {
       <div class="meta"><span class="chip lv">${LEVELS[a.level].label} · Lv.${a.contentLevel}</span><span class="muted small">${fmtDate(a.publishedAt)}</span>
         <a class="small" href="${esc(a.url)}" target="_blank" rel="noopener">Engoo에서 보기 ↗</a></div>
       <h1>${rich(a.title)}</h1>
+      ${a.audio ? listenBlock() : ''}
     </article>
     <div class="seg sticky" role="tablist">
       ${tabs.map(([k, label]) => `<a role="tab" class="${k === tab ? 'on' : ''}" href="#/article/${a.id}/${k}">${label}</a>`).join('')}
@@ -191,6 +195,86 @@ function renderArticle(id, tab) {
   else if (tab === 'discussion') renderDiscussion(pane, a);
   else renderReading(pane, a);
   hydrateRecorders();
+  if (a.audio) bindListen(a.audio);
+}
+
+// ---------- full-article narration ----------
+const SPEEDS = [0.75, 1, 1.25];
+
+function savedSpeed() {
+  try {
+    const s = Number(localStorage.getItem('lie.speed'));
+    return SPEEDS.includes(s) ? s : 1;
+  } catch {
+    return 1;
+  }
+}
+
+function listenBlock() {
+  const speed = savedSpeed();
+  return `
+    <div class="listen card pad">
+      <div class="listen-row">
+        <button class="btn listen-btn" data-action="listen" aria-label="기사 듣기"><span class="listen-ico">▶</span><span class="listen-label">기사 듣기</span></button>
+        <div class="listen-progress">
+          <input type="range" class="listen-seek" min="0" max="1000" value="0" aria-label="재생 위치">
+          <div class="row between tiny muted"><span class="listen-cur">0:00</span><span class="listen-dur">--:--</span></div>
+        </div>
+      </div>
+      <div class="speed" role="group" aria-label="재생 속도">
+        ${SPEEDS.map((s) => `<button class="${s === speed ? 'on' : ''}" data-action="speed" data-speed="${s}">${s}x</button>`).join('')}
+      </div>
+    </div>`;
+}
+
+function bindListen(url) {
+  const box = app.querySelector('.listen');
+  const seek = box.querySelector('.listen-seek');
+  const cur = box.querySelector('.listen-cur');
+  const dur = box.querySelector('.listen-dur');
+  const ico = box.querySelector('.listen-ico');
+  const label = box.querySelector('.listen-label');
+  if (narration.dataset.src !== url) {
+    narration.src = url;
+    narration.dataset.src = url;
+  }
+  narration.playbackRate = savedSpeed();
+  const sync = () => {
+    const d = narration.duration;
+    if (Number.isFinite(d)) dur.textContent = fmtTime(d);
+    cur.textContent = fmtTime(narration.currentTime);
+    if (Number.isFinite(d) && d > 0 && !seek.matches(':active')) seek.value = Math.round((narration.currentTime / d) * 1000);
+    const playing = !narration.paused;
+    ico.textContent = playing ? '❚❚' : '▶';
+    label.textContent = playing ? '일시정지' : narration.currentTime > 0 ? '이어 듣기' : '기사 듣기';
+    box.classList.toggle('playing', playing);
+  };
+  narration.ontimeupdate = narration.onloadedmetadata = narration.onplay = narration.onpause = sync;
+  narration.onended = () => {
+    narration.currentTime = 0;
+    sync();
+  };
+  seek.oninput = () => {
+    if (Number.isFinite(narration.duration)) narration.currentTime = (seek.value / 1000) * narration.duration;
+  };
+  sync();
+}
+
+function toggleListen() {
+  if (narration.paused) {
+    player.pause();
+    narration.play().catch(() => toast('오디오를 재생할 수 없어요.'));
+  } else {
+    narration.pause();
+  }
+}
+
+function setSpeed(speed) {
+  narration.playbackRate = speed;
+  try {
+    localStorage.setItem('lie.speed', String(speed));
+  } catch {}
+  app.querySelectorAll('.speed button').forEach((b) => b.classList.toggle('on', Number(b.dataset.speed) === speed));
 }
 
 function renderReading(pane, a) {
@@ -317,6 +401,7 @@ async function toggleRecording(key) {
   const el = recEl(key);
   try {
     player.pause();
+    narration.pause();
     const handle = await startRecording();
     const btn = el.querySelector('.rec');
     const time = el.querySelector('.rec-time');
@@ -440,6 +525,10 @@ app.addEventListener('click', async (e) => {
     if (location.hash === '#/') route();
   } else if (action === 'play') {
     playUrl(t.dataset.src);
+  } else if (action === 'listen') {
+    toggleListen();
+  } else if (action === 'speed') {
+    setSpeed(Number(t.dataset.speed));
   } else if (action === 'mark-word') {
     const a = findArticle(t.dataset.id);
     const v = a.vocab[Number(t.dataset.i)];
