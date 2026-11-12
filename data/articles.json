@@ -1,6 +1,1291 @@
 {
- "updatedAt": "2026-11-10T23:35:49.853Z",
+ "updatedAt": "2026-11-12T00:53:22.291Z",
  "articles": [
+  {
+   "id": "eb0acdee-d9f3-11f1-90e2-8fc75568da6d",
+   "title": "80% of People Have 'Laundry Anxiety'",
+   "intro": "",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/05qIkIU5XHxDyfQHaCbNIY.png",
+   "contentLevel": 5,
+   "level": "beginner",
+   "publishedAt": "2026-11-11T17:19:31Z",
+   "url": "https://engoo.com/app/daily-news/article/80-of-people-have-laundry-anxiety/6wrN7tnzEfGQ4o_HVWjabQ",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Tv4LyKhx48wAloaA9orUJ.mpga",
+   "paragraphs": [
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Whites in one pile, colors in another.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2m7G3YymHcWfN4qBDMY8Sv.mpga"
+      },
+      {
+       "text": "But wait — what temperature do these clothes need to be washed at?",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/315CYVmHOkysIQjg82JwCG.mpga"
+      },
+      {
+       "text": "Can sheets and jeans be washed together?",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6QP1uSGhuCoyssymHymLgY.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "For some people, doing laundry is a normal part of adult life.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2ilA3mUmw2TU7HFuWGLGQL.mpga"
+      },
+      {
+       "text": "But according to a new survey, it makes many people anxious!",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7akKMxNF8o8Gnw01QmGHwp.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The survey was done by Samsung with 2,000 adults in the UK.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/61hrXBXpraby1a7aVCskeP.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "It found that 80% of people have felt anxiety while doing laundry.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6TetcEZYiC9E2gN1a2EAjl.mpga"
+      },
+      {
+       "text": "About half said they're afraid to wash certain clothes because they don't want to ruin them.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Gzkto9bRnocZ9QYK1rM7N.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "In fact, only 15% feel confident washing different types of clothes!",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/17QSCKeIzsKyEIFuYju7KG.mpga"
+      },
+      {
+       "text": "People are most likely to avoid washing woolens, embellished clothes, coats and cashmere in the washing machine.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/156EaOt5hLtN0z4pLm3u1G.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Others worry about how to wash vintage clothing — with 10% saying this has stopped them from buying vintage clothes altogether!",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5WA4H5KDk0JoMct6TLRtRP.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "On average, each person has four items of clothing they feel anxious about washing.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7L76m6kizUNzyORew9P6Uu.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Some people also said they're not sure how to wash jeans, with many saying they hand-wash them instead of using the washing machine.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7V6j57pEh9wVTlNsFdgm2Y.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "So why are people so anxious?",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6VnuG4ibzaGiKRz7dNqpFh.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "A little over half of participants said they've ruined something in the wash.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6snh4FL5KgLRkTOhoYAMW7.mpga"
+      },
+      {
+       "text": "Clothes getting smaller or losing their color were the most common problems.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2aJjxNDjkK2OSADtdCGpFI.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Almost two-thirds said that ruining something in the wash made them more anxious about washing other clothes.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3BfAUF50cl60cubp9i9k8C.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "But while many have laundry anxiety, others are the opposite.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1xbuEIoDR1xa5M749jINtC.mpga"
+      },
+      {
+       "text": "The survey found that 12% of people put most clothes in the washing machine without worrying about what will happen to them.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4MRoLQIyTojbNjRtHWgcxi.mpga"
+      }
+     ]
+    }
+   ],
+   "vocab": [
+    {
+     "word": "pile",
+     "pos": "Noun",
+     "pron": "paɪl",
+     "definition": "a number of objects put or lying on top of each other",
+     "ko": "더미, 쌓아 올린 것",
+     "audio": "https://assets.app.engoo.com/sounds/JqQlVLopv3Pg97xSxbDVYXFnTHhQFyoXqHi2ZxUpEoG.mpga",
+     "examples": [
+      {
+       "text": "I have to wash a huge pile of laundry today.",
+       "audio": "https://assets.app.engoo.com/sounds/DststRbiLh8JlLPCYkZVOe8FGflllvYUM5T4Ht1hYiK.mpga"
+      }
+     ]
+    },
+    {
+     "word": "anxious",
+     "pos": "Adjective",
+     "pron": "ˈæŋkʃəs",
+     "definition": "feeling worried or nervous",
+     "ko": "불안해하는, 초조한",
+     "audio": "https://assets.app.engoo.com/sounds/XZw2tF9q0sz70E3XKY28YCJmRUS3jRriNOOxqJOSs64.mpga",
+     "examples": [
+      {
+       "text": "He is feeling anxious about his job interview.",
+       "audio": "https://assets.app.engoo.com/sounds/otfvnQlrX11QxxR2p4IcLYkIaOqRaPrZNxZRDnqG9Bx.mpga"
+      }
+     ]
+    },
+    {
+     "word": "ruin",
+     "pos": "Verb",
+     "pron": "ˈruːən",
+     "definition": "to cause harm or great damage to something",
+     "ko": "망치다, 엉망으로 만들다",
+     "audio": "https://assets.app.engoo.com/sounds/MvBKqwhhfaTNmiGaeRetE37mvZoUHU8ol82lDxuVZLA.mpga",
+     "examples": [
+      {
+       "text": "You'll ruin it if you leave it in the oven too long.",
+       "audio": "https://assets.app.engoo.com/sounds/5EEzbTv7NN1hW4vmyXdw1UvqlLOSE9y1p9OPqc87cAu.mpga"
+      }
+     ]
+    },
+    {
+     "word": "confident",
+     "pos": "Adjective",
+     "pron": "ˈkɑːnfɪdənt",
+     "definition": "feeling or showing a belief in one's abilities or qualities; feeling or showing that one is certain of something",
+     "ko": "자신감 있는, 확신하는",
+     "audio": "https://assets.app.engoo.com/sounds/3LvYrt6NWvdv5A7gWM1KpytyNl7KJTN0ytNN8iZNTxS.mpga",
+     "examples": [
+      {
+       "text": "I was never very confident as a teenager.",
+       "audio": "https://assets.app.engoo.com/sounds/5eeyGuNpUVTlewlEEXPdkQ.mpga"
+      },
+      {
+       "text": "He is confident that he will break another world record.",
+       "audio": "https://assets.app.engoo.com/sounds/67VLHNAxxvkEjbWLbjzIKv.mpga"
+      }
+     ]
+    },
+    {
+     "word": "embellish",
+     "pos": "Verb",
+     "pron": "ɛmˈbɛlɪʃ",
+     "definition": "to make something more attractive by adding decorative details",
+     "ko": "장식하다, 꾸미다",
+     "audio": "https://assets.app.engoo.com/sounds/bTSR9FlerO2YQgaoK6c4xEgYCJ1IQ5DOuTluRHtlL5N.mpga",
+     "examples": [
+      {
+       "text": "The dress was embellished with pearls and tiny glass beads.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0TgOMVMaSY2TbwUsHfC3PM.mpga"
+      }
+     ]
+    },
+    {
+     "word": "vintage",
+     "pos": "Adjective",
+     "pron": "ˈvɪntɪdʒ",
+     "definition": "relating to something from the past that is high quality",
+     "ko": "빈티지, 고전적인, 유서 있는",
+     "audio": "https://assets.app.engoo.com/sounds/0BukjkBWEQrMLm45uwqybC.mpga",
+     "examples": [
+      {
+       "text": "Edward is extremely wealthy and has an impressive collection of vintage cars.",
+       "audio": "https://assets.app.engoo.com/sounds/2FiP0IhXA8H48AEfWl3sh9.mpga"
+      }
+     ]
+    }
+   ],
+   "discussion": [
+    "What are your thoughts on Samsung's survey findings?",
+    "Do you find it surprising that so many people feel anxious about doing laundry?",
+    "Have you ever ruined a favorite piece of clothing in the wash?",
+    "Do you have any items of clothing that you prefer to wash by hand?",
+    "Do you know anyone who just throws everything into the washing machine together?"
+   ],
+   "furtherDiscussion": [
+    "Who usually does the laundry in your household?",
+    "Do you usually check the washing instructions on your clothes?",
+    "Are there any chores you find relaxing or enjoyable?",
+    "What's one household chore you wish you never had to do again?",
+    "Were you expected to help with household chores as a child?"
+   ],
+   "questions": [
+    {
+     "text": "What are your thoughts on Samsung's survey findings?",
+     "section": "Discussion"
+    },
+    {
+     "text": "Do you find it surprising that so many people feel anxious about doing laundry?",
+     "section": "Discussion"
+    },
+    {
+     "text": "What's one household chore you wish you never had to do again?",
+     "section": "Further Discussion"
+    }
+   ]
+  },
+  {
+   "id": "2957ef2e-d6f1-11f1-aacc-57e0602ba8ac",
+   "title": "Too Good to Eat: Meet the Artist Who Knits Food",
+   "intro": "Explore the creative world of Kate Jenkins, a UK artist who knits, crochets, and embroiders realistic, mouth-watering food art.",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/1aaAtlkpD9UFAIgdhQAt7w.png",
+   "contentLevel": 6,
+   "level": "intermediate",
+   "publishedAt": "2026-11-11T17:19:31Z",
+   "url": "https://engoo.com/app/daily-news/article/too-good-to-eat-meet-the-artist-who-knits-food/KVfvLtbxEfGqzFfgYCuorA",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7UTKz5pyNda7PjyT0M0oNh.mpga",
+   "paragraphs": [
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Kate Jenkins can make all sorts of dishes, from pasta to pizza to desserts.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1rUvQhhHvt8TKRL87VoMdQ.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "There's just one thing — her dishes can't be eaten!",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1oGvoLkP4fN7dJXYwDWzhP.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Jenkins is an artist from the UK who is known for her knitted, crocheted and embroidered creations.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/50fCiOGp2g4DJxWDN4fHi0.mpga"
+      },
+      {
+       "text": "When she was a child, her grandmother taught her how to knit, and she has been creating things out of yarn ever since.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5tvtf7n7wpnUf1EZgCPspN.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "In the 1990s, she worked as a knitwear designer for big fashion houses, including Ralph Lauren and Marc Jacobs, and she later started her own fashion company.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2wzOWkYzLOIQeYhgoLbRFs.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "When Jenkins needed a way to promote her company, she started knitting food, both for fun and to try to get people's attention.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0HlqwIlwzHLWus6nMwUNuN.mpga"
+      },
+      {
+       "text": "That became her first food-themed exhibition, called \"Comfort Food,\" in 2007.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6akDaT3Lywkll0YgSmxQ7t.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Her food creations were so popular that they became a very important part of her career.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3M4ocCZq7ctAz9FDXvUSAY.mpga"
+      },
+      {
+       "text": "Since then, she's created collections based on bakeries, cafes, ice cream shops and more.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4g9thahEFD2ffMwQVtmHJO.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Her newest exhibition is called \"Kate's {{prn:Knitalian|knitalian}},\" which is made to look like an Italian restaurant.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5d1p1jGfJB6ruoy2ublLYu.mpga"
+      },
+      {
+       "text": "It opened on October 30 at the Air Contemporary Gallery in London.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/54ldEyYK3gm4TqEc2md8VT.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The exhibition has over 100 pieces made by Jenkins, including knitted plates of ravioli, bottles of wine and even a creamy tiramisu.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3nH8TxZCQYIgOTHTdewueK.mpga"
+      },
+      {
+       "text": "Jenkins wrote on her website that everything was made to look \"deliciously real.\"",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3qoUBA98AbC94DYXqOFsEa.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "All pieces are available to buy, and the exhibition will be open until December 5.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/04XG7bSx2dzAGZENsJAA43.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Jenkins also likes to add a little humor to her work.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2AJ9xDxwySd8mulz1pVP01.mpga"
+      },
+      {
+       "text": "The \"restaurant\" has a sign saying that it's been rated by the \"Stitchelin Guide\" — instead of the Michelin Guide — and another that says it's on \"Knitadvisor,\" instead of {{prn:Tripadvisor|trip advisor}}!",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3u0o2nqzHAlyVLsIljx5Fz.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "\"Above all, I want my work to make people smile,\" Jenkins said on her website.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6dbhNNpGnS32C2CXBhDUMC.mpga"
+      }
+     ]
+    }
+   ],
+   "vocab": [
+    {
+     "word": "knit",
+     "pos": "Verb",
+     "pron": "nɪt",
+     "definition": "to make clothes, a blanket, etc. by linking wool or other thread using needles",
+     "ko": "뜨게질하다, 뜨다, (옷감을) 짜다",
+     "audio": "https://assets.app.engoo.com/sounds/kQd3loCUSe3wN2YzRhFtrZY81rWP556XGECx9yVrsGr.mpga",
+     "examples": [
+      {
+       "text": "She often knits clothes for her grandchildren.",
+       "audio": "https://assets.app.engoo.com/sounds/uGSTIWXaAbAXC3p1yH88KkUxLb95toN4hPlmPFyVBxU.mpga"
+      }
+     ]
+    },
+    {
+     "word": "yarn",
+     "pos": "Noun",
+     "pron": "jɑːrn",
+     "definition": "thread used for knitting, sewing, etc.",
+     "ko": "실",
+     "audio": "https://assets.app.engoo.com/sounds/4ZTNsuhJIUdrUkrntxoaY6.mpga",
+     "examples": [
+      {
+       "text": "I think I'll need four or five balls of yarn for the whole sweater.",
+       "audio": "https://assets.app.engoo.com/sounds/13r3kvZ42dsWjIIYsbs4Qn.mpga"
+      }
+     ]
+    },
+    {
+     "word": "crochet",
+     "pos": "Verb",
+     "pron": "krəʊˈʃeɪ",
+     "definition": "to make clothing, decorations, etc. from yarn using a special thick needle with a hook",
+     "ko": "코바늘로 뜨다, 크로셰 뜨개질을 하다",
+     "audio": "https://assets.app.engoo.com/sounds/1ALlOVCtux8oBXmcIVGHg7.mpga",
+     "examples": [
+      {
+       "text": "My grandmother taught me how to crochet when I was ten.",
+       "audio": "https://assets.app.engoo.com/sounds/5pA5UlCypQr3SYoNO7TC1d.mpga"
+      }
+     ]
+    },
+    {
+     "word": "embroider",
+     "pos": "Verb",
+     "pron": "ɛmˈbrɔɪdər",
+     "definition": "to decorate cloth by sewing patterns or pictures onto it with thread",
+     "ko": "수를 놓다",
+     "audio": "https://assets.app.engoo.com/sounds/OJ004oSKuxglfJPXKZPces8yO0SMDH8N8SKHwFTEwgD.mpga",
+     "examples": [
+      {
+       "text": "The cloth is embroidered with threads of real gold.",
+       "audio": "https://assets.app.engoo.com/sounds/wsAL4H32tcDHmbUFgoBF4VgoU4UHFttUI5jxRFo1Vuf.mpga"
+      }
+     ]
+    },
+    {
+     "word": "creation",
+     "pos": "Noun",
+     "pron": "kriˈeɪʃn",
+     "definition": "a thing that has been made or invented",
+     "ko": "창작품, 작품",
+     "audio": "https://assets.app.engoo.com/sounds/02MykCrcwIA1tWkwk1XSin.mpga",
+     "examples": [
+      {
+       "text": "The Harry Potter series is J.K. Rowling's most successful literary creation.",
+       "audio": "https://assets.app.engoo.com/sounds/4OUOoqiwTW4JHwMta8r8ox.mpga"
+      }
+     ]
+    },
+    {
+     "word": "promote",
+     "pos": "Verb",
+     "pron": "prəˈmoʊt",
+     "definition": "to help sell or make people aware of a product, organization, etc.; to help something happen, develop, progress, etc.",
+     "ko": "홍보하다, 촉진하다, 장려하다",
+     "audio": "https://assets.app.engoo.com/sounds/OwiZwwPqHqH36aa4w0FrbX366tj0Bwtn2NPcfOOUn9L.mpga",
+     "examples": [
+      {
+       "text": "To promote their latest album, the band will be going on a seven-month world tour.",
+       "audio": "https://assets.app.engoo.com/sounds/4X4txgFt0y8e9IJGhklD5B.mpga"
+      },
+      {
+       "text": "For over 50 years, Greenpeace has worked to promote awareness of the threats facing the environment.",
+       "audio": "https://assets.app.engoo.com/sounds/2lXuHFJHMj225A9EpCBUMk.mpga"
+      }
+     ]
+    }
+   ],
+   "discussion": [
+    "What are your thoughts on Kate Jenkins' knitted food creations?",
+    "Which of her creations do you find most impressive?",
+    "Have you ever tried knitting or sewing? Would you like to learn?",
+    "Do you know anyone who's managed to turn a hobby into a career?",
+    "Who are some of the most artistic people you know?"
+   ],
+   "furtherDiscussion": [
+    "Would you describe yourself as a creative person?",
+    "Did you learn any creative skills when you were growing up?",
+    "When was the last time you tried learning a new skill? How did it go?",
+    "Have you ever made something by hand that you're really proud of?",
+    "_Creativity takes courage._ — Henri Matisse. What do you make of this quote?"
+   ],
+   "questions": [
+    {
+     "text": "What are your thoughts on Kate Jenkins' knitted food creations?",
+     "section": "Discussion"
+    },
+    {
+     "text": "Have you ever tried knitting or sewing? Would you like to learn?",
+     "section": "Discussion"
+    },
+    {
+     "text": "Would you describe yourself as a creative person?",
+     "section": "Further Discussion"
+    }
+   ]
+  },
+  {
+   "id": "b526fd5a-d9db-11f1-b54c-a393896d4992",
+   "title": "Concerts Are Inspiring Travel Across Asia",
+   "intro": "Explore how concerts, especially K-pop, are motivating international travel across Asia and changing tourism trends among music fans.",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/77xULvELxdod71NyRNgY4J.png",
+   "contentLevel": 6,
+   "level": "intermediate",
+   "publishedAt": "2026-11-11T17:18:13Z",
+   "url": "https://engoo.com/app/daily-news/article/concerts-are-inspiring-travel-across-asia/tSb9WtnbEfG1TKOTiW1Jkg",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7EmTaLVxB9h4SckyXEoeyN.mpga",
+   "paragraphs": [
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Some people choose their vacation destinations for the beaches, food, or famous sights.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2IRSbt4tDf3F6ZqQkmfeqq.mpga"
+      },
+      {
+       "text": "Others choose them based on where their favorite artists are playing.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/78DAQeMXNguhEFCLDGmwjc.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "In July 2026, Trip.com Group and Live Nation Asia surveyed nearly 1,800 concertgoers across six Asian markets: mainland China, Hong Kong, Macao, Singapore, Thailand and South Korea.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0nB2R4CC5X7XGTxpIPx28H.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "According to their new report, 65% said they had traveled to another country or region for a concert.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1uVGHig6zthlZNmQRXhIkK.mpga"
+      },
+      {
+       "text": "And seven in 10 said live music was one of the most exciting reasons to travel.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1F6OHX9LP7799EqtaZDDIQ.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "But fans don't always want to go home the morning after the show — they want to see more of the place they're visiting.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3mQ5SUKGAqxklfXJ5Tag6P.mpga"
+      },
+      {
+       "text": "On average, people said they would ideally like to spend four days at their destination.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3CDRephoJ4uZKepoNnsqIw.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "As for where to stay, 63% said they choose five-star hotels when traveling for concerts.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/45pMRlcFGVfjtKd101R7eF.mpga"
+      },
+      {
+       "text": "And 84% were interested in packages that combine concert tickets with extras such as hotel stays, flights or visits to local attractions.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3XBAyuUYmVpByWgWyhTHM1.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Trip.com Group said its bookings for these packages rose by 64% in the first half of 2026 compared with the same period in 2025.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5LWawRD8dFRNDqmUmX229x.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Two-thirds of people also said being part of a fan community was important for them.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6BmtWHMQEivYZbFtSuTQsh.mpga"
+      },
+      {
+       "text": "For Gen Z fans in particular, sharing their trips on social media was a key part of the experience.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5zwx9CLiT4yFzZtoOsCnj0.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "And K-pop is giving music fans a reason to hit the road.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6UBSLvPcEoKsfgh5HbDNHW.mpga"
+      },
+      {
+       "text": "In Bangkok, for example, the share of concertgoers coming from other countries is nearly twice as high for K-pop shows as for other concerts.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1wrpUAhQhOTJk9NDIP9SF6.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "BTS is scheduled to play three shows in Bangkok in December as part of its \"Arirang\" tour.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1eMb732JDMCRVuvr9WFCYU.mpga"
+      },
+      {
+       "text": "Trip.com says flight bookings to the city jumped by over 440% within three days of its ticket presale — nearly six months before the first show.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3yV5XF80fiyuetvVX1DdTc.mpga"
+      }
+     ]
+    }
+   ],
+   "vocab": [
+    {
+     "word": "mainland",
+     "pos": "Noun",
+     "pron": "ˈmeɪnˌlænd",
+     "definition": "the main area of land of a country ",
+     "ko": "본토",
+     "audio": "https://assets.app.engoo.com/sounds/er4avZioSaFWwTqFE7Vf0KUl8I3QzSLgx6VxhCN36Xq.mpga",
+     "examples": [
+      {
+       "text": "I have only been to mainland Greece, but not the islands.",
+       "audio": "https://assets.app.engoo.com/sounds/1uuzPQO96WR7OXiNaTMa4AqBwO85HBfRjhXAr6vBqgM.mpga"
+      }
+     ]
+    },
+    {
+     "word": "region",
+     "pos": "Noun",
+     "pron": "ˈriːdʒən",
+     "definition": "part of a country or continent",
+     "ko": "부위, 지역, 지방",
+     "audio": "https://assets.app.engoo.com/sounds/W1ilCaanKQhKtMH13hIwXVgnP6vVg314uhDhCUWFm3N.mpga",
+     "examples": [
+      {
+       "text": "Marlborough is one of New Zealand's most famous wine-making regions.",
+       "audio": "https://assets.app.engoo.com/sounds/5bbpLCJMYF8uarXOsalfKl.mpga"
+      }
+     ]
+    },
+    {
+     "word": "package",
+     "pos": "Noun",
+     "pron": "ˈpækɪdʒ",
+     "definition": "a set of things that are offered, provided, etc. together",
+     "ko": "일괄, 패키지",
+     "audio": "https://assets.app.engoo.com/sounds/0Fk3FSgLd1a7OmOi4KXo50.mpga",
+     "examples": [
+      {
+       "text": "This package includes flights to and from Paris and accommodation for five nights.",
+       "audio": "https://assets.app.engoo.com/sounds/6r9OjfDO6HxvoUyomCUTGJ.mpga"
+      }
+     ]
+    },
+    {
+     "word": "experience",
+     "pos": "Noun",
+     "pron": "ɪkˈspɪriəns",
+     "definition": "an event, situation, etc. that influences someone",
+     "ko": "경험",
+     "audio": "https://assets.app.engoo.com/sounds/3rMkDDPtTg0bf1yQ69bMYQ.mpga",
+     "examples": [
+      {
+       "text": "Hiking in the Himalayas was an unforgettable experience.",
+       "audio": "https://assets.app.engoo.com/sounds/3zmMvCI6FARxkGWRy9GhAy.mpga"
+      }
+     ]
+    },
+    {
+     "word": "hit the road",
+     "pos": "Phrase",
+     "pron": "ˌhɪt ðə ˈroʊd",
+     "definition": "to start a journey",
+     "ko": "여행을 떠나다, 여행 길에 오르다, 출발하다",
+     "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5dg1Mg0DY7opeQbBc31z5L.mpga",
+     "examples": [
+      {
+       "text": "We really should hit the road before it gets too dark.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2MnIVjlWXxXEBfPccBS7HW.mpga"
+      }
+     ]
+    },
+    {
+     "word": "presale",
+     "pos": "Noun",
+     "pron": "ˈpriːseɪl",
+     "definition": "an early opportunity to buy something before it is generally available",
+     "ko": "사전 판매",
+     "audio": "https://assets.app.engoo.com/sounds/7CsHDt83B6nPLnFzt17KK2.mpga",
+     "examples": [
+      {
+       "text": "I bought a few tickets in the Rugby World Cup presale.",
+       "audio": "https://assets.app.engoo.com/sounds/07pb0doeQi1J07Ta2HjUyB.mpga"
+      }
+     ]
+    }
+   ],
+   "discussion": [
+    "What are your thoughts on Trip.com and Live Nation Asia's findings?",
+    "Have you ever traveled to another country to attend a concert?",
+    "Do you find it surprising that so many concertgoers choose five-star hotels?",
+    "If you were to travel abroad for a concert, how many extra days would you stay?",
+    "Would you rather book a concert package or plan everything yourself?"
+   ],
+   "furtherDiscussion": [
+    "What's the best concert you've been to?",
+    "Have you ever been disappointed by an artist or band you saw live?",
+    "Have you ever had trouble getting tickets to a concert you wanted to attend?",
+    "Do you know anyone who's a huge fan of K-pop?",
+    "_There is only one better thing than music — live music._ — Jacek Andrzej Bukowski. What do you make of this quote?"
+   ],
+   "questions": [
+    {
+     "text": "What are your thoughts on Trip.com and Live Nation Asia's findings?",
+     "section": "Discussion"
+    },
+    {
+     "text": "If you were to travel abroad for a concert, how many extra days would you stay?",
+     "section": "Discussion"
+    },
+    {
+     "text": "_There is only one better thing than music — live music._ — Jacek Andrzej Bukowski. What do you make of this quote?",
+     "section": "Further Discussion"
+    }
+   ]
+  },
+  {
+   "id": "9cf3744e-ddcc-11f1-9b80-9ff154044573",
+   "title": "Nvidia Investigates CEO's Affair with Alleged Chinese Spy",
+   "intro": "",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/5cPFU9iYXPGTedS7q40V9w.png",
+   "contentLevel": 9,
+   "level": "advanced",
+   "publishedAt": "2026-11-11T17:18:13Z",
+   "url": "https://engoo.com/app/daily-news/article/nvidia-investigates-ceos-affair-with-alleged-chinese-spy/nPN0Tt3MEfGbgJ_xVARFcw",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4VS38FtUxENBYLcweYAF93.mpga",
+   "paragraphs": [
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "US chipmaker Nvidia has launched an investigation into reports that its CEO, Jensen Huang, was targeted by Chinese intelligence after he admitted having an affair with a businesswoman suspected of spying for Beijing.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/75eGhaXGQHBYsc3gSTN1u9.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The company's board announced the investigation on November 8, following reports by _The New York Times_ that US intelligence officials believed the woman was gathering information for China.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2VzCy3jRbAQpPOHgmKzx6J.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "In a letter to employees, Huang, 63, admitted being unfaithful to his wife and apologized to his family and colleagues.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2lxQKX09jvoAwQdPLkRz7M.mpga"
+      },
+      {
+       "text": "He said he took \"full responsibility\" for his actions.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/20Nm3vqfyLaLey9fHzOCZ7.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Nvidia's board said it had \"no reason to believe\" that national security or company secrets had been compromised, but that it would examine all available information.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4IfkkU1xHRWiNkqdIBkjht.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Huang has promised to cooperate fully and will remain CEO during the investigation.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6YSTz31AilZvdItPu78YKa.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "\"I love our country and our company,\" he wrote.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3rUPWTJkMiHXvwxoXHD280.mpga"
+      },
+      {
+       "text": "\"I am committed to protecting Nvidia and supporting America's national security.\"",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6HwXbEe3I8a4SUgODDdHLl.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Nvidia has become a major player in the global race to develop artificial intelligence (AI), with its advanced computer chips powering many AI systems.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0TDa50P3rDrjD5MFEeyRK3.mpga"
+      },
+      {
+       "text": "These chips have also been subject to US export restrictions aimed at limiting China's access to advanced technology.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0A10OrTRh1ZqGLdp60CIKW.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "_The New York Times_ identified the woman as Alice Huang, a Chinese citizen and chip buyer.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3Ezz0bLTfjc06lh2R8ZwgI.mpga"
+      },
+      {
+       "text": "She previously worked as a television reporter in China before becoming a top executive at Singapore-based data center company Megaspeed, which bought more than {{prn:$4.8 billion|four point eight billion dollars}} worth of Nvidia chips over the past two years.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/71HpMZ3ZMWv9P6jQawsDH4.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The company previously faced accusations of helping businesses sidestep US export restrictions.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6F750kOw3VspJYVJvaZ995.mpga"
+      },
+      {
+       "text": "However, Nvidia said its own checks found no illegal activity.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2BxVXYaBBuVLWWmH9wgvze.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The scandal has also led to legal action.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6xc9QTDQqr3jnLLSPqfRJY.mpga"
+      },
+      {
+       "text": "On November 9, a shareholder sued Nvidia and Huang, accusing them of misleading investors about the affair and its possible risks to the business.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4D7LVEv794EgMjk7nKIHV1.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Nvidia shares fell 4.3% that day, wiping about {{prn:$190 billion|one hundred and ninety billion dollars}} off its market value.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2vNwSeA7X6eYXgfV6BQIKX.mpga"
+      },
+      {
+       "text": "They dropped another 5.5% on November 10.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0VnVKNOsFe6jZSiC1hprHU.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Meanwhile, President Donald Trump said the FBI was also looking into the affair, but added that Huang had told him he had no idea the woman could be involved in espionage.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3bOsMnosD131ru3BfPtPxH.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "China has rejected the spying allegations, calling them unsubstantiated.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/70zjEhuKRA2dmXwtGQYMFb.mpga"
+      }
+     ]
+    }
+   ],
+   "vocab": [
+    {
+     "word": "unfaithful",
+     "pos": "Adjective",
+     "pron": "ʌnˈfeɪθfl",
+     "definition": "having romantic relations with a person who is not one's partner",
+     "ko": "부정한, 배신하는",
+     "audio": "https://assets.app.engoo.com/sounds/0TKvXfzNOacEhwn1m7U9h2.mpga",
+     "examples": [
+      {
+       "text": "I can't believe she's still with Jamie after finding out he's been unfaithful.",
+       "audio": "https://assets.app.engoo.com/sounds/0i5zuxgakEzb0YVsjwVROE.mpga"
+      }
+     ]
+    },
+    {
+     "word": "sidestep",
+     "pos": "Verb",
+     "pron": "ˈsaɪdstep",
+     "definition": "to avoid dealing with or discussing a problem",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3fGP0x8nxJdDVo9qTI6Aue.mpga",
+     "examples": [
+      {
+       "text": "The US has accused Chinese exporters of routing goods through other countries to sidestep American tariffs.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5vzjPb8zooTS7a6FQUIltc.mpga"
+      }
+     ]
+    },
+    {
+     "word": "sue",
+     "pos": "Verb",
+     "pron": "suː",
+     "definition": "to take legal action against a person or organization in court",
+     "ko": "고소하다",
+     "audio": "https://assets.app.engoo.com/sounds/wcnq3NLZd3n2YEZl404JTfAlTFy7WxwhaMiUbyzfCcK.mpga",
+     "examples": [
+      {
+       "text": "He sued the company for millions of dollars.",
+       "audio": "https://assets.app.engoo.com/sounds/jd1d8dcRPvmW60UGhmjYstcZNWKqawqolslx7NL7f8V.mpga"
+      }
+     ]
+    },
+    {
+     "word": "mislead",
+     "pos": "Verb",
+     "pron": "mɪsˈliːd",
+     "definition": "to make someone believe something that is not true",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/sounds/Jc1yzlKVh2OAeq2bFcaxFbQVN1qlwrshStH2Bg7Z5gv.mpga",
+     "examples": [
+      {
+       "text": "The prime minister was accused of misleading the public on several key issues ahead of the election.",
+       "audio": "https://assets.app.engoo.com/sounds/7WkUmiMbCCZ3tLIkFu8yl3.mpga"
+      }
+     ]
+    },
+    {
+     "word": "espionage",
+     "pos": "Noun",
+     "pron": "ˈɛspiːəˌnɑːʒ",
+     "definition": "the act of secretly trying to obtain important information",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/sounds/C3Mp8gy9kbCfxP6hSeQizNG7aVwPnfv32MlxTumG405.mpga",
+     "examples": [
+      {
+       "text": "WikiLeaks founder Julian Assange was indicted on espionage charges in 2019.",
+       "audio": "https://assets.app.engoo.com/sounds/02wFj2oum63UOA6kyIHH5I.mpga"
+      }
+     ]
+    },
+    {
+     "word": "unsubstantiated",
+     "pos": "Adjective",
+     "pron": "ˌʌnsəbˈstænʃieɪtɪd",
+     "definition": "not supported by facts or evidence",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/sounds/1CbFXKrRjOvXFOlct3UqKw.mpga",
+     "examples": [
+      {
+       "text": "The company was fined for making unsubstantiated claims in their advertisements.",
+       "audio": "https://assets.app.engoo.com/sounds/7J4HGA45arIYteGwRuqAPj.mpga"
+      }
+     ]
+    }
+   ],
+   "discussion": [
+    "What are your thoughts on the investigation involving Nvidia's CEO?",
+    "Do you think it's likely that the woman was involved in espionage?",
+    "In your opinion, should Jensen Huang resign over the scandal?",
+    "Were you surprised by how much Nvidia's shares fell following the reports?",
+    "Do you think the scandal will have a lasting impact on Nvidia?"
+   ],
+   "furtherDiscussion": [
+    "Have there been any high-profile scandals in your country in recent years?",
+    "Are you concerned by how powerful tech companies have become?",
+    "Is the tech industry an important part of your country's economy?",
+    "What are some of your country's most valuable companies?",
+    "Which companies in your country do you think are the safest to invest in?"
+   ],
+   "questions": [
+    {
+     "text": "What are your thoughts on the investigation involving Nvidia's CEO?",
+     "section": "Discussion"
+    },
+    {
+     "text": "Do you think it's likely that the woman was involved in espionage?",
+     "section": "Discussion"
+    },
+    {
+     "text": "Have there been any high-profile scandals in your country in recent years?",
+     "section": "Further Discussion"
+    }
+   ]
+  },
+  {
+   "id": "52dff67e-d968-11f1-8cf4-bf562c3605a3",
+   "title": "DNA Study Tracks English Language's Ancient Origins",
+   "intro": "Explore the ancient origins of the English language through a new DNA study tracing early migrations and the development of Germanic languages.",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/6TuwWrxYDPxFput6MJjoAS.png",
+   "contentLevel": 8,
+   "level": "advanced",
+   "publishedAt": "2026-11-11T17:18:13Z",
+   "url": "https://engoo.com/app/daily-news/article/dna-study-tracks-english-languages-ancient-origins/Ut_2ftloEfGM9L9WLDYFow",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1PV3X2gA8OPNMa6Fs6Gd8L.mpga",
+   "paragraphs": [
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "It's reasonable to assume that English is from England — and certainly, the language we recognize today spent over {{prn:1,500|one thousand and five hundred}} years developing there.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6zuIGBKOZOI7lkLkoiXwuU.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "However, English is part of a larger Germanic language family that also includes — as the name suggests — German, as well as Swedish, Danish and many other European languages.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5EpFI6tLOMp49V0oVF2cXo.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "English as we know it comes from people called the Anglo-Saxons, who traveled from mainland Europe to Great Britain in the fifth century.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3jkpdSdGQxVkvSkz262xPU.mpga"
+      },
+      {
+       "text": "Over time, their Germanic dialects developed into English.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3s5bWj2YCJejBOemN4T8Yo.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Before the Anglo-Saxons, people across Great Britain spoke Celtic languages, some of which still exist as modern Welsh, Scottish Gaelic and Cornish.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/02kZab3km2XT4oQS4sHsHr.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Now a new study published in _Nature_ has used DNA to better understand how the Germanic languages spread, giving us fresh insight into the ancient origins of English.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4qroFptFKMPGqxgzRvoS9E.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The researchers analyzed DNA from {{prn:4,500|four thousand and five hundred}} ancient European individuals, and used that data to reconstruct how genetic groups migrated.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3CrmQ3iCM3Z9QYJgv4RQEm.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "They compared what they found with cultural evidence like inscriptions, architecture, artifacts and burial styles to infer what languages these groups likely spoke.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2d2fo8q8MdrxRqL0dUg952.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "This research found that the earliest Germanic-language-speaking people migrated from the Baltic region — somewhere between Finland and northeastern Sweden — into Denmark and the south of Sweden around {{prn:4,000|four thousand}} years ago.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6TndhzkPM6kW3vxD7E6XQO.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "This is actually {{prn:1,000|one thousand}} years later than experts had believed.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0FUyomFbm9IsyDDqXl79xj.mpga"
+      },
+      {
+       "text": "But within 500 years, these people's genetics were spread across Scandinavia.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/32VjFHDlQ2r5HwnAwFD9x1.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The study then found that around {{prn:1,650|one thousand six hundred and fifty}} years ago, people from the south of Scandinavia began migrating down to the regions we know today as Germany, Poland and the Netherlands, again bringing their own languages.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0i11unA5C7Tvz8KDYtHIzz.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "As was the case in Great Britain in the fifth century, the languages being replaced were probably Celtic.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5PQaWqgYwlUVbbb1sBieO5.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Migration wasn't just going one way either, and around the same time, people from what is now northern Germany also went to Denmark and Sweden.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0o4WQ0m4ptbk6YETPg9xIM.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "They brought with them Old Norse, which was the language spoken centuries later by the Vikings.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3HOzeQ3V2RsFVwYLFzcmOa.mpga"
+      },
+      {
+       "text": "They were also very genetically close to the Anglo-Saxons, which may explain later cultural similarities between the Vikings and Anglo-Saxon Britain.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4bDMnNiwDq2aWDqoALnIv1.mpga"
+      }
+     ]
+    }
+   ],
+   "vocab": [
+    {
+     "word": "insight",
+     "pos": "Noun",
+     "pron": "ˈɪnˌsaɪt",
+     "definition": "a deep understanding",
+     "ko": "식견, 이해, 통찰력",
+     "audio": "https://assets.app.engoo.com/sounds/s6y7TMaAsUtJnlaXuNJ7fR9QxNMcgMJSwdd1bRGd1Gr.mpga",
+     "examples": [
+      {
+       "text": "Their research has given scientists new insight into how the brain works.",
+       "audio": "https://assets.app.engoo.com/sounds/6KjlOD1i83MHkOBWQBEZYA.mpga"
+      }
+     ]
+    },
+    {
+     "word": "reconstruct",
+     "pos": "Verb",
+     "pron": "ˌriːkənˈstrʌkt",
+     "definition": "to form an impression, idea, etc. of something from available evidence",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/sounds/2DfaW2X9wmxZLIr1Up9dq7.mpga",
+     "examples": [
+      {
+       "text": "Archaeologists studied broken pots, tools, and food scraps to reconstruct daily life in the ancient village.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/33VrUa7tqosVzKnaRTViDG.mpga"
+      }
+     ]
+    },
+    {
+     "word": "inscription",
+     "pos": "Noun",
+     "pron": "ɪnˈskrɪpʃn",
+     "definition": "words written on or cut into something",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/sounds/6lmWA2fBVymkaIbvZOCyK7.mpga",
+     "examples": [
+      {
+       "text": "The inscriptions on the Rosetta Stone helped scholars learn how to read ancient Egyptian hieroglyphs.",
+       "audio": "https://assets.app.engoo.com/sounds/3oDYiJGQNEjkF51St6vJlk.mpga"
+      }
+     ]
+    },
+    {
+     "word": "artifact",
+     "pos": "Noun",
+     "pron": "ˈɑːrtəˌfækt",
+     "definition": "an object made by a person, especially a very long time ago",
+     "ko": "인공유물, 공예품, 유물",
+     "audio": "https://assets.app.engoo.com/sounds/eYz0s0DBFYPJTpNSmZLtdeHT31ifbGG6Q0Rp10atKHE.mpga",
+     "examples": [
+      {
+       "text": "Most of these artifacts are from the 18th century.",
+       "audio": "https://assets.app.engoo.com/sounds/6OXzpKCXOZ2c5v6krwUQku.mpga"
+      }
+     ]
+    },
+    {
+     "word": "infer",
+     "pos": "Verb",
+     "pron": "ɪnˈfər",
+     "definition": "to reach a conclusion through evidence and reasoning rather than from direct statements",
+     "ko": "추론하다",
+     "audio": "https://assets.app.engoo.com/sounds/uS9AQ6NDGRRNfFjUwtaxdDJFau4LONpwUlx72n0TOq7.mpga",
+     "examples": [
+      {
+       "text": "Based on the evidence, we can infer that the suspect was present at the crime scene.",
+       "audio": "https://assets.app.engoo.com/sounds/43DXoEbzwRxINuWkdEmBRM.mpga"
+      }
+     ]
+    },
+    {
+     "word": "migration",
+     "pos": "Noun",
+     "pron": "maɪˈgreɪʃən",
+     "definition": "the movement of a large number of people to a new area or country to live and work",
+     "ko": "이주",
+     "audio": "https://assets.app.engoo.com/sounds/0XdbtXB56jRSo037ejalAm.mpga",
+     "examples": [
+      {
+       "text": "Migration to the United States peaked in the early 1900s.",
+       "audio": "https://assets.app.engoo.com/sounds/3g8fUeq9ldH5YvWWkQBF8S.mpga"
+      }
+     ]
+    }
+   ],
+   "discussion": [
+    "What are your thoughts on the study's findings?",
+    "Do you find it surprising that English has such ancient roots in Scandinavia?",
+    "Would you be interested in hearing what English sounded like 1,000 years ago?",
+    "How often do you notice similarities between English and other languages?",
+    "Do you know much about the history and development of your native language?"
+   ],
+   "furtherDiscussion": [
+    "Do you think English will still be widely spoken 1,000 years from now?",
+    "What foreign languages did you study at school? How well can you speak them?",
+    "Is there a language you wish you'd started learning when you were younger?",
+    "Do you know anyone who seems to pick up new languages effortlessly?",
+    "What English accent do you find most difficult to understand?"
+   ],
+   "questions": [
+    {
+     "text": "What are your thoughts on the study's findings?",
+     "section": "Discussion"
+    },
+    {
+     "text": "How often do you notice similarities between English and other languages?",
+     "section": "Discussion"
+    },
+    {
+     "text": "What foreign languages did you study at school? How well can you speak them?",
+     "section": "Further Discussion"
+    }
+   ]
+  },
   {
    "id": "cfc10f10-d91e-11f1-9089-8f655002d592",
    "title": "Italian Chef Fired for Refusing to Make Pineapple Pizza",
@@ -2992,243 +4277,6 @@
    ]
   },
   {
-   "id": "ed3ff050-c1d7-11f1-95d4-b34057a65d9f",
-   "title": "AI Gives 19% Less Diverse Answers than Web Searches",
-   "intro": "This lesson explores a study comparing how AI chatbots and web searches provide diverse information on a range of debated topics.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/0eezbBC7MJkY2UoI9QCSAL.png",
-   "contentLevel": 7,
-   "level": "advanced",
-   "publishedAt": "2026-11-08T18:00:00Z",
-   "url": "https://engoo.com/app/daily-news/article/ai-gives-19-less-diverse-answers-than-web-searches/7T_wUMHXEfGV1LNAV6Zdnw",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4uRufb7ANXCXbIjwztWv7P.mpga",
-   "paragraphs": [
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "AI can quickly answer questions on any topic, but it might not give us the complete picture.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7bQFfZnYjxDIzsKCitiCLn.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "In fact, research published on _arXiv_ has found that AI actually gives a narrower range of information compared with regular web searches.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5J0t1BluOrnQZLbPVSJjAi.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Researchers tested 27 different large language models (LLMs), which are the systems that AI chatbots run on.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1UTmTAr11fOR5LSkfylNwS.mpga"
-      },
-      {
-       "text": "They asked the LLMs questions about 155 topics, using 200 different prompts for each one based on questions from real users.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2FxU82Ceihs3iLUZpCSTdQ.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Then the researchers compared these responses to the top 40 regular Google search results for each topic.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5iZHGIkebCxEsgysB9NB81.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The study included a wide range of topics that are often subject to debate, such as free speech and democracy.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7KSF0hxPGhBfDyZXiaWntY.mpga"
-      },
-      {
-       "text": "It also included questions on public figures from countries like the US, Russia and Saudi Arabia.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2Y18sTH5bsqcyWVzcD2aiR.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The researchers found that all of the LLMs gave a narrower range of information on each topic than a regular Google search did.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5z4SA7nyqnEngKeICnT9vi.mpga"
-      },
-      {
-       "text": "Google was almost 19% more varied than even the best-performing AI, ChatGPT's GPT-5.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Ot8F1DcFYlAkkVSrAAJIt.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The researchers say this gap is in part due to how LLMs work — they compress huge amounts of text and repeat the most common patterns.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/187T2sIPpJ386kE74wTS2p.mpga"
-      },
-      {
-       "text": "Information that doesn't fit those patterns often gets left out of their answers.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/19AV7DcjQ22SQkymYAsxWr.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Researcher Isabelle Augenstein from the University of Copenhagen explained why this is a problem, saying, \"We risk exposing people to fewer perspectives and a narrower range of knowledge.\"",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4BXIfvdYHJmOBvxQYiHinv.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The issue may get worse if LLMs become increasingly trained on text that's been produced by other AI models, as the researchers believe will happen.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/77U9f2EWz1f9N0NXUpVEus.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "If AI is learning from already less diverse content, the range of information it gives will become narrower and narrower — causing what the researchers call a \"knowledge collapse.\"",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/63m6W3qgl2HrgLUryP05of.mpga"
-      }
-     ]
-    }
-   ],
-   "vocab": [
-    {
-     "word": "debate",
-     "pos": "Noun",
-     "pron": "dɪˈbeɪt",
-     "definition": "a formal discussion in which different opinions are presented; an argument about a particular topic involving many people",
-     "ko": "토론, 논의, 논쟁",
-     "audio": "https://assets.app.engoo.com/sounds/OtaLKjXIbUVbe0uUKXlyeiG7DBX8CffOZfloW6mLZ4M.mpga",
-     "examples": [
-      {
-       "text": "During the debate, the leader of the opposition argued for increased education funding.",
-       "audio": "https://assets.app.engoo.com/sounds/22lmyTa9AciZhTiTABwuTH.mpga"
-      },
-      {
-       "text": "The debate over gun control has intensified after the recent shooting.",
-       "audio": "https://assets.app.engoo.com/sounds/42UmKaZQkzFrh55VYOAg0G.mpga"
-      }
-     ]
-    },
-    {
-     "word": "compress",
-     "pos": "Verb",
-     "pron": "kəmˈprɛs",
-     "definition": "to express something in a shorter or more condensed form",
-     "ko": "",
-     "audio": "https://assets.app.engoo.com/sounds/4QN2WMUXdkk0Bx3DMiMrmh.mpga",
-     "examples": [
-      {
-       "text": "To save space on your computer, you can compress large files into zip folders.",
-       "audio": "https://assets.app.engoo.com/sounds/53ADzvG0UU1ltscWPHPJg2.mpga"
-      }
-     ]
-    },
-    {
-     "word": "expose",
-     "pos": "Verb",
-     "pron": "ɪkˈspoʊz",
-     "definition": "to introduce a person to a subject, area of knowledge, etc.",
-     "ko": "경험하게 하다, 받게 하다, 노출시키다",
-     "audio": "https://assets.app.engoo.com/sounds/1YYJXmYpgnJVBO6jJs9orpHAzNgxFJ2qHQEiDu5sTle.mpga",
-     "examples": [
-      {
-       "text": "There is no evidence that exposing babies to classical music makes them more intelligent.",
-       "audio": "https://assets.app.engoo.com/sounds/0qdmlg1rVVYP68lyAlWEcM.mpga"
-      }
-     ]
-    },
-    {
-     "word": "perspective",
-     "pos": "Noun",
-     "pron": "pərˈspɛktɪv",
-     "definition": "a particular way of thinking about or attitude towards something",
-     "ko": "관점",
-     "audio": "https://assets.app.engoo.com/sounds/y1DbtqGaGLGpCCKVP43RAUGu3DnkzCpVeitnBfWRfhS.mpga",
-     "examples": [
-      {
-       "text": "I hadn't considered that perspective before.",
-       "audio": "https://assets.app.engoo.com/sounds/6MUaihkYa5N4yRZmf1by0O.mpga"
-      }
-     ]
-    },
-    {
-     "word": "diverse",
-     "pos": "Adjective",
-     "pron": "daɪˈvɜrs",
-     "definition": "including many people, cultures, things, etc. that are different from one another",
-     "ko": "다양한",
-     "audio": "https://assets.app.engoo.com/sounds/pP5OZob6HmeBn9ugr0vOBwVHFZNTcCXYf3EjvpGhMlX.mpga",
-     "examples": [
-      {
-       "text": "The UAE is working to make its economy more diverse, relying less on things like oil and gas.",
-       "audio": "https://assets.app.engoo.com/sounds/4X5bX3950GBqyZsWnzQDSh.mpga"
-      }
-     ]
-    },
-    {
-     "word": "collapse",
-     "pos": "Noun",
-     "pron": "kəˈlæps",
-     "definition": "a sudden and complete failure",
-     "ko": "붕괴",
-     "audio": "https://assets.app.engoo.com/sounds/5Iv92cGLWpzMD8JS8gbThNjTZafsuhPPd1c4Ha75JQj.mpga",
-     "examples": [
-      {
-       "text": "The documentary offers insight into the events that led to the collapse of the Soviet Union in 1991.",
-       "audio": "https://assets.app.engoo.com/sounds/2akcLbHzu34tSfVgAJrt5k.mpga"
-      }
-     ]
-    }
-   ],
-   "discussion": [
-    "What do you make of the study's findings?",
-    "Do you tend to rely on AI more than search engines these days?",
-    "How often do you get wrong or confusing answers from AI?",
-    "What are your main concerns about people becoming more reliant on chatbots?",
-    "What are your biggest concerns or fears when it comes to AI?"
-   ],
-   "furtherDiscussion": [
-    "How much have you come to rely on AI in your day-to-day life?",
-    "What was your first impression of AI? How has it changed since then?",
-    "Has AI had as big an impact as you expected it to?",
-    "Are there any tasks you wish AI could do better?",
-    "How do you feel about the rate at which AI is advancing?"
-   ],
-   "questions": [
-    {
-     "text": "What are your main concerns about people becoming more reliant on chatbots?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What are your biggest concerns or fears when it comes to AI?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What was your first impression of AI? How has it changed since then?",
-     "section": "Further Discussion"
-    }
-   ]
-  },
-  {
    "id": "8bcd1ad2-d8f7-11f1-bfce-1365af427d4c",
    "title": "Healthier Salt Could Save Millions of Lives",
    "intro": "This lesson explores how replacing regular salt with potassium-enriched salt could reduce deaths and diseases linked to high sodium intake worldwide.",
@@ -3461,6 +4509,243 @@
     },
     {
      "text": "Do you think healthy eating is a bigger challenge now than it was in the past?",
+     "section": "Further Discussion"
+    }
+   ]
+  },
+  {
+   "id": "ed3ff050-c1d7-11f1-95d4-b34057a65d9f",
+   "title": "AI Gives 19% Less Diverse Answers than Web Searches",
+   "intro": "This lesson explores a study comparing how AI chatbots and web searches provide diverse information on a range of debated topics.",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/0eezbBC7MJkY2UoI9QCSAL.png",
+   "contentLevel": 7,
+   "level": "advanced",
+   "publishedAt": "2026-11-08T18:00:00Z",
+   "url": "https://engoo.com/app/daily-news/article/ai-gives-19-less-diverse-answers-than-web-searches/7T_wUMHXEfGV1LNAV6Zdnw",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4uRufb7ANXCXbIjwztWv7P.mpga",
+   "paragraphs": [
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "AI can quickly answer questions on any topic, but it might not give us the complete picture.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7bQFfZnYjxDIzsKCitiCLn.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "In fact, research published on _arXiv_ has found that AI actually gives a narrower range of information compared with regular web searches.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5J0t1BluOrnQZLbPVSJjAi.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Researchers tested 27 different large language models (LLMs), which are the systems that AI chatbots run on.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1UTmTAr11fOR5LSkfylNwS.mpga"
+      },
+      {
+       "text": "They asked the LLMs questions about 155 topics, using 200 different prompts for each one based on questions from real users.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2FxU82Ceihs3iLUZpCSTdQ.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Then the researchers compared these responses to the top 40 regular Google search results for each topic.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5iZHGIkebCxEsgysB9NB81.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The study included a wide range of topics that are often subject to debate, such as free speech and democracy.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7KSF0hxPGhBfDyZXiaWntY.mpga"
+      },
+      {
+       "text": "It also included questions on public figures from countries like the US, Russia and Saudi Arabia.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2Y18sTH5bsqcyWVzcD2aiR.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The researchers found that all of the LLMs gave a narrower range of information on each topic than a regular Google search did.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5z4SA7nyqnEngKeICnT9vi.mpga"
+      },
+      {
+       "text": "Google was almost 19% more varied than even the best-performing AI, ChatGPT's GPT-5.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Ot8F1DcFYlAkkVSrAAJIt.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The researchers say this gap is in part due to how LLMs work — they compress huge amounts of text and repeat the most common patterns.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/187T2sIPpJ386kE74wTS2p.mpga"
+      },
+      {
+       "text": "Information that doesn't fit those patterns often gets left out of their answers.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/19AV7DcjQ22SQkymYAsxWr.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Researcher Isabelle Augenstein from the University of Copenhagen explained why this is a problem, saying, \"We risk exposing people to fewer perspectives and a narrower range of knowledge.\"",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4BXIfvdYHJmOBvxQYiHinv.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The issue may get worse if LLMs become increasingly trained on text that's been produced by other AI models, as the researchers believe will happen.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/77U9f2EWz1f9N0NXUpVEus.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "If AI is learning from already less diverse content, the range of information it gives will become narrower and narrower — causing what the researchers call a \"knowledge collapse.\"",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/63m6W3qgl2HrgLUryP05of.mpga"
+      }
+     ]
+    }
+   ],
+   "vocab": [
+    {
+     "word": "debate",
+     "pos": "Noun",
+     "pron": "dɪˈbeɪt",
+     "definition": "a formal discussion in which different opinions are presented; an argument about a particular topic involving many people",
+     "ko": "토론, 논의, 논쟁",
+     "audio": "https://assets.app.engoo.com/sounds/OtaLKjXIbUVbe0uUKXlyeiG7DBX8CffOZfloW6mLZ4M.mpga",
+     "examples": [
+      {
+       "text": "During the debate, the leader of the opposition argued for increased education funding.",
+       "audio": "https://assets.app.engoo.com/sounds/22lmyTa9AciZhTiTABwuTH.mpga"
+      },
+      {
+       "text": "The debate over gun control has intensified after the recent shooting.",
+       "audio": "https://assets.app.engoo.com/sounds/42UmKaZQkzFrh55VYOAg0G.mpga"
+      }
+     ]
+    },
+    {
+     "word": "compress",
+     "pos": "Verb",
+     "pron": "kəmˈprɛs",
+     "definition": "to express something in a shorter or more condensed form",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/sounds/4QN2WMUXdkk0Bx3DMiMrmh.mpga",
+     "examples": [
+      {
+       "text": "To save space on your computer, you can compress large files into zip folders.",
+       "audio": "https://assets.app.engoo.com/sounds/53ADzvG0UU1ltscWPHPJg2.mpga"
+      }
+     ]
+    },
+    {
+     "word": "expose",
+     "pos": "Verb",
+     "pron": "ɪkˈspoʊz",
+     "definition": "to introduce a person to a subject, area of knowledge, etc.",
+     "ko": "경험하게 하다, 받게 하다, 노출시키다",
+     "audio": "https://assets.app.engoo.com/sounds/1YYJXmYpgnJVBO6jJs9orpHAzNgxFJ2qHQEiDu5sTle.mpga",
+     "examples": [
+      {
+       "text": "There is no evidence that exposing babies to classical music makes them more intelligent.",
+       "audio": "https://assets.app.engoo.com/sounds/0qdmlg1rVVYP68lyAlWEcM.mpga"
+      }
+     ]
+    },
+    {
+     "word": "perspective",
+     "pos": "Noun",
+     "pron": "pərˈspɛktɪv",
+     "definition": "a particular way of thinking about or attitude towards something",
+     "ko": "관점",
+     "audio": "https://assets.app.engoo.com/sounds/y1DbtqGaGLGpCCKVP43RAUGu3DnkzCpVeitnBfWRfhS.mpga",
+     "examples": [
+      {
+       "text": "I hadn't considered that perspective before.",
+       "audio": "https://assets.app.engoo.com/sounds/6MUaihkYa5N4yRZmf1by0O.mpga"
+      }
+     ]
+    },
+    {
+     "word": "diverse",
+     "pos": "Adjective",
+     "pron": "daɪˈvɜrs",
+     "definition": "including many people, cultures, things, etc. that are different from one another",
+     "ko": "다양한",
+     "audio": "https://assets.app.engoo.com/sounds/pP5OZob6HmeBn9ugr0vOBwVHFZNTcCXYf3EjvpGhMlX.mpga",
+     "examples": [
+      {
+       "text": "The UAE is working to make its economy more diverse, relying less on things like oil and gas.",
+       "audio": "https://assets.app.engoo.com/sounds/4X5bX3950GBqyZsWnzQDSh.mpga"
+      }
+     ]
+    },
+    {
+     "word": "collapse",
+     "pos": "Noun",
+     "pron": "kəˈlæps",
+     "definition": "a sudden and complete failure",
+     "ko": "붕괴",
+     "audio": "https://assets.app.engoo.com/sounds/5Iv92cGLWpzMD8JS8gbThNjTZafsuhPPd1c4Ha75JQj.mpga",
+     "examples": [
+      {
+       "text": "The documentary offers insight into the events that led to the collapse of the Soviet Union in 1991.",
+       "audio": "https://assets.app.engoo.com/sounds/2akcLbHzu34tSfVgAJrt5k.mpga"
+      }
+     ]
+    }
+   ],
+   "discussion": [
+    "What do you make of the study's findings?",
+    "Do you tend to rely on AI more than search engines these days?",
+    "How often do you get wrong or confusing answers from AI?",
+    "What are your main concerns about people becoming more reliant on chatbots?",
+    "What are your biggest concerns or fears when it comes to AI?"
+   ],
+   "furtherDiscussion": [
+    "How much have you come to rely on AI in your day-to-day life?",
+    "What was your first impression of AI? How has it changed since then?",
+    "Has AI had as big an impact as you expected it to?",
+    "Are there any tasks you wish AI could do better?",
+    "How do you feel about the rate at which AI is advancing?"
+   ],
+   "questions": [
+    {
+     "text": "What are your main concerns about people becoming more reliant on chatbots?",
+     "section": "Discussion"
+    },
+    {
+     "text": "What are your biggest concerns or fears when it comes to AI?",
+     "section": "Discussion"
+    },
+    {
+     "text": "What was your first impression of AI? How has it changed since then?",
      "section": "Further Discussion"
     }
    ]
@@ -4161,463 +5446,6 @@
    ]
   },
   {
-   "id": "0b68eab0-d3e8-11f1-b95b-effce6918527",
-   "title": "China's Workers Now Support More Elderly than Children",
-   "intro": "Explore China’s rising elderly population, changing dependency ratios, and the social and economic effects of an aging society.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/5d3oSRauFDGP9mZ042pJ3U.png",
-   "contentLevel": 8,
-   "level": "advanced",
-   "publishedAt": "2026-11-07T18:00:00Z",
-   "url": "https://engoo.com/app/daily-news/article/chinas-workers-now-support-more-elderly-than-children/C2jqsNPoEfG5W-_85pGFJw",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1JCuZdjN3gqkYTrIMVtwGL.mpga",
-   "paragraphs": [
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Newly released data from China's National Bureau of Statistics has shown that, in 2025, for the first time, the country's old-age dependency ratio surpassed its child dependency ratio.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7JMnO90ZRX4yxedZgz9MOB.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The old-age and child dependency ratios are used to estimate the burden placed on a country's working-age population by those too old or too young to work.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2i0x7DiWWA1ejlaqzFxIEv.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The old-age dependency ratio takes the number of people aged 65 and above and compares it to the number of people of working age — here defined as those aged 15 to 64.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7dla92ZVXIXqz5QxsKUCfB.mpga"
-      },
-      {
-       "text": "Meanwhile, the child dependency ratio compares the number of children 14 and younger to the working-age population.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0eYENYjrfhjeJ1sbJOmeCX.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The higher the ratio, the more old or young people are, theoretically, being supported by the working population — though these figures don't actually count who is working and who is not.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6QNfr1WcCGMO5vimDH5xFQ.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "China's old-age dependency ratio has been rising for some time, going from 15% in 2016 to 21% in 2021.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2DQ1viI0R8VxkxxnYmq4wH.mpga"
-      },
-      {
-       "text": "And in 2025, it rose to 23%, while the child dependency ratio was 22%.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7XQC7szlrWoHQrZmSCW2IM.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "It's the latest indicator of China's aging population and the economic impacts that may accompany it.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5Kbc2QTGQ8uMmsKbbCcVLm.mpga"
-      },
-      {
-       "text": "It was already estimated that there were more elderly people than children in China for the first time in November 2025.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1CPL7WKNWIOwzH2qNheeqs.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "While China's aging population has been precipitated by a variety of factors, one major cause was the country's one-child policy, which limited most families to having just one child.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3idLSBYbdLXMqR33aWVRz9.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "This limit was in place between 1980 and 2015, and while it played a big part in reining in population growth, it also resulted in there now being fewer young people to support the growing elderly population.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6GqP786Crajw2DBs4U7XYc.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Now, although the one-child limit has been removed, higher living costs and changing expectations for men and women's roles in society mean the country's birth rate has continued to fall.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5my0K2gNBU7t9cF5eQXeDH.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Experts warn that China's aging population could limit the country's economic growth, and force the government to spend more on pensions and long-term healthcare while spending less on families and education.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5426HCzXLZflygMGsD8ITq.mpga"
-      }
-     ]
-    }
-   ],
-   "vocab": [
-    {
-     "word": "dependency",
-     "pos": "Noun",
-     "pron": "dɪˈpɛndənsiː",
-     "definition": "the state of being controlled by or relying on someone or something",
-     "ko": "의존, 종속",
-     "audio": "https://assets.app.engoo.com/sounds/aBXLbCV4d5VGzfynaRZcqB7io98PO8ED0IfYzixctGM.mpga",
-     "examples": [
-      {
-       "text": "Saudi Arabia is attempting to diversify its economy and reduce its dependency on oil.",
-       "audio": "https://assets.app.engoo.com/sounds/2V60nSBo6Kd2QKk7TkqEDN.mpga"
-      }
-     ]
-    },
-    {
-     "word": "burden",
-     "pos": "Noun",
-     "pron": "ˈbɜrdən",
-     "definition": "a duty or misfortune that causes worry, stress, etc.",
-     "ko": "짐, 부담",
-     "audio": "https://assets.app.engoo.com/sounds/w1iFz8QXi9ZmjtJsMuYRaFxPm6JaujQLmT78RcrNu0Q.mpga",
-     "examples": [
-      {
-       "text": "The high cost of college tuition places a huge burden on students from poor families.",
-       "audio": "https://assets.app.engoo.com/sounds/0Ek98Ob50yUQ2yaC7Ay1HM.mpga"
-      }
-     ]
-    },
-    {
-     "word": "theoretically",
-     "pos": "Adverb",
-     "pron": "ˌθiːəˈretɪkli",
-     "definition": "according to ideas or theories",
-     "ko": "",
-     "audio": "https://assets.app.engoo.com/sounds/1DPLP36VAz3k7XDB7C557B.mpga",
-     "examples": [
-      {
-       "text": "The scenario you're imagining is theoretically possible, but highly unlikely.",
-       "audio": "https://assets.app.engoo.com/sounds/1geAAL33Jb3KKc6t9XkhUr.mpga"
-      }
-     ]
-    },
-    {
-     "word": "indicator",
-     "pos": "Noun",
-     "pron": "ˈɪndəˌkeɪtər",
-     "definition": "something that shows the state, level, etc. of something",
-     "ko": "지표",
-     "audio": "https://assets.app.engoo.com/sounds/avJhZQ67kEarkuhvXnkSBBLKNkoUME8l1tCpSrdB63X.mpga",
-     "examples": [
-      {
-       "text": "The unemployment rate is a good indicator of the strength of a country's economy.",
-       "audio": "https://assets.app.engoo.com/sounds/2BdOjcNb47Vpe7doIXVRrP.mpga"
-      }
-     ]
-    },
-    {
-     "word": "precipitate",
-     "pos": "Verb",
-     "pron": "prɪˈsɪpɪteɪt",
-     "definition": "to cause an event or situation to happen suddenly or unexpectedly",
-     "ko": "",
-     "audio": "https://assets.app.engoo.com/sounds/5fSJ5GcPTfZUl2bo52tOuT.mpga",
-     "examples": [
-      {
-       "text": "The documentary explores the events that precipitated the Vietnam War.",
-       "audio": "https://assets.app.engoo.com/sounds/2kqBywXp47V7eOIOYZjp2Y.mpga"
-      }
-     ]
-    },
-    {
-     "word": "rein",
-     "pos": "Verb",
-     "pron": "reɪn",
-     "definition": "to keep something under control",
-     "ko": "",
-     "audio": "https://assets.app.engoo.com/sounds/28qjNnwi6nBLzeGSrSoUQZ.mpga",
-     "examples": [
-      {
-       "text": "The government introduced new regulations to rein in soaring housing prices.",
-       "audio": "https://assets.app.engoo.com/sounds/3HsFZqcCv83BPPYhr0iaa7.mpga"
-      }
-     ]
-    }
-   ],
-   "discussion": [
-    "What are your thoughts on China's growing old-age dependency ratio?",
-    "Do you think China's old-age dependency ratio will continue to rise?",
-    "Is your country facing demographic challenges similar to those in China?",
-    "What do you think are the main challenges associated with an aging population?",
-    "How do you think the issue of declining birthrates and aging populations can be solved or addressed?"
-   ],
-   "furtherDiscussion": [
-    "Are people increasingly working past retirement age in your country?",
-    "Do you expect the retirement age in your country to be raised?",
-    "Are people starting families later in life these days in your country?",
-    "How have expectations around men and women's roles in society changed in your country in recent decades?",
-    "What are your biggest worries about the economic future of your country?"
-   ],
-   "questions": [
-    {
-     "text": "How do you think the issue of declining birthrates and aging populations can be solved or addressed?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What do you think are the main challenges associated with an aging population?",
-     "section": "Discussion"
-    },
-    {
-     "text": "How have expectations around men and women's roles in society changed in your country in recent decades?",
-     "section": "Further Discussion"
-    }
-   ]
-  },
-  {
-   "id": "cef3da9a-d3fb-11f1-9888-1b5db79dfa2d",
-   "title": "4 in 10 UK Teens Want More Work Experience at School",
-   "intro": "This lesson explores a survey of UK teens who want more work experience, financial skills, and job guidance at school.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/4qTCDZTweRgAKTnHL18dXf.png",
-   "contentLevel": 6,
-   "level": "intermediate",
-   "publishedAt": "2026-11-06T18:00:00Z",
-   "url": "https://engoo.com/app/daily-news/article/4-in-10-uk-teens-want-more-work-experience-at-school/zvPamtP7EfGYiBtdt536LQ",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0afKpyg162EE26PSI3SvmV.mpga",
-   "paragraphs": [
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "More than 40% of UK teenagers want more opportunities for work experience at school, with a similar percentage asking for more guidance on how to apply for jobs, a survey done for the _BBC_ has found.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5inV2XPEn6T8DBkwZuAf7X.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The online survey included 2,000 young people aged 13 to 18.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7M2UdQYSCbyEdenzBko6KW.mpga"
-      },
-      {
-       "text": "They were asked for their thoughts on how school can better prepare them for employment and adult life.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/05E2MW9JVCD2DrM4iNW0jX.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Along with the 44% who said they would like more work experience opportunities in school, 43% also said they would like to learn how to manage their finances.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/20YrhA35sGNaNmmpybOC9K.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Forty-two percent said they want more guidance on how to apply for jobs, and 39% said they want to learn more about managing stress and mental health.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2NmNZEvKTa8iPqQli4l2EP.mpga"
-      },
-      {
-       "text": "Thirty-eight percent also said they'd like help improving their communication skills.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4o8zKaD5EjmDo38AEw6d98.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The survey was done as part of this year's Teen Summit event, which was hosted at Newcastle College — a secondary school — where students were given a chance to talk more about their thoughts and experiences.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5J6l5xs3zwEOHhsEcW6SZR.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Many students at the event talked about their worries about money.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2Ie80SS86izevk5acPM2MK.mpga"
-      },
-      {
-       "text": "For example, Ella, whose second name was not shared, talked about how expensive it is to go to university, with students needing to pay around $13,000.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1tu19j7XNKX02tUr64ym5N.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "She added that even her entrance exam cost about $100.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1QLmRls6uqD4syt9K0k7PW.mpga"
-      },
-      {
-       "text": "\"I have to get a job because I can't afford all of this,\" she said.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/37BC1rlZMyOpC9BAJ34tJS.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Speaking about the event, Newcastle College student Elliot Smith said, \"It was a really great experience hearing from people my own age about the challenges they're facing.\"",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4Eb7zUKXheqKELF5iAIBEU.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "He also said he liked having the chance to share his own thoughts.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3ckoxhPexsn0sVwzXtaFBZ.mpga"
-      }
-     ]
-    }
-   ],
-   "vocab": [
-    {
-     "word": "opportunity",
-     "pos": "Noun",
-     "pron": "ˌɑːpərˈtuːnətiː",
-     "definition": "a time or situation that makes it possible to do something ",
-     "ko": "기회",
-     "audio": "https://assets.app.engoo.com/sounds/KSqjMXMWbrY7WaPAfUqhgCmu5SUE0HkeJcjLDreByIU.mpga",
-     "examples": [
-      {
-       "text": "I'm very grateful for this opportunity, and I can't wait to start!",
-       "audio": "https://assets.app.engoo.com/sounds/7ZPCqYQfRsGwWtb3KEJOlN.mpga"
-      }
-     ]
-    },
-    {
-     "word": "experience",
-     "pos": "Noun",
-     "pron": "ɪkˈspiːriːəns",
-     "definition": "knowledge and skill that has been gained by doing something for a period of time",
-     "ko": "경험, 경력",
-     "audio": "https://assets.app.engoo.com/sounds/9KHjMIiR8lkYaCrtUW064bJdJPw76wrVlpJ05bckVtQ.mpga",
-     "examples": [
-      {
-       "text": "Do you have any experience working with children?",
-       "audio": "https://assets.app.engoo.com/sounds/1FD5eoi3oCx70iz3SmaElr.mpga"
-      }
-     ]
-    },
-    {
-     "word": "guidance",
-     "pos": "Noun",
-     "pron": "ˈgaɪdns",
-     "definition": "help or information about how to do or deal with something",
-     "ko": "지도, 안내, 길잡이, 지시",
-     "audio": "https://assets.app.engoo.com/sounds/BsraBifiefeXEfrEYL2zVOLyNwA1y6bE1Aj2SYVIcXF.mpga",
-     "examples": [
-      {
-       "text": "The article offers step-by-step guidance on how to write a perfect cover letter.",
-       "audio": "https://assets.app.engoo.com/sounds/0fxAs0bCfqCjfEswRgqzxB.mpga"
-      }
-     ]
-    },
-    {
-     "word": "manage",
-     "pos": "Verb",
-     "pron": "ˈmænɪdʒ",
-     "definition": "to use money, time, etc. in a responsible way",
-     "ko": "관리하다",
-     "audio": "https://assets.app.engoo.com/sounds/6zvB1zW3sfuXsNWrT3TekIYUbE5KwhIkaXFynZ3HpSB.mpga",
-     "examples": [
-      {
-       "text": "I need to learn how to manage my time more efficiently because I struggle to meet deadlines.",
-       "audio": "https://assets.app.engoo.com/sounds/1CuwiwAKgQ886xsUYev9vU.mpga"
-      }
-     ]
-    },
-    {
-     "word": "skill",
-     "pos": "Noun",
-     "pron": "skɪl",
-     "definition": "the ability to do an action, task, etc. well; a particular ability",
-     "ko": "기술, 능력, 기량, 실력",
-     "audio": "https://assets.app.engoo.com/sounds/5AVtdHXXoaLFhs8sgZnlgp5CVyBGc02ikReyhka6N2t.mpga",
-     "examples": [
-      {
-       "text": "Surfing big waves requires a lot of skill.",
-       "audio": "https://assets.app.engoo.com/sounds/1Wk8Ho4ehsG29nyNJnapIf.mpga"
-      },
-      {
-       "text": "Your son's writing skills have really improved this year.",
-       "audio": "https://assets.app.engoo.com/sounds/1tNEIqxcC3HmoKjG2DIWcK.mpga"
-      }
-     ]
-    },
-    {
-     "word": "challenge",
-     "pos": "Noun",
-     "pron": "ˈtʃælɪndʒ",
-     "definition": "a task or situation that is very difficult or requires a lot of skill",
-     "ko": "도전",
-     "audio": "https://assets.app.engoo.com/sounds/AWKfLla7jf9ZCUpkiIiX5xN5FQTJfXlSZDbMwr6x4uB.mpga",
-     "examples": [
-      {
-       "text": "Getting my driver's license turned out to be a bigger challenge than I expected.",
-       "audio": "https://assets.app.engoo.com/sounds/7J5UJWvM1eqOZQj78jppw8.mpga"
-      }
-     ]
-    }
-   ],
-   "discussion": [
-    "What are your thoughts on the survey's findings?",
-    "Do you think schools offer enough opportunities for work experience?",
-    "Do you think schools should teach financial management?",
-    "Do you think schools should offer guidance on how to apply for jobs?",
-    "Who do you think should be responsible for teaching young people about managing stress and mental health?"
-   ],
-   "furtherDiscussion": [
-    "What do you think are the biggest challenges young people in your country are facing currently?",
-    "Do you think your high school education prepared you for the real world?",
-    "What sort of career advice did you get when you were in high school?",
-    "Do most people in your country go straight to university after high school?",
-    "Do you think going to university has become too expensive?"
-   ],
-   "questions": [
-    {
-     "text": "What are your thoughts on the survey's findings?",
-     "section": "Discussion"
-    },
-    {
-     "text": "Who do you think should be responsible for teaching young people about managing stress and mental health?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What do you think are the biggest challenges young people in your country are facing currently?",
-     "section": "Further Discussion"
-    }
-   ]
-  },
-  {
    "id": "0e1e3128-d79b-11f1-a0ee-f77fdbc2865e",
    "title": "Special Suits Could Make Japan's Castles More Accessible",
    "intro": "Explore how special suits are helping make Japan's historic castles more accessible for wheelchair users and visitors.",
@@ -4882,34 +5710,79 @@
    ]
   },
   {
-   "id": "3ef21cb6-d489-11f1-bcc0-df3433fb6ee5",
-   "title": "KDDI Plans Drone Deliveries for Lawson Products",
-   "intro": "Explore Japan's plans to use drones for delivering Lawson convenience store products and the impact on daily life, logistics, and disaster relief.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/4Rcs3FLI0Nww3PNGsl5RLs.png",
-   "contentLevel": 7,
-   "level": "advanced",
+   "id": "cef3da9a-d3fb-11f1-9888-1b5db79dfa2d",
+   "title": "4 in 10 UK Teens Want More Work Experience at School",
+   "intro": "This lesson explores a survey of UK teens who want more work experience, financial skills, and job guidance at school.",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/4qTCDZTweRgAKTnHL18dXf.png",
+   "contentLevel": 6,
+   "level": "intermediate",
    "publishedAt": "2026-11-06T18:00:00Z",
-   "url": "https://engoo.com/app/daily-news/article/kddi-plans-drone-deliveries-for-lawson-products/PvIcttSJEfG8wN80M_tu5Q",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/05fs3GeNib18acp0kFTKXa.mpga",
+   "url": "https://engoo.com/app/daily-news/article/4-in-10-uk-teens-want-more-work-experience-at-school/zvPamtP7EfGYiBtdt536LQ",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0afKpyg162EE26PSI3SvmV.mpga",
    "paragraphs": [
     {
      "heading": "",
      "sentences": [
       {
-       "text": "What's that in the sky?",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4DDyxVAKECEAOzu39yPN7T.mpga"
+       "text": "More than 40% of UK teenagers want more opportunities for work experience at school, with a similar percentage asking for more guidance on how to apply for jobs, a survey done for the _BBC_ has found.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5inV2XPEn6T8DBkwZuAf7X.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The online survey included 2,000 young people aged 13 to 18.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7M2UdQYSCbyEdenzBko6KW.mpga"
       },
       {
-       "text": "Is it a bird?",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5x4Kxq1jATLJo3zFg2SCXU.mpga"
+       "text": "They were asked for their thoughts on how school can better prepare them for employment and adult life.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/05E2MW9JVCD2DrM4iNW0jX.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Along with the 44% who said they would like more work experience opportunities in school, 43% also said they would like to learn how to manage their finances.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/20YrhA35sGNaNmmpybOC9K.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Forty-two percent said they want more guidance on how to apply for jobs, and 39% said they want to learn more about managing stress and mental health.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2NmNZEvKTa8iPqQli4l2EP.mpga"
       },
       {
-       "text": "Is it a plane?",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2wYy4wyoupwckGLrOERPCA.mpga"
+       "text": "Thirty-eight percent also said they'd like help improving their communication skills.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4o8zKaD5EjmDo38AEw6d98.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The survey was done as part of this year's Teen Summit event, which was hosted at Newcastle College — a secondary school — where students were given a chance to talk more about their thoughts and experiences.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5J6l5xs3zwEOHhsEcW6SZR.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Many students at the event talked about their worries about money.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2Ie80SS86izevk5acPM2MK.mpga"
       },
       {
-       "text": "No, it's your grocery delivery!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6jxZf2UTB5WhmplNcEC9sh.mpga"
+       "text": "For example, Ella, whose second name was not shared, talked about how expensive it is to go to university, with students needing to pay around $13,000.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1tu19j7XNKX02tUr64ym5N.mpga"
       }
      ]
     },
@@ -4917,39 +5790,12 @@
      "heading": "",
      "sentences": [
       {
-       "text": "Starting in 2027, food and everyday essentials could be flying through the skies above Japan, with customers in some parts of the country getting their orders delivered by drone.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4xyE1O6n7sEnkzpmapehC6.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "And products from Lawson convenience stores could be among the items making the journey.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/14JxNM6apLjRmVbO2BLdPa.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Japanese telecommunications company KDDI and its drone business, KDDI Smart Drone, have announced that they will be working with Wing, an American drone delivery company owned by Google's parent company, Alphabet.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2SEgpMSGPea8nTzRlqJc6l.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The companies announced their plans at the end of October.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3Kqru31hR9QiDBmM4ChOj7.mpga"
+       "text": "She added that even her entrance exam cost about $100.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1QLmRls6uqD4syt9K0k7PW.mpga"
       },
       {
-       "text": "They hope to start the service in some areas of Japan next year, before expanding to more locations.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/00tIb8b8ahyWYWhyWGJ6c6.mpga"
+       "text": "\"I have to get a job because I can't afford all of this,\" she said.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/37BC1rlZMyOpC9BAJ34tJS.mpga"
       }
      ]
     },
@@ -4957,12 +5803,8 @@
      "heading": "",
      "sentences": [
       {
-       "text": "The service could be especially useful for people who find it difficult to visit shops.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6WHb6Y5WVHCX8Qv2FU6jL2.mpga"
-      },
-      {
-       "text": "In Japan, around 9 million people have trouble buying groceries because their age makes it difficult to get around, or due to a lack of nearby stores.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/60K9CDNFgMIYZ7AXutyRg9.mpga"
+       "text": "Speaking about the event, Newcastle College student Elliot Smith said, \"It was a really great experience hearing from people my own age about the challenges they're facing.\"",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4Eb7zUKXheqKELF5iAIBEU.mpga"
       }
      ]
     },
@@ -4970,190 +5812,127 @@
      "heading": "",
      "sentences": [
       {
-       "text": "So these drone deliveries could help them get food and other products without leaving home.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1uh3BqqnmnIlEQtkf8kbTA.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The service could also save time for busy families that struggle to fit shopping into their daily lives.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1pqaWvFhPV8rMuJO7HSakZ.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "And with Japan facing a shortage of delivery drivers, drones could help reduce pressure on delivery companies.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2EC7XdrOXLuIGd2u8QrmWk.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "As well as delivering groceries to customers, the companies also believe these drones could help deliver important supplies during disasters.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3NsMpEEl81Lp4FbBPEVrhl.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Wing already has plenty of experience with drone deliveries.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6b0KgIYICVW8LbSA0VTb5t.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The company has completed more than 1 million drone deliveries, and makes thousands of deliveries every day in the US.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7aEIxH829T4Wa3MbWD0JQF.mpga"
-      },
-      {
-       "text": "Its drones can deliver orders within 30 minutes, bringing products directly to customers' gardens or other chosen locations.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1PzeQ1h1GM6Hby6Pru0kYC.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "KDDI, meanwhile, has experience with mobile networks and drone operations in Japan.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2puOo7CJkisDPXVWnskwXw.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "If the plans go ahead, looking up at the sky could soon mean spotting someone's dinner on its way home!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6dqkOAgrMHWsEyVOMLeix2.mpga"
+       "text": "He also said he liked having the chance to share his own thoughts.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3ckoxhPexsn0sVwzXtaFBZ.mpga"
       }
      ]
     }
    ],
    "vocab": [
     {
-     "word": "essential",
+     "word": "opportunity",
      "pos": "Noun",
-     "pron": "ɪˈsenʃl",
-     "definition": "something that is necessary",
-     "ko": "필수적인 것",
-     "audio": "https://assets.app.engoo.com/sounds/7MrBdG3M2qhYb6uSloimkP.mpga",
+     "pron": "ˌɑːpərˈtuːnətiː",
+     "definition": "a time or situation that makes it possible to do something ",
+     "ko": "기회",
+     "audio": "https://assets.app.engoo.com/sounds/KSqjMXMWbrY7WaPAfUqhgCmu5SUE0HkeJcjLDreByIU.mpga",
      "examples": [
       {
-       "text": "I didn't have much time to pack, so I only brought the essentials.",
-       "audio": "https://assets.app.engoo.com/sounds/1spND1BhiXB6esdPC2KbfI.mpga"
+       "text": "I'm very grateful for this opportunity, and I can't wait to start!",
+       "audio": "https://assets.app.engoo.com/sounds/7ZPCqYQfRsGwWtb3KEJOlN.mpga"
       }
      ]
     },
     {
-     "word": "telecommunication",
+     "word": "experience",
      "pos": "Noun",
-     "pron": "ˈtɛləkəˌmjuːnəˈkeɪʃən",
-     "definition": "the area of technology concerned with communication over a distance by telephone, broadcast, etc.",
-     "ko": "통신",
-     "audio": "https://assets.app.engoo.com/sounds/23RoJuf09FSz11h0JMmLvOpJdxuwaVpzj1U2OvtbA66.mpga",
+     "pron": "ɪkˈspiːriːəns",
+     "definition": "knowledge and skill that has been gained by doing something for a period of time",
+     "ko": "경험, 경력",
+     "audio": "https://assets.app.engoo.com/sounds/9KHjMIiR8lkYaCrtUW064bJdJPw76wrVlpJ05bckVtQ.mpga",
      "examples": [
       {
-       "text": "AT&T is the world's largest telecommunications company.",
-       "audio": "https://assets.app.engoo.com/sounds/0RCqn6dWUGH2Xz3CIPYxOt.mpga"
+       "text": "Do you have any experience working with children?",
+       "audio": "https://assets.app.engoo.com/sounds/1FD5eoi3oCx70iz3SmaElr.mpga"
       }
      ]
     },
     {
-     "word": "expand",
+     "word": "guidance",
+     "pos": "Noun",
+     "pron": "ˈgaɪdns",
+     "definition": "help or information about how to do or deal with something",
+     "ko": "지도, 안내, 길잡이, 지시",
+     "audio": "https://assets.app.engoo.com/sounds/BsraBifiefeXEfrEYL2zVOLyNwA1y6bE1Aj2SYVIcXF.mpga",
+     "examples": [
+      {
+       "text": "The article offers step-by-step guidance on how to write a perfect cover letter.",
+       "audio": "https://assets.app.engoo.com/sounds/0fxAs0bCfqCjfEswRgqzxB.mpga"
+      }
+     ]
+    },
+    {
+     "word": "manage",
      "pos": "Verb",
-     "pron": "ɪkˈspænd",
-     "definition": "to make or become larger, more important, etc.",
-     "ko": "확장하다, 확대하다",
-     "audio": "https://assets.app.engoo.com/sounds/6N0RhZHSjHJpzhQYH5fqFB.mpga",
+     "pron": "ˈmænɪdʒ",
+     "definition": "to use money, time, etc. in a responsible way",
+     "ko": "관리하다",
+     "audio": "https://assets.app.engoo.com/sounds/6zvB1zW3sfuXsNWrT3TekIYUbE5KwhIkaXFynZ3HpSB.mpga",
      "examples": [
       {
-       "text": "Netflix started its operations in the United States, but quickly expanded overseas.",
-       "audio": "https://assets.app.engoo.com/sounds/1NRlw6P8IMAuo4A5HVmwCE.mpga"
+       "text": "I need to learn how to manage my time more efficiently because I struggle to meet deadlines.",
+       "audio": "https://assets.app.engoo.com/sounds/1CuwiwAKgQ886xsUYev9vU.mpga"
       }
      ]
     },
     {
-     "word": "shortage",
+     "word": "skill",
      "pos": "Noun",
-     "pron": "ˈʃɔːrtɪdʒ",
-     "definition": "a state in which there is not enough of something",
-     "ko": "부족",
-     "audio": "https://assets.app.engoo.com/sounds/qRiAgvKG17QNf94uUR6xlZyrZSoXzUtkpO2RfUAIppF.mpga",
+     "pron": "skɪl",
+     "definition": "the ability to do an action, task, etc. well; a particular ability",
+     "ko": "기술, 능력, 기량, 실력",
+     "audio": "https://assets.app.engoo.com/sounds/5AVtdHXXoaLFhs8sgZnlgp5CVyBGc02ikReyhka6N2t.mpga",
      "examples": [
       {
-       "text": "California often experiences water shortages during the summer months.",
-       "audio": "https://assets.app.engoo.com/sounds/6BFXw4Kp1RVnKYnFdkmffe.mpga"
+       "text": "Surfing big waves requires a lot of skill.",
+       "audio": "https://assets.app.engoo.com/sounds/1Wk8Ho4ehsG29nyNJnapIf.mpga"
+      },
+      {
+       "text": "Your son's writing skills have really improved this year.",
+       "audio": "https://assets.app.engoo.com/sounds/1tNEIqxcC3HmoKjG2DIWcK.mpga"
       }
      ]
     },
     {
-     "word": "supply",
+     "word": "challenge",
      "pos": "Noun",
-     "pron": "səˈplaɪ",
-     "definition": "an amount of something available for use",
-     "ko": "공급, 물품, 보급품, 비축량",
-     "audio": "https://assets.app.engoo.com/sounds/4xDPF1uO8HFHCm0Rsju0vi.mpga",
+     "pron": "ˈtʃælɪndʒ",
+     "definition": "a task or situation that is very difficult or requires a lot of skill",
+     "ko": "도전",
+     "audio": "https://assets.app.engoo.com/sounds/AWKfLla7jf9ZCUpkiIiX5xN5FQTJfXlSZDbMwr6x4uB.mpga",
      "examples": [
       {
-       "text": "The Red Cross has delivered emergency supplies to the flood victims.",
-       "audio": "https://assets.app.engoo.com/sounds/eamNqhv0lLPyQbFCEpBnSk8NGRV8acpSAjl5uyqV4Wa.mpga"
-      }
-     ]
-    },
-    {
-     "word": "disaster",
-     "pos": "Noun",
-     "pron": "dɪˈzæstər",
-     "definition": "an event that causes great damage or loss",
-     "ko": "참사, 재난, 재해",
-     "audio": "https://assets.app.engoo.com/sounds/WIyMpj4SihjsWvdq4Z98sDI20Iifpzp5ZKK46uJOycC.mpga",
-     "examples": [
-      {
-       "text": "The charity provided food and shelter for those affected by the disaster.",
-       "audio": "https://assets.app.engoo.com/sounds/4Ha57nGDooTu8i4ZsZx23L.mpga"
+       "text": "Getting my driver's license turned out to be a bigger challenge than I expected.",
+       "audio": "https://assets.app.engoo.com/sounds/7J5UJWvM1eqOZQj78jppw8.mpga"
       }
      ]
     }
    ],
    "discussion": [
-    "What do you make of KDDI's drone delivery plans?",
-    "Do you think drone deliveries will be commonplace in the near future?",
-    "Do you think you'd make use of drone delivery services if they were available where you live?",
-    "Are you surprised that so many people in Japan have trouble buying groceries?",
-    "Do you ever find it hard to fit grocery shopping into your schedule?"
+    "What are your thoughts on the survey's findings?",
+    "Do you think schools offer enough opportunities for work experience?",
+    "Do you think schools should teach financial management?",
+    "Do you think schools should offer guidance on how to apply for jobs?",
+    "Who do you think should be responsible for teaching young people about managing stress and mental health?"
    ],
    "furtherDiscussion": [
-    "Do you ever get food or groceries delivered at home?",
-    "Do you do most of your shopping online these days?",
-    "How often do you choose the fast delivery option when shopping online?",
-    "Have you had any shipping or delivery problems recently?",
-    "Have you returned any online purchases recently?"
+    "What do you think are the biggest challenges young people in your country are facing currently?",
+    "Do you think your high school education prepared you for the real world?",
+    "What sort of career advice did you get when you were in high school?",
+    "Do most people in your country go straight to university after high school?",
+    "Do you think going to university has become too expensive?"
    ],
    "questions": [
     {
-     "text": "Do you think you'd make use of drone delivery services if they were available where you live?",
+     "text": "What are your thoughts on the survey's findings?",
      "section": "Discussion"
     },
     {
-     "text": "Do you think drone deliveries will be commonplace in the near future?",
+     "text": "Who do you think should be responsible for teaching young people about managing stress and mental health?",
      "section": "Discussion"
     },
     {
-     "text": "How often do you choose the fast delivery option when shopping online?",
+     "text": "What do you think are the biggest challenges young people in your country are facing currently?",
      "section": "Further Discussion"
     }
    ]
@@ -5635,476 +6414,6 @@
     },
     {
      "text": "If you were hiring someone, what qualities would be most important to you?",
-     "section": "Further Discussion"
-    }
-   ]
-  },
-  {
-   "id": "29ba8a0a-d46f-11f1-a960-033d3143e2ea",
-   "title": "UK Airline Offers to Pay for Babies' First Passports",
-   "intro": "Learn about a UK airline offering to cover the cost of babies' first passports, parental travel experiences, and family vacation milestones.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/5tdlBqmYCEUHpXajiLviL3.png",
-   "contentLevel": 6,
-   "level": "intermediate",
-   "publishedAt": "2026-11-04T18:12:41Z",
-   "url": "https://engoo.com/app/daily-news/article/uk-airline-offers-to-pay-for-babies-first-passports/KbqKCtRvEfGpYAM9MUPi6g",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1uPYdij6VIlvuvQRR1D6W9.mpga",
-   "paragraphs": [
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The end of September is the busiest time for births in the UK.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2gC4IehwnCRCbRyee2esRr.mpga"
-      },
-      {
-       "text": "And with so many new babies in the country, one company is already hoping to turn some of them into customers — and get them on a plane!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1HYBmkgKGupP7yziwhxRZh.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "British airline and vacation company Easyjet has announced that it will cover the cost of a child's passport when new parents book a trip — or, at least, give parents a discount that will cover the passport cost.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0VSVRNjgfZbYVvYy2AXdvr.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Until November 26, 2026, parents of babies will be able to save about $90 on Easyjet trips, which is the same as the price of a child's first passport in the UK.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/04TlrPoyzWktta0P0HBjrk.mpga"
-      },
-      {
-       "text": "They can use the offer once per vacation booking for one child up to 2 years old.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0HSiZRR1ABFmCENLmJY4WB.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Easyjet also surveyed 2,000 British parents who had taken a child under 5 on vacation at least once about their experiences.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4D9QNZ4Myu6tIGiYbnIJR0.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Four out of five parents said their baby's first vacation was a \"landmark family moment,\" with 57% saying it was one of their proudest parenting milestones.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7WMJzbumWpAeSpkYgvQuAj.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "They were also asked about the difficult parts of organizing international travel with a new baby.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/52A0rpXWT9dVAPgxfrO9k5.mpga"
-      },
-      {
-       "text": "And nearly one in 10 said they didn't even know their baby needed their own passport before they started planning their vacation!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5UkbM9INbDAKhHvjJWKLu5.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Parents also said it took an average of four tries to get a passport picture approved for their baby — after all, you can't tell a baby how to pose for a photo!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6knjgMRpjFycSWsOQJ8CwL.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Still, 48% said their baby's first vacation was easier than they had expected, and 87% said they felt good about doing it all again.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4IeELoODa9VCn55183IO7o.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Also, even though 27% said they thought it would be difficult for small children to adapt to a new routine on vacation, 50% said their children were actually able to do so quite well.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2tML9E2NuKK67qCBGXWaXQ.mpga"
-      }
-     ]
-    }
-   ],
-   "vocab": [
-    {
-     "word": "landmark",
-     "pos": "Noun",
-     "pron": "ˈlændmɑːrk",
-     "definition": "an event, achievement, or discovery that marks an important stage or turning point in the development of something",
-     "ko": "표지점, 획기적인 사건",
-     "audio": "https://assets.app.engoo.com/sounds/2xiizPsAkPYCp3GI0OESQL.mpga",
-     "examples": [
-      {
-       "text": "The discovery of penicillin was a landmark moment in the history of medicine.",
-       "audio": "https://assets.app.engoo.com/sounds/3Jgdd3UgVBl0nWsPuxhwp4.mpga"
-      }
-     ]
-    },
-    {
-     "word": "proud",
-     "pos": "Adjective",
-     "pron": "praʊd",
-     "definition": "causing feelings of happiness because of something one has achieved or is connected with",
-     "ko": "자랑스러운, 자랑할 만한",
-     "audio": "https://assets.app.engoo.com/sounds/1g019Sy7BQwgkN4YqpnZbp.mpga",
-     "examples": [
-      {
-       "text": "Volvo has a proud history of safety innovation.",
-       "audio": "https://assets.app.engoo.com/sounds/3PPISQ2XLpMlcuc0Bw4wZz.mpga"
-      }
-     ]
-    },
-    {
-     "word": "milestone",
-     "pos": "Noun",
-     "pron": "ˈmaɪlˌstoʊn",
-     "definition": "an important stage in the development of something",
-     "ko": "획기적인 사건, 이정표",
-     "audio": "https://assets.app.engoo.com/sounds/JZ7m09GMo1UCJ4MmCOHc7SLh8VYFOHq3Iwsq4h63I4y.mpga",
-     "examples": [
-      {
-       "text": "Graduating from college is an important milestone in one's life.",
-       "audio": "https://assets.app.engoo.com/sounds/1IVQFK2rGb19TuMQuOZSIM.mpga"
-      }
-     ]
-    },
-    {
-     "word": "approve",
-     "pos": "Verb",
-     "pron": "əˈpruːv",
-     "definition": "to officially accept, allow, or agree to something",
-     "ko": "승인하다, 찬성하다",
-     "audio": "https://assets.app.engoo.com/sounds/uA5rdlA3aVmqJcMSXY4Wz8mTbRoualXqGlCV3ed7fCd.mpga",
-     "examples": [
-      {
-       "text": "My boss approved my proposal.",
-       "audio": "https://assets.app.engoo.com/sounds/PnAUyLZ5XgtwKWPw80rt1kalILubfgGfkGuD0v0cCHw.mpga"
-      }
-     ]
-    },
-    {
-     "word": "pose",
-     "pos": "Verb",
-     "pron": "poʊz",
-     "definition": "to sit, stand, etc. in a particular position",
-     "ko": "포즈를 취하다, 자세를 취하다",
-     "audio": "https://assets.app.engoo.com/sounds/x0Bsr7F5tkZ02nLcTEp81NvCdeKoCyvO2qLlpuFCWAx.mpga",
-     "examples": [
-      {
-       "text": "I really hate posing for photographs!",
-       "audio": "https://assets.app.engoo.com/sounds/6d2IoD2Il0FcrgWb4x8Jq5.mpga"
-      }
-     ]
-    },
-    {
-     "word": "routine",
-     "pos": "Noun",
-     "pron": "ruːˈtiːn",
-     "definition": "a series of actions regularly followed",
-     "ko": "일상, 일과, 틀",
-     "audio": "https://assets.app.engoo.com/sounds/6TPmN3EirnK4MHJWTgGE9vTXKkn807nm9MM0smVxPwm.mpga",
-     "examples": [
-      {
-       "text": "My morning routine consists of doing some yoga, reading the news and having a cup of coffee.",
-       "audio": "https://assets.app.engoo.com/sounds/3eP8IoDPH7w1WgFBwRsiu6.mpga"
-      }
-     ]
-    }
-   ],
-   "discussion": [
-    "What are your thoughts on Easyjet's offer?",
-    "Have you ever traveled with a baby or young child? Was it easier or harder than you expected?",
-    "How old were you when you got your first passport?",
-    "What are some of your earliest travel memories?",
-    "What were some of the funnest family vacations you went on?"
-   ],
-   "furtherDiscussion": [
-    "When was the last time you renewed your passport?",
-    "When was the first time you traveled without your parents?",
-    "Who have you traveled with the most?",
-    "What do you think makes someone a good travel partner?",
-    "Who are the most well-traveled people you know?"
-   ],
-   "questions": [
-    {
-     "text": "What are your thoughts on Easyjet's offer?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What were some of the funnest family vacations you went on?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What do you think makes someone a good travel partner?",
-     "section": "Further Discussion"
-    }
-   ]
-  },
-  {
-   "id": "4e63228e-d30e-11f1-9627-a7a939742709",
-   "title": "Sardinian Restaurants Ask Families to Put Phones Away",
-   "intro": "This lesson explores Sardinian restaurants asking families to put away electronic devices at meals to encourage conversation and quality time together.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/5Sb1g7W5YSlXwDh5oI6J6a.png",
-   "contentLevel": 6,
-   "level": "intermediate",
-   "publishedAt": "2026-11-04T18:12:41Z",
-   "url": "https://engoo.com/app/daily-news/article/sardinian-restaurants-ask-families-to-put-phones-away/TmMijtMOEfGWJ6epOXQnCQ",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0unaC8lVUiafjTM9Q3XLBp.mpga",
-   "paragraphs": [
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Going out for a meal with your family should be a chance to enjoy good food and spend time together.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0wfAGisXAtVGP5X8DlRzLD.mpga"
-      },
-      {
-       "text": "But these days, it's common to see everyone looking at their phones or watching videos on tablets instead of talking.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6bd7dpoBMSQsDml3jxP6zH.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Now, some restaurants on the Italian island of Sardinia are trying to change that.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6E4Inm0JguprOLuJ4EQ2Uv.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Starting in early November, 15 restaurants are encouraging parents and children to put away their phones and other electronic devices during meals, so they can spend more time talking and enjoying their meals together.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6VfKNFctl68M25Potg1deI.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The project, called \"At the Table Without Screens,\" will run for one month at first, and more restaurants may join later.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/27a6ui5QSLKRh4dLIdPhW2.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Families visiting these restaurants can choose whether to take part in the project.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1BzgO4LFKG6CR963wiFlAo.mpga"
-      },
-      {
-       "text": "Those who agree are asked to leave their devices in their bags or put them in a basket at the table.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0kyeH9SofwIdCNhZDVHpC2.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "But the restaurants aren't just asking families to stop using their phones — they're also giving them something else to do.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0Eq4Fsf6ltRDyXq9P8TevG.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Families receive a special kit with games, drawing activities and other things to help parents and children talk more.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2hP3FY9RswkxEO2EslMUSH.mpga"
-      },
-      {
-       "text": "They can play games while waiting for their food, or use the activities as a starting point for conversations.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4dDtuuRcphr1gwbkgP7fsW.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The kit also includes advice for parents on children's screen time and social media use at home.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/62nwedpLegj7ywCqI7M24Q.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The project is led by Anna Cau, Sardinia's children's ombudsman.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6RSZt93LwJMskS0lnFdUyW.mpga"
-      },
-      {
-       "text": "She believes parents need more support to help their children use technology safely.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5acMrAQP9hyzwWT8To5DwI.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Emanuele Frongia, the head of a restaurant association in Sardinia, says dining out should be a time for families to talk and enjoy each other's company.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0QxeLETStte7Fq9Aoo2PBb.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "\"But adults must set a good example first,\" he said.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1WIKlTTBHn21zjD3QxRDhK.mpga"
-      },
-      {
-       "text": "\"We can't ask children to put away their phones if we're not willing to do the same.\"",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6laZDnzU4gXJENahVw5mQL.mpga"
-      }
-     ]
-    }
-   ],
-   "vocab": [
-    {
-     "word": "basket",
-     "pos": "Noun",
-     "pron": "ˈbæskɪt",
-     "definition": "a container used for carrying things",
-     "ko": "바구니",
-     "audio": "https://assets.app.engoo.com/sounds/62rJyWfSp3mjgFihGStDQCr6xlNeKzG6hjH1jLuBEXO.mpga",
-     "examples": [
-      {
-       "text": "I only planned to get a couple of things from the store, but ended up walking out with a full basket.",
-       "audio": "https://assets.app.engoo.com/sounds/1AYhLELRgpBI8UUOkYCPa1.mpga"
-      }
-     ]
-    },
-    {
-     "word": "starting point",
-     "pos": "Noun",
-     "pron": "ˈstɑːrtɪŋ pɔɪnt",
-     "definition": "an introduction to or basis for discussion, development, etc.",
-     "ko": "출발점, 시작점",
-     "audio": "https://assets.app.engoo.com/sounds/1rqb5JKTvSp19CpVMEPqOf.mpga",
-     "examples": [
-      {
-       "text": "Seiko is a great starting point for anyone getting into watch collecting.",
-       "audio": "https://assets.app.engoo.com/sounds/6joNyhBM4dsGFcg5Ma3vBg.mpga"
-      }
-     ]
-    },
-    {
-     "word": "ombudsman",
-     "pos": "Noun",
-     "pron": "ˈɑːmbʌdzmən",
-     "definition": "an official whose job is to investigate individuals' complaints against an organization",
-     "ko": "행정 감찰관, 민원 조사관",
-     "audio": "https://assets.app.engoo.com/sounds/4IkdQHxkNW2ORY1rz8uhAH.mpga",
-     "examples": [
-      {
-       "text": "We took the issue to the housing ombudsman after the landlord refused to cooperate with us.",
-       "audio": "https://assets.app.engoo.com/sounds/2LlIMNjYRVpeXCPGldIpxA.mpga"
-      }
-     ]
-    },
-    {
-     "word": "support",
-     "pos": "Noun",
-     "pron": "səˈpoʊrt",
-     "definition": "approval or encouragement; a person or thing that provides approval or encouragement",
-     "ko": "지원, 지지, 도움",
-     "audio": "https://assets.app.engoo.com/sounds/ZtHHGJ5QBxjyxYTNyr6sypoJnAsIHhtHk370NrRTJrQ.mpga",
-     "examples": [
-      {
-       "text": "I couldn't have done it without the support of my family and friends.",
-       "audio": "https://assets.app.engoo.com/sounds/m3DoLMUwexiYtV4FLbE3N0dIeps0ki0lqG3jvVoS3gl.mpga"
-      },
-      {
-       "text": "Throughout this difficult time, you have been such an incredible support.",
-       "audio": "https://assets.app.engoo.com/sounds/7ImImEhpySp7QSw0C4h87K.mpga"
-      }
-     ]
-    },
-    {
-     "word": "company",
-     "pos": "Noun",
-     "pron": "ˈkʌmpəni",
-     "definition": "the fact or state of being with another person or other people",
-     "ko": "함께 있음, 동반",
-     "audio": "https://assets.app.engoo.com/sounds/0gvuchskUMlQPedB0ire1s.mpga",
-     "examples": [
-      {
-       "text": "I really enjoy Jeff's company.",
-       "audio": "https://assets.app.engoo.com/sounds/5NDBNiZ4X7NwXqQuZN4Z1X.mpga"
-      }
-     ]
-    },
-    {
-     "word": "willing",
-     "pos": "Adjective",
-     "pron": "ˈwɪlɪŋ",
-     "definition": "ready, prepared or happy to do something",
-     "ko": "기꺼이 하는, 자발적인",
-     "audio": "https://assets.app.engoo.com/sounds/k7Kdw2tm3jSZLPtZfLEzmZX2ybrdwKC4ltQhddc405E.mpga",
-     "examples": [
-      {
-       "text": "We're not sure if your ideas for the website will work, but we're willing to experiment.",
-       "audio": "https://assets.app.engoo.com/sounds/6oQJgyDKkh0ATnAykucKZj.mpga"
-      }
-     ]
-    }
-   ],
-   "discussion": [
-    "What are your thoughts on Sardinia's \"At the Table Without Screens\" project?",
-    "Do you tend to use your phone at the dinner table?",
-    "Do you make an effort not to use your phone when you're out for dinner?",
-    "Do you agree that adults need to set a good example when it comes to phones at the dinner table?",
-    "Did your parents have strict dinner table rules when you were growing up?"
-   ],
-   "furtherDiscussion": [
-    "Did your family always sit down for meals when you were growing up?",
-    "Who did most of the cooking in your house growing up?",
-    "Were you a fussy eater when you were a kid?",
-    "Did you often go out for meals as a family when you were a kid? What were your parents' go-to family restaurants?",
-    "How often did you have big family get-togethers when you were growing up? Who did most of the cooking?"
-   ],
-   "questions": [
-    {
-     "text": "What are your thoughts on Sardinia's \"At the Table Without Screens\" project?",
-     "section": "Discussion"
-    },
-    {
-     "text": "Do you agree that adults need to set a good example when it comes to phones at the dinner table?",
-     "section": "Discussion"
-    },
-    {
-     "text": "How often did you have big family get-togethers when you were growing up? Who did most of the cooking?",
      "section": "Further Discussion"
     }
    ]
@@ -7068,239 +7377,6 @@
     },
     {
      "text": "What's the longest you've ever waited for a table at a restaurant?",
-     "section": "Further Discussion"
-    }
-   ]
-  },
-  {
-   "id": "a706217a-d156-11f1-bda7-a3315ca08031",
-   "title": "Young Adults Find It Difficult to Make Friends — Survey",
-   "intro": "Explore why many young adults in the US find it difficult to make friends, based on survey results and social factors affecting connections.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/5KnDY5fwAnbTP1Ww9Jm7Uc.png",
-   "contentLevel": 5,
-   "level": "beginner",
-   "publishedAt": "2026-10-31T18:00:00Z",
-   "url": "https://engoo.com/app/daily-news/article/young-adults-find-it-difficult-to-make-friends-survey/pwYhetFWEfG9p6MxXKCAMQ",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3nbnwIEmRIB7L1Et8upc8L.mpga",
-   "paragraphs": [
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "As kids, making a friend was as easy as sitting next to somebody in class, or playing a game together on the playground.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4UMdjFmPbGjZUmMF8LFAvj.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "But it's not the same for adults.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1Ta0vGERNxlehOt7CKAjpL.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "In fact, a survey has found that 69% of US young adults feel lonelier than they ever thought they would.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5Qn1gjaIOTyVNSKqVotz8Y.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The survey was done by Talker Research, and included 1,000 Gen Z participants — defined as those born between 1997 and 2008.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/70eY45XTFR5HZbWmySlH8i.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "It found that the average participant feels lonely four days a week, and 52% find it difficult to make new connections.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0KQ0vgvfaoOcmhHlQDMdnv.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Forty-three percent of participants said they have fewer than three close friends.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4LWQmMCQsTaNPyDIrepQ8t.mpga"
-      },
-      {
-       "text": "And one in six said they only see those friends a few times a year.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4dbQ52B5bL3UIKQOEG29dc.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "So why are US young adults struggling to make friends?",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5jkg467dtOJ2ZP5hUIxICL.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Many said it's because going out and meeting people is expensive.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1buCzbWmH0ZieprIcoutnv.mpga"
-      },
-      {
-       "text": "Others said they're too tired after work, or are too busy in other parts of their lives.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7Ah19JjOTVij4B2GXFUjTe.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The survey also found that 60% of participants think they don't have a regular place to meet people and make friends.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7LXAdR4tEuFLYtfd8j6jok.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "This is sometimes called a \"third space\" — a place outside the home or work where people can spend time together.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2LiavSG1A2V7sWEIKHE9BX.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "But almost 60% also said they see the place where they work out as a \"third space.\"",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/51ZX9HuH64Po7AD99bdbIj.mpga"
-      },
-      {
-       "text": "And that could be something they might want to look into if they're looking to make friends.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5VNdiGYHhYdGZmSJ5eoK9O.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "So maybe for young adults, making friends can still be as easy as meeting people on the playground — the playground just looks a little different.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3w9jh99GDFccgjWOp8xN88.mpga"
-      }
-     ]
-    }
-   ],
-   "vocab": [
-    {
-     "word": "lonely",
-     "pos": "Adjective",
-     "pron": "ˈloʊnliː",
-     "definition": "unhappy because one has no friends or is on one's own",
-     "ko": "외로운",
-     "audio": "https://assets.app.engoo.com/sounds/R02n4XL3KL3gg6GC4rHHOOtntnSd7C1SwdDzMUxSvCu.mpga",
-     "examples": [
-      {
-       "text": "I've been feeling lonely ever since my kids left for college, so I got myself a dog.",
-       "audio": "https://assets.app.engoo.com/sounds/78JILjsXihbEbRMBJgLyEk.mpga"
-      }
-     ]
-    },
-    {
-     "word": "define",
-     "pos": "Verb",
-     "pron": "dɪˈfaɪn",
-     "definition": "to clearly state or describe the nature, meaning, etc. of something",
-     "ko": "정의를 내리다, 정의하다, 분명히 밝히다",
-     "audio": "https://assets.app.engoo.com/sounds/jawgWKuRVHycnbjPB7X3hAlvOtal8e6m43yhGYDtl2X.mpga",
-     "examples": [
-      {
-       "text": "The purpose of the project is defined on page three of the report.",
-       "audio": "https://assets.app.engoo.com/sounds/1PwmVP1vpB6CT5KlDpALmV.mpga"
-      }
-     ]
-    },
-    {
-     "word": "connection",
-     "pos": "Noun",
-     "pron": "kəˈnɛkʃən",
-     "definition": "a relationship that links or joins a person or thing to someone or something else",
-     "ko": "연고, 연줄, 유대, 연결, 연관",
-     "audio": "https://assets.app.engoo.com/sounds/yVs7xws1A7GKlBHKpv9SkGzrvotvW1AEZMC9Mk8m3Kw.mpga",
-     "examples": [
-      {
-       "text": "My siblings and I have always had a very strong connection. ",
-       "audio": "https://assets.app.engoo.com/sounds/74bw0XPE7I43DLRtFUQizz.mpga"
-      }
-     ]
-    },
-    {
-     "word": "struggle",
-     "pos": "Verb",
-     "pron": "ˈstrʌɡl",
-     "definition": "to experience difficulty dealing with or handling something",
-     "ko": "고군분투하다, 몸부림치다, 버둥거리다",
-     "audio": "https://assets.app.engoo.com/sounds/AHXQPzKLRsZvKxwHRKKeN6HgNXMhAlFkCsMBQZN6hDL.mpga",
-     "examples": [
-      {
-       "text": "Many young couples struggle to save a deposit for their first mortgage.",
-       "audio": "https://assets.app.engoo.com/sounds/dUPkMWyhd2dxzpsdgRMtkBXKV4WdQCc8rEGQGx82hmq.mpga"
-      }
-     ]
-    },
-    {
-     "word": "work out",
-     "pos": "Phrasal Verb",
-     "pron": "wərk aʊt",
-     "definition": "to do physical exercise or training",
-     "ko": "운동하다",
-     "audio": "https://assets.app.engoo.com/sounds/315RTJdw8VAhpBZ18AneQh.mpga",
-     "examples": [
-      {
-       "text": "I usually work out in the morning before I start work.",
-       "audio": "https://assets.app.engoo.com/sounds/3IYYJ6gM3rMzxQooq0PU7L.mpga"
-      }
-     ]
-    }
-   ],
-   "discussion": [
-    "What are your thoughts on Talker Research's findings?",
-    "Do you think it's harder to make friends today than it was in the past?",
-    "Do you think going out and meeting people has gotten too expensive?",
-    "How often do you feel too tired or busy to get together with friends?",
-    "Have you made any friends through your hobbies or interests?"
-   ],
-   "furtherDiscussion": [
-    "How confident are you when it comes to meeting new people?",
-    "Do you know anyone who has no trouble making new friends?",
-    "Who are your oldest friends? How long have you known each other?",
-    "Do you have any close friends who you don't get to see very often?",
-    "Who usually makes the plans when you meet up with friends?"
-   ],
-   "questions": [
-    {
-     "text": "What are your thoughts on Talker Research's findings?",
-     "section": "Discussion"
-    },
-    {
-     "text": "How often do you feel too tired or busy to get together with friends?",
-     "section": "Discussion"
-    },
-    {
-     "text": "How confident are you when it comes to meeting new people?",
      "section": "Further Discussion"
     }
    ]
