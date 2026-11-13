@@ -1,6 +1,966 @@
 {
- "updatedAt": "2026-11-12T23:43:05.979Z",
+ "updatedAt": "2026-11-13T23:44:06.443Z",
  "articles": [
+  {
+   "id": "60c18c0a-dc4a-11f1-918e-97fe2c784094",
+   "title": "Cyclists in Japan Receive 16,000 'Blue Tickets' in 6 Months",
+   "intro": "This lesson covers Japan's new blue ticket system for cycling violations, common offenses, fines, city data, and its impact on accident rates.",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/3daD7Lw1Foqm0SZiNUa9tK.jpeg",
+   "contentLevel": 5,
+   "level": "beginner",
+   "publishedAt": "2026-11-13T17:00:00Z",
+   "url": "https://engoo.com/app/daily-news/article/cyclists-in-japan-receive-16-000-blue-tickets-in-6-months/YMGMCtxKEfGRjpf-LHhAlA",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/32m9xn9GCW5FRDcjim5VLv.mpga",
+   "paragraphs": [
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Police in Japan have recorded nearly 16,000 bicycle traffic violations since April, according to data from the country's National Police Agency (NPA).",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/353ELirHWHneDCYDO44UET.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "On April 1 of this year, the NPA started using a new \"blue ticket\" system, which lets police quickly fine cyclists for breaking traffic rules.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4AZtTECtp35XpKXpTajU64.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "In the system's first six months, using a smartphone while riding was the most common violation, making up 43% of all tickets.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2hRHhHGKkdBYgbSbjE10dO.mpga"
+      },
+      {
+       "text": "Those caught riding while using a phone receive a fine of {{prn:12,000|twelve thousand}} yen, or about {{prn:$76|seventy six dollars}}.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/374VkziR5a2kGh6zNBYYED.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The second most common violation was failing to stop when required, followed by riding through a red light.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2kj0p6vyJae7bRdZ04w9jg.mpga"
+      },
+      {
+       "text": "Other common violations included entering a railroad crossing when the gate was down, and riding on the wrong side of the road.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2am6oHZRFQ5AKEaOXfX4Zc.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "These violations all carry fines of between {{prn:3,000|three thousand}} yen and {{prn:7,000|seven thousand}} yen — or between about {{prn:$19|nineteen dollars}} and {{prn:$44|forty four dollars}}.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5f3kEdwq8BpFOT4TPGhBP7.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The rules must be followed by all cyclists aged 16 and over.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2nvx8tZo1RPacrjSNYZNXw.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Tokyo had the highest number of tickets, with nearly {{prn:3,000,|three thousand}} followed by Osaka with close to {{prn:2,900|two thousand and nine hundred}}.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5wHKhl77ZY3cQmDnvEnarD.mpga"
+      },
+      {
+       "text": "Saitama recorded almost {{prn:1,900|one thousand and nine hundred}} violations, while Aichi had over {{prn:1,700|one thousand and seven hundred}}.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0F6ep7NqkUrKOdUBieOxEz.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The NPA also said that bicycle accidents decreased by about 9% between April and September compared with the same time last year.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/594Q1KLSrZgVXKH0Qn3fqN.mpga"
+      },
+      {
+       "text": "However, it said it's not clear if this is because of the new ticket system.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2cmo8hj19s6v7nqjM4aJBu.mpga"
+      }
+     ]
+    }
+   ],
+   "vocab": [
+    {
+     "word": "record",
+     "pos": "Verb",
+     "pron": "rɪˈkɔːrd",
+     "definition": "to set down or store facts; (of an instrument or observer) to show or detect a measurement, result, amount, etc.",
+     "ko": "기록하다",
+     "audio": "https://assets.app.engoo.com/sounds/13nlYAhTlL7dnjKdY3HZwZRJZPsA7UhFYt9rIlr9Jnb.mpga",
+     "examples": [
+      {
+       "text": "We've been asked to record all our expenses during the trip so that the company can reimburse us.",
+       "audio": "https://assets.app.engoo.com/sounds/1HjWqUfb1VlmN91dPt1dUB.mpga"
+      },
+      {
+       "text": "Several aftershocks were recorded in the hours following the earthquake.",
+       "audio": "https://assets.app.engoo.com/sounds/TiasH9DwiK49Iyc91jl2c6EW3mJLaaiKTnAsPhbulQ8.mpga"
+      }
+     ]
+    },
+    {
+     "word": "violation",
+     "pos": "Noun",
+     "pron": "vaɪəˈleɪʃən",
+     "definition": "the act of breaking or not following a rule, law, etc.",
+     "ko": "위반, 위배",
+     "audio": "https://assets.app.engoo.com/sounds/swUA1SF90Rc3mQbmHKEGi1WOoJHwLWKhlTWrJTPrfa2.mpga",
+     "examples": [
+      {
+       "text": "Saudi Arabia has been repeatedly condemned for human rights violations.",
+       "audio": "https://assets.app.engoo.com/sounds/hjzrjgZWvN07JfQ9RzWjYXjSWDggAn8jXPawfZFKyzG.mpga"
+      }
+     ]
+    },
+    {
+     "word": "fine",
+     "pos": "Verb",
+     "pron": "faɪn",
+     "definition": "to make someone pay an amount of money for breaking a rule or law",
+     "ko": "벌금을 부과하다",
+     "audio": "https://assets.app.engoo.com/sounds/4ZpbcxPXwN09N6RRfxVneI.mpga",
+     "examples": [
+      {
+       "text": "He was fined $1,000 for driving over the speed limit.",
+       "audio": "https://assets.app.engoo.com/sounds/125eTfG24xwQHbu2hRVF1X.mpga"
+      }
+     ]
+    },
+    {
+     "word": "rule",
+     "pos": "Noun",
+     "pron": "ruːl",
+     "definition": "one of a set of instructions or regulations about what can or cannot be done in a particular situation",
+     "ko": "규칙",
+     "audio": "https://assets.app.engoo.com/sounds/8TlIUoinlwKrLVucbq6XpzE3k3gVGwpA7kjyAZWfjtW.mpga",
+     "examples": [
+      {
+       "text": "The rules clearly specify that no pets are allowed.",
+       "audio": "https://assets.app.engoo.com/sounds/1tssgXjfgXmfFJEPS1Toxj.mpga"
+      }
+     ]
+    },
+    {
+     "word": "require",
+     "pos": "Verb",
+     "pron": "rɪˈkwaɪər",
+     "definition": "to be necessary because of a rule, law, etc.",
+     "ko": "요구하다",
+     "audio": "https://assets.app.engoo.com/sounds/5j7RWSfL2IvBJGeMurp1Ed.mpga",
+     "examples": [
+      {
+       "text": "Car insurance is required by law in this country.",
+       "audio": "https://assets.app.engoo.com/sounds/3pmN7EpsxYoL9VcGZdIMDt.mpga"
+      }
+     ]
+    },
+    {
+     "word": "compare",
+     "pos": "Verb",
+     "pron": "kəmˈpɛr",
+     "definition": "to estimate, measure, or note how two people or things are similar or different from each other",
+     "ko": "비교하다",
+     "audio": "https://assets.app.engoo.com/sounds/e4OYBk3X0J8IHx8jvkVZgxEjSuOJbOp07Wego08PfGE.mpga",
+     "examples": [
+      {
+       "text": "I compared the prices on different websites before deciding where to buy from.",
+       "audio": "https://assets.app.engoo.com/sounds/4nVHdzpgUZegDrNqptprzb.mpga"
+      }
+     ]
+    }
+   ],
+   "discussion": [
+    "What are your thoughts on the number of bicycle traffic violations in Japan?",
+    "Are you surprised that phone use was the most common cycling violation?",
+    "Do you often see people using their phones while riding bicycles?",
+    "Do you think the fines are high enough to discourage dangerous cycling?",
+    "Do you have any complaints about cyclists in your town or city?"
+   ],
+   "furtherDiscussion": [
+    "Do you have a bike? How often do you use it to get around?",
+    "Is there a good number of bicycle lanes or paths in your town or city?",
+    "Do you know anyone who cycles everywhere?",
+    "What are the most bike-friendly cities you've been to?",
+    "Have you been to any cities with chaotic traffic?"
+   ],
+   "questions": [
+    {
+     "text": "What are your thoughts on the number of bicycle traffic violations in Japan?",
+     "section": "Discussion"
+    },
+    {
+     "text": "Do you think the fines are high enough to discourage dangerous cycling?",
+     "section": "Discussion"
+    },
+    {
+     "text": "What are the most bike-friendly cities you've been to?",
+     "section": "Further Discussion"
+    }
+   ]
+  },
+  {
+   "id": "cad783a8-d897-11f1-ad7c-0b11f40b9c01",
+   "title": "Beijing's Palace Museum Named World's Most Visited",
+   "intro": "Explore how Beijing's Palace Museum became the world's most visited, trends in museum attendance, and the popularity of free museum entry worldwide.",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/7B7FglSWC81PClePK97lxt.jpeg",
+   "contentLevel": 6,
+   "level": "intermediate",
+   "publishedAt": "2026-11-13T17:00:00Z",
+   "url": "https://engoo.com/app/daily-news/article/beijings-palace-museum-named-worlds-most-visited/yteDqNiXEfGtfAsR9AucAQ",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/048rk9ZAjfYg2PCpHJCRtb.mpga",
+   "paragraphs": [
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Chinese museums were among the most visited in the world in 2025, with the Palace Museum in Beijing topping the list with 19 million visitors.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0FEKCzuAQtjeRFHjK3Mg2X.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "This is according to the Themed Entertainment Association's newest _Global Experience Index_, which found that the world's top 20 museums were visited 161 million times in 2025 — an increase of 5.4% from 2024.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7mLm4B9jEOHkzuanlai6Iu.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The Palace Museum is in the center of Beijing, and housed in the city's old imperial palaces, also known as the Forbidden City.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/31cQbK7b79YJLgOogZHfPk.mpga"
+      },
+      {
+       "text": "The museum was opened 101 years ago, and inside it visitors can enjoy traditional Chinese art and relics.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2Biz547V0f3GYONCI2qOqT.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "In fact, Chinese museums took 12 places in the top 20.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7My0ENN6sr6rlm9DbMgf1G.mpga"
+      },
+      {
+       "text": "And while the Palace Museum does charge about $6 to $9 for an adult ticket depending on the season, entry to more than 90% of museums in China is now free, making it easier for people to visit them.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6WKRmNLcE0p3MYcp5XdJG5.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "For example, number six on the list is the Nanshan Museum in Shenzhen, and it's free to visit.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7guPQLCmMaZXsssvFb4FLi.mpga"
+      },
+      {
+       "text": "It offers a look at the city's history and local culture, and had 7.5 million visitors in 2025.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7FVNBJ3iYx65NuREy1f8xy.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The National Museum of China, which is in Beijing, is also free to visit, and took 10th place on the list, with 6.9 million visits.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/56peMTZu56V4eeb3IM1Kx7.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The most-visited museum outside of China was the Louvre in Paris.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4JU6aZiYsu2NqJXx0NZN33.mpga"
+      },
+      {
+       "text": "It saw around 9 million visits last year — 3.5% growth compared with 2024 — putting it at number four on the list.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1tBE0OIbSMoFWI1jrnZ4Ge.mpga"
+      },
+      {
+       "text": "The Louvre isn't free, though, with tickets costing visitors from outside the European Union around $36.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6mMDw00qkUEgWZs7g7E9W1.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "London's Natural History Museum is free to visit, however, as are many of the British capital's museums.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7g7JVI5iTIF94LhvwaP1Pq.mpga"
+      },
+      {
+       "text": "It was number seven on the list — the only museum dedicated to the natural world in the top 20.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5tPll9TkuruCcJ1FSnjVEh.mpga"
+      }
+     ]
+    }
+   ],
+   "vocab": [
+    {
+     "word": "palace",
+     "pos": "Noun",
+     "pron": "ˈpælɪs",
+     "definition": "a large and expensive building that is often home to a royal family",
+     "ko": "궁전",
+     "audio": "https://assets.app.engoo.com/sounds/GlOF5LvDFZEFAqzzCBFkk8SEVT66TyOMGYUBgJHiNPN.mpga",
+     "examples": [
+      {
+       "text": "We visited Buckingham Palace on our first day in London.",
+       "audio": "https://assets.app.engoo.com/sounds/5j6DzXeH1kVXj1PRgb5N3R.mpga"
+      }
+     ]
+    },
+    {
+     "word": "imperial",
+     "pos": "Adjective",
+     "pron": "ɪmˈpiːriːəl",
+     "definition": "relating to an emperor or empire",
+     "ko": "제국의, 황제의",
+     "audio": "https://assets.app.engoo.com/sounds/xffYBOAGmPKx8XH1EwaTfNCzVyWvXZ9cWskSqwykkYO.mpga",
+     "examples": [
+      {
+       "text": "Imperial China began in 221 BC with the establishment of the Qin dynasty.",
+       "audio": "https://assets.app.engoo.com/sounds/02pGFj1OPTvZvPbzDNYfHn.mpga"
+      }
+     ]
+    },
+    {
+     "word": "relic",
+     "pos": "Noun",
+     "pron": "ˈrelɪk",
+     "definition": "an object that is very old",
+     "ko": "유물, 유적",
+     "audio": "https://assets.app.engoo.com/sounds/2YHoWggWHx8N2RLwqdFaBZ.mpga",
+     "examples": [
+      {
+       "text": "The 1,500-year-old sword is a relic from before the Viking era.",
+       "audio": "https://assets.app.engoo.com/sounds/76ZgXJRCDlKGpgCpiTcCR2.mpga"
+      }
+     ]
+    },
+    {
+     "word": "charge",
+     "pos": "Verb",
+     "pron": "tʃɑːrdʒ",
+     "definition": "to ask for an amount of money for a product or service",
+     "ko": "청구하다",
+     "audio": "https://assets.app.engoo.com/sounds/HuRIwdlMjriNjBaK41DLjkVIfc4c8O9RelqxFDBvRcl.mpga",
+     "examples": [
+      {
+       "text": "How much do they charge for a haircut?",
+       "audio": "https://assets.app.engoo.com/sounds/yUNSo2cXXuFthbYWjns76D66mQnLu2lkk6lB7ilxwyP.mpga"
+      }
+     ]
+    },
+    {
+     "word": "compare",
+     "pos": "Verb",
+     "pron": "kəmˈpɛr",
+     "definition": "to estimate, measure, or note how two people or things are similar or different from each other",
+     "ko": "비교하다",
+     "audio": "https://assets.app.engoo.com/sounds/e4OYBk3X0J8IHx8jvkVZgxEjSuOJbOp07Wego08PfGE.mpga",
+     "examples": [
+      {
+       "text": "Being compared to Serena Williams is a great compliment. ",
+       "audio": "https://assets.app.engoo.com/sounds/2QeqJ1TUFL2sAdC7rlocpw.mpga"
+      }
+     ]
+    },
+    {
+     "word": "dedicate",
+     "pos": "Verb",
+     "pron": "ˈdedɪkeɪt",
+     "definition": "to say that something has been done, written, etc. for a particular person or group",
+     "ko": "바치다, 헌정하다",
+     "audio": "https://assets.app.engoo.com/sounds/ZAKQf4w5SkCiym5TbxgiqD5YxUDJauFXIkSSMeMeOkJ.mpga",
+     "examples": [
+      {
+       "text": "This monument is dedicated to soldiers killed in battle.",
+       "audio": "https://assets.app.engoo.com/sounds/T4HTa9oBjOeane2WoS10A44j6hoUEMbbbTkPhT89npi.mpga"
+      }
+     ]
+    }
+   ],
+   "discussion": [
+    "What are your thoughts on the Palace Museum being the world's most popular?",
+    "Do you find it surprising that Chinese museums took 12 of the top 20 places?",
+    "Would you be interested in exploring Beijing's Forbidden City?",
+    "Do you think all museums should offer free admission?",
+    "What's the most impressive museum you've ever visited?"
+   ],
+   "furtherDiscussion": [
+    "Do you usually make time to visit museums when you're traveling?",
+    "Are there any famous museums around the world you'd love to visit?",
+    "What museums in your country would you recommend to tourists?",
+    "What's the oldest or most valuable object you've ever seen in a museum?",
+    "Do you know anyone who could happily spend all day in a museum?"
+   ],
+   "questions": [
+    {
+     "text": "What are your thoughts on the Palace Museum being the world's most popular?",
+     "section": "Discussion"
+    },
+    {
+     "text": "What's the most impressive museum you've ever visited?",
+     "section": "Discussion"
+    },
+    {
+     "text": "What museums in your country would you recommend to tourists?",
+     "section": "Further Discussion"
+    }
+   ]
+  },
+  {
+   "id": "b704f80e-ded9-11f1-bde6-9f9ad8f64558",
+   "title": "Housing and Pay Protests Sweep Major Spanish Cities",
+   "intro": "Explore the causes and impact of housing and pay protests in major Spanish cities, focusing on rent increases and workers’ demands.",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/3e40gn2yVXDaxlI6n8LSEv.jpeg",
+   "contentLevel": 8,
+   "level": "advanced",
+   "publishedAt": "2026-11-13T17:00:00Z",
+   "url": "https://engoo.com/app/daily-news/article/housing-and-pay-protests-sweep-major-spanish-cities/twT4Dt7ZEfG95p-a2PZFWA",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7gJWCwXtStr5fSlN2MDU51.mpga",
+   "paragraphs": [
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Millions of Spanish workers shut down businesses and public transport on Wednesday, November 11 before thousands took to the streets of major cities in a nationwide protest.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4rmXMIFqBPWavKCbA0ZSlD.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The walkout — under the slogan \"Salaries. Housing. Prices.\" — was the first general strike in Spain in 14 years, and the first ever in which the main reason was housing.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0lQft3yefs3FX0HRfY7boj.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Housing activists said 400,000 marchers joined the protest in Barcelona.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7BxvAiVty8sDaUAlrnpsma.mpga"
+      },
+      {
+       "text": "The city government also said that 55,000 people turned out just to walk behind one huge banner that read \"Live. Not Just Survive.\"",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2CremS0vPGRUfNXHeexI78.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Spanish government officials also estimated 120,000 people turned out in Madrid despite pouring rain.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5w59d5vPJre7WIQAufXXJE.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Across Spain, average rents have more than doubled over the past decade, eating into household budgets and upsetting voters.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0joNgQu1HSeicY9OJGmgIN.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "In Madrid, the average monthly cost of rent for a small apartment is around {{prn:$1,300|one thousand and three hundred dollars}}, while the national average monthly salary is around {{prn:$2,700|two thousand and seven hundred dollars}}.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7i0q5BwfjpUgbWWPe9gP6L.mpga"
+      },
+      {
+       "text": "That means the cost of renting an apartment in the Spanish capital is far more than the 30% of income recommended by housing experts.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2I1cQ9QX3FeyWd8NoRSanq.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Anger over rent increases recently reached boiling point after an 87-year-old woman named Maricarmen Abascal was evicted from an apartment where she'd lived for over 70 years.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5Bn4fbqPCS2p2etYZYKm2G.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Legal negotiations won Maricarmen the right to move back to her home, but she passed away shortly after.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2UQ0pO2rExjdmS8iH2AfLw.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Housing activists used the anger over Maricarmen's story to call for the strike, and soon won labor union support.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1B44IRWSuQl8mEMyAVTo7z.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The housing activists want a number of measures introduced to protect renters, including the automatic renewal of leases.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3eCzZOJWYIhWJkeQYJboUd.mpga"
+      },
+      {
+       "text": "Meanwhile, unions demand more public housing and a new minimum wage agreement.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4DbWz5wz9RoNVSRf3MYY6Q.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The protests were mostly peaceful.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2g3UvtB03aypPtQbfkQsiJ.mpga"
+      },
+      {
+       "text": "However, in Barcelona, some younger protesters were seen smashing the windows of brand-name stores and starting small fires on the Paseo de Gracia, a major shopping street.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7j6MEgcjOfKld6ZiyEdWNP.mpga"
+      },
+      {
+       "text": "Some launched fireworks at police.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0noUYDuwa4R0qKxCvYQIzk.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "There were also some scuffles between protesters and police in Madrid.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1uijDzH7JTtDlraKUhorvZ.mpga"
+      },
+      {
+       "text": "Police used pepper spray in some places and arrested 49 people for incidents related to the protests.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5rvjvHtXHku5chiwwKV91M.mpga"
+      }
+     ]
+    }
+   ],
+   "vocab": [
+    {
+     "word": "walkout",
+     "pos": "Noun",
+     "pron": "ˈwɔːkaʊt",
+     "definition": "a sudden departure, especially as part of a protest or strike",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/sounds/0sAkp6TP6cbC8r2RVJWSjy.mpga",
+     "examples": [
+      {
+       "text": "Teachers across the country staged a walkout after their salary demands weren't met.",
+       "audio": "https://assets.app.engoo.com/sounds/2y7Ey6Z4op8GFqLAaqxmM5.mpga"
+      }
+     ]
+    },
+    {
+     "word": "slogan",
+     "pos": "Noun",
+     "pron": "ˈsloʊgən",
+     "definition": "a short phrase that is easy to remember, especially one used in advertising",
+     "ko": "슬로건, 표어, 구호",
+     "audio": "https://assets.app.engoo.com/sounds/4n1Yasp81Qdb0yDQt8tyjE.mpga",
+     "examples": [
+      {
+       "text": "The protesters chanted anti-government slogans as they marched.",
+       "audio": "https://assets.app.engoo.com/sounds/0HStJHahj1lhpuonTD0WQ0.mpga"
+      }
+     ]
+    },
+    {
+     "word": "activist",
+     "pos": "Noun",
+     "pron": "ˈæktəvɪst",
+     "definition": "a person who works to achieve a particular social or political goal",
+     "ko": "운동가, 활동가",
+     "audio": "https://assets.app.engoo.com/sounds/KFEmETjxz45VvZAG4ewxgVHBo1LAJ6tgyMqZmJvn7d0.mpga",
+     "examples": [
+      {
+       "text": "Activists have called for a boycott on companies that sell fur clothing.",
+       "audio": "https://assets.app.engoo.com/sounds/7IFngJ1ZY0ab0tybmU584A.mpga"
+      }
+     ]
+    },
+    {
+     "word": "evict",
+     "pos": "Verb",
+     "pron": "ɪˈvɪkt",
+     "definition": "to make a person or group leave a house, area of land, etc.",
+     "ko": "쫓아내다, 퇴거시키다",
+     "audio": "https://assets.app.engoo.com/sounds/QhMIllgXLCvbDqNqeRlEwg2KJ7DSbB2JYWRDH1eMKTn.mpga",
+     "examples": [
+      {
+       "text": "Mary and Tony were evicted after failing to pay their rent for three months.",
+       "audio": "https://assets.app.engoo.com/sounds/2EM5NpBVj4sg7FOme4YyOo.mpga"
+      }
+     ]
+    },
+    {
+     "word": "negotiation",
+     "pos": "Noun",
+     "pron": "nɪˌgoʊʃiːˈeɪʃən",
+     "definition": "discussion between people or organizations aimed at reaching an agreement",
+     "ko": "협상, 교섭, 절충, 협의",
+     "audio": "https://assets.app.engoo.com/sounds/CvmhV1foyLhkEgchl4tGfPhO6R2nihzzJcqa6OmdG8n.mpga",
+     "examples": [
+      {
+       "text": "The details of the contract are still under negotiation.",
+       "audio": "https://assets.app.engoo.com/sounds/303rq0Y5Tq6sAUjdGYoOOP.mpga"
+      }
+     ]
+    },
+    {
+     "word": "scuffle",
+     "pos": "Noun",
+     "pron": "ˈskʌfl",
+     "definition": "a short, confused fight",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/sounds/4V07sScQacdu1oU3ZWr0VL.mpga",
+     "examples": [
+      {
+       "text": "He was involved in a scuffle with a security guard at the event.",
+       "audio": "https://assets.app.engoo.com/sounds/6X8jkaze6Rr30WbPuUEK9h.mpga"
+      }
+     ]
+    }
+   ],
+   "discussion": [
+    "What are your thoughts on the general strike in Spain?",
+    "Have housing prices seen big increases in your country in recent years?",
+    "Do your country's laws tend to favor landlords or renters?",
+    "What are the most expensive parts of your town or city to live in?",
+    "What are the most expensive places to buy property in your country?"
+   ],
+   "furtherDiscussion": [
+    "Do you know anyone who has recently bought a home?",
+    "If you were buying a home, what factors would be most important to you?",
+    "When was the last time you moved? Do you prefer your new home?",
+    "What parts of your town or city would you like to live in?",
+    "What would your ideal home look like? Where would it be located?"
+   ],
+   "questions": [
+    {
+     "text": "What are the most expensive places to buy property in your country?",
+     "section": "Discussion"
+    },
+    {
+     "text": "What are your thoughts on the general strike in Spain?",
+     "section": "Discussion"
+    },
+    {
+     "text": "What parts of your town or city would you like to live in?",
+     "section": "Further Discussion"
+    }
+   ]
+  },
+  {
+   "id": "4824d0a6-deb3-11f1-a015-17e2d844eaff",
+   "title": "_Zelda_ Remake Becomes Switch 2's Fastest-Selling Game",
+   "intro": "Learn about the record-breaking Switch 2 remake of _The Legend of Zelda: Ocarina of Time_, its features, sales, and appeal to new and old players.",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/4PKbSOfzwjv6zepbia6Y3O.jpeg",
+   "contentLevel": 7,
+   "level": "advanced",
+   "publishedAt": "2026-11-13T17:00:00Z",
+   "url": "https://engoo.com/app/daily-news/article/zelda-remake-becomes-switch-2s-fastest-selling-game/SCTQpt6zEfGgFRfi2ETq_w",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6LiRf7kmeLr5WS1wxo6W5O.mpga",
+   "paragraphs": [
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Link must protect the kingdom of Hyrule from the evil Ganondorf — but luckily, he has millions of players around the world ready to help him!",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3lvdrVjV9tDvEHdVI8j5HA.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The remake of Nintendo's _The Legend of Zelda: Ocarina of Time_ was released on November 5, and it sold more than 5.2 million copies around the world in its first four days.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5G7B8IqTgWrYejqwMYOjUY.mpga"
+      },
+      {
+       "text": "This includes {{prn:810,000|eight hundred and ten thousand}} copies sold in Japan.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2kHj3XI0TA3dnzIF8AJNi0.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "This makes it the fastest-selling game released by Nintendo for its Switch 2 console so far.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5AuJgOpKWWZlWGmDvWUnMl.mpga"
+      },
+      {
+       "text": "The sales figures include both physical and digital copies.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0Nz6BfxX6LBYazP8trVbtr.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The original game was released in 1998 for the Nintendo 64.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7YaUgzynHX7HdIljzMuwOK.mpga"
+      },
+      {
+       "text": "In the game, players have time-travel powers that allow them to play across two time periods as young Link and adult Link.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3tpn1CiJB6xTmu8cgpDvFN.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "When the game was first released, it was considered a huge breakthrough in video games, introducing many players to a huge 3D world they could explore.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3x4lY0LMrH2W52GWSKPBkm.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "It went on to become one of Nintendo's highest-rated games.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2Jb9EFyQFYse8wMPz6ETGr.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "_The Legend of Zelda: Ocarina of Time_ was re-released for the Nintendo 3DS in 2011, with better graphics and controls, but it largely kept the original game's look and feel.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4gUsLAJ90YvnPOOZOX7S2i.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The new version has been recreated for the Switch 2, with updated graphics, new music and improved camera and movement controls.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6w39Lx16mvBV0hJUvfLfgm.mpga"
+      },
+      {
+       "text": "It also includes new voiced cutscenes and more dialogue.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/57IM9ttRKFFBxvvVsb82qM.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "As in the original, music plays an important role in the game.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0sdHNDI0ep4tffHcktOiEO.mpga"
+      },
+      {
+       "text": "Link carries an ocarina — a small wind instrument — which he uses to play special melodies that help him solve puzzles and continue his adventure.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0foZ0kg7z9FNenlxBRH5mQ.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "In the remake, players can even use the Switch 2's microphone to hum or play these tunes themselves!",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2qD9guqlEJv7Omze71fkyx.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Nintendo says the game is a \"great jumping-off point to learn what the series is all about,\" especially for people who have never played any Zelda games before.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3hS6EylgAASAUSV3NwaAjS.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The game is available exclusively for the Nintendo Switch 2, and costs {{prn:$59.99|fifty nine dollars and ninety nine cents}}.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/431MofpOHcuFFu951uWNKC.mpga"
+      }
+     ]
+    }
+   ],
+   "vocab": [
+    {
+     "word": "physical",
+     "pos": "Adjective",
+     "pron": "ˈfɪzɪkl",
+     "definition": "relating to or involving things that can be seen, touched, etc.",
+     "ko": "물질의, 물질적인",
+     "audio": "https://assets.app.engoo.com/sounds/1aHZKh74ffBeWSSFwkn4Vi.mpga",
+     "examples": [
+      {
+       "text": "I prefer to buy physical copies of games rather than downloading them.",
+       "audio": "https://assets.app.engoo.com/sounds/16FsVwMKAoDjWbgaNYU3oG.mpga"
+      }
+     ]
+    },
+    {
+     "word": "breakthrough",
+     "pos": "Noun",
+     "pron": "ˈbreɪkˌθruː",
+     "definition": "a sudden and important discovery or development; an instance of achieving success in a particular area or activity",
+     "ko": "돌파구",
+     "audio": "https://assets.app.engoo.com/sounds/2XZis53qu28yvaJRBgY7qx.mpga",
+     "examples": [
+      {
+       "text": "The discovery of the structure of the DNA molecule was a major breakthrough in genetics.",
+       "audio": "https://assets.app.engoo.com/sounds/09ecTK33QAimnkkuzhrox4.mpga"
+      },
+      {
+       "text": "Critics started to take notice of the young actor after his breakthrough performance.",
+       "audio": "https://assets.app.engoo.com/sounds/3F0KFzd7P4JjRkC3r2fhcZ.mpga"
+      }
+     ]
+    },
+    {
+     "word": "dialogue",
+     "pos": "Noun",
+     "pron": "ˈdaɪəˌlɔg",
+     "definition": "a conversation in a book, film, play, etc.",
+     "ko": "대화",
+     "audio": "https://assets.app.engoo.com/sounds/WBEW7p6MvABpcElgIyUxB3gfAtCxgE7pwjisrnygpOe.mpga",
+     "examples": [
+      {
+       "text": "I thought the movie was boring and had terrible dialogue.",
+       "audio": "https://assets.app.engoo.com/sounds/4bG6gvlXvrEfHTWmpqMwBz.mpga"
+      }
+     ]
+    },
+    {
+     "word": "melody",
+     "pos": "Noun",
+     "pron": "ˈmɛlədiː",
+     "definition": "a series of musical notes organized in a pleasing way",
+     "ko": "멜로디, 선율",
+     "audio": "https://assets.app.engoo.com/sounds/imX47Keq9eMISLcnPXCtFJbaoZsxzK9ZEV2McrZFub9.mpga",
+     "examples": [
+      {
+       "text": "\"Here Comes the Sun\" has such a delightful melody.",
+       "audio": "https://assets.app.engoo.com/sounds/102L2sFcwiv0AvHer3o27v.mpga"
+      }
+     ]
+    },
+    {
+     "word": "jumping-off point",
+     "pos": "Noun",
+     "pron": "ˌdʒʌmpɪŋ ˈɔːf pɔɪnt",
+     "definition": "a place from which a new activity, journey, etc. is started",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/sounds/51436WxYY2nbKMsINxkLnU.mpga",
+     "examples": [
+      {
+       "text": "Cape Town, South Africa, is a good jumping-off point for a trip to Africa.",
+       "audio": "https://assets.app.engoo.com/sounds/6MT9pZQlrLMYuhnjO2moUo.mpga"
+      }
+     ]
+    },
+    {
+     "word": "exclusively",
+     "pos": "Adverb",
+     "pron": "ɪkˈskluːsɪvliː",
+     "definition": "not including others",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/sounds/0QI0zeTcOCIfnjHCuQH1sGEQO7U76K5XmzS9GMJFS3f.mpga",
+     "examples": [
+      {
+       "text": "This offer is available exclusively to our existing customers. ",
+       "audio": "https://assets.app.engoo.com/sounds/7a1jGrJMCW8OUCY5aRXuTc.mpga"
+      }
+     ]
+    }
+   ],
+   "discussion": [
+    "What are your thoughts on the new Zelda's record-breaking sales?",
+    "Have you played many Zelda games? Which are your favorites?",
+    "Are you a big fan of Nintendo games?",
+    "What are some of the best games from when you were growing up? Have they had a remake?",
+    "Are there any games you wish would get a remake?"
+   ],
+   "furtherDiscussion": [
+    "Do you have a Switch 2? Would you like to get one?",
+    "What consoles have you played on the most?",
+    "What are some of the first video games you played?",
+    "Do you think games were better in the past than they are today?",
+    "Have you ever been disappointed by a highly anticipated game?"
+   ],
+   "questions": [
+    {
+     "text": "What are your thoughts on the new Zelda's record-breaking sales?",
+     "section": "Discussion"
+    },
+    {
+     "text": "What are some of the best games from when you were growing up? Have they had a remake?",
+     "section": "Discussion"
+    },
+    {
+     "text": "Do you think games were better in the past than they are today?",
+     "section": "Further Discussion"
+    }
+   ]
+  },
   {
    "id": "0eeddef8-dd15-11f1-bd02-ab0263f2d4de",
    "title": "Japan's New Vending Machines Make Fresh Matcha",
@@ -488,6 +1448,247 @@
    ]
   },
   {
+   "id": "5804c28c-d8ab-11f1-921f-676036cf3469",
+   "title": "Fruit and Vegetable Scraps Could Boost Health — Study",
+   "intro": "A study finds that fruit and vegetable scraps like skins and seeds contain more fiber and health benefits than parts we typically eat.",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/7OUqXjIEKQhPMYeBKoEEs3.jpeg",
+   "contentLevel": 8,
+   "level": "advanced",
+   "publishedAt": "2026-11-12T17:00:00Z",
+   "url": "https://engoo.com/app/daily-news/article/fruit-and-vegetable-scraps-could-boost-health-study/WATCjNirEfGSH2dgNs80aQ",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/529EbquEMPH16TMsdoZb8J.mpga",
+   "paragraphs": [
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Many of us throw away things like the skins, stalks and seeds of fruits and vegetables.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/63BRpWWpUdX6M7yGogk4wC.mpga"
+      },
+      {
+       "text": "But we could be discarding important health benefits along with these scraps!",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1MdvTDIQXQ32kPN1X6wPix.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "A study published in the _ International Journal of Food Sciences and Nutrition_ looked at 12 types of fruits and vegetables commonly eaten in the UK, including watermelon, broccoli and butternut squash.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1K9lrUHa7zU6NT9QeJc86W.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Researchers examined the parts of each fruit or vegetable that are commonly thrown away.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5gbLeWHBDTwYt6jMDpl7Il.mpga"
+      },
+      {
+       "text": "They found that in 10 out of 12, there are much higher levels of dietary fiber in the parts people don't usually consume compared with those they normally eat.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/58iTMPYgWqJeRyYa2Uc9BH.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "For example, watermelon rinds were found to contain around 2 grams of fiber per 100 grams, which is about the same as a slice of whole wheat bread.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/70qV5uHge2GvJEOe2p3Ydo.mpga"
+      },
+      {
+       "text": "But the softer inside part of a watermelon has just 0.4 grams of dietary fiber per 100 grams.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6up5bf8mkTRV4amQOPWGCT.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Butternut squash skin and seeds offer a little over 9 grams of fiber per 100 grams — about one-third of the 30 grams the UK government recommends adults eat each day.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/42kKwS1LnFMq55hSvnkyOv.mpga"
+      },
+      {
+       "text": "That's much higher than the 2 grams of fiber per 100 grams found in the part of butternut squash usually eaten.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6GB0UfcWEKYM4j7Ols6ygk.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Broccoli was the exception — the stalks that people usually throw away have 28% less fiber than the florets on top of them, which are usually eaten.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3EG2ahtUPxTr773Aj6Xv7L.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Fiber is an important part of a healthy diet, improving digestion and reducing the risk of heart disease and some cancers.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3FOZAoo04YVUraUKTOupEJ.mpga"
+      },
+      {
+       "text": "However, many people around the world don't get enough.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0QLjzSHwWjGIczi4bmEwm5.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Using the often-discarded parts of fruit and vegetables could help — but people usually don't want to eat them.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3zSFlONHpbJhcXpWYblLa4.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "So the researchers tried selling some recipes at foodservice outlets at King's College London.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/29ITKSj29Uo9bXm63Mnfpd.mpga"
+      },
+      {
+       "text": "For nine weeks, students could buy things like watermelon salad that included the rind, or an African-style peanut stew with butternut squash skin and seeds.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/06VElqwmWmngHDHSX6NkVm.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "These ended up representing around one-third of hot meal sales during those nine weeks — and in follow-up surveys, 77% of students said they'd likely choose them again!",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3eSimx0XbPeKbSTDDSgj3R.mpga"
+      }
+     ]
+    }
+   ],
+   "vocab": [
+    {
+     "word": "stalk",
+     "pos": "Noun",
+     "pron": "stɔːk",
+     "definition": "the main stem of a plant",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/sounds/5TstgSBelQbC4q0gI7u6Zh.mpga",
+     "examples": [
+      {
+       "text": "Corn stalks typically grow to about 2.5 meters, but can be even taller than that.",
+       "audio": "https://assets.app.engoo.com/sounds/2MQllXyuDsCkEyvxt6aAVw.mpga"
+      }
+     ]
+    },
+    {
+     "word": "discard",
+     "pos": "Verb",
+     "pron": "dɪˈskɑːrd",
+     "definition": "to throw away or get rid of something",
+     "ko": "버리다, 폐기하다",
+     "audio": "https://assets.app.engoo.com/sounds/YgaVkKZ4BcqOD7gsORcTtesGqckFo6Q0Q7OUhs5wA6P.mpga",
+     "examples": [
+      {
+       "text": "Millions of tons of discarded plastic bottles end up in the oceans each year.",
+       "audio": "https://assets.app.engoo.com/sounds/044FZj7gvdafKk6xWmpvPO.mpga"
+      }
+     ]
+    },
+    {
+     "word": "scrap",
+     "pos": "Noun",
+     "pron": "skræp",
+     "definition": "something leftover that is not needed or wanted",
+     "ko": "남은 음식, 찌꺼기, 폐품",
+     "audio": "https://assets.app.engoo.com/sounds/21uABo6RCjOVV0UYJBNy71.mpga",
+     "examples": [
+      {
+       "text": "Put all fruit and vegetable scraps into the compost bin.",
+       "audio": "https://assets.app.engoo.com/sounds/2Dx19KKZ9bqYhZZjLrgu7k.mpga"
+      }
+     ]
+    },
+    {
+     "word": "fiber",
+     "pos": "Noun",
+     "pron": "ˈfaɪbər",
+     "definition": "a substance found in fruit, vegetables, etc. that helps food pass through the body",
+     "ko": "섬유, 섬유질",
+     "audio": "https://assets.app.engoo.com/sounds/3yctWxtoEAu69VkXW28DEg.mpga",
+     "examples": [
+      {
+       "text": "Apples are a good source of dietary fiber.",
+       "audio": "https://assets.app.engoo.com/sounds/0OQQXqCQwTqf1lCeM2UvFF.mpga"
+      }
+     ]
+    },
+    {
+     "word": "rind",
+     "pos": "Noun",
+     "pron": "raɪnd",
+     "definition": "the hard, outer edge of certain foods",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/sounds/3YTo8VQhMNjPjptRnhhyLH.mpga",
+     "examples": [
+      {
+       "text": "Brie has a hard rind but the inside is creamy.",
+       "audio": "https://assets.app.engoo.com/sounds/0JFqtfDRcmMKCVumIB8y0f.mpga"
+      }
+     ]
+    },
+    {
+     "word": "floret",
+     "pos": "Noun",
+     "pron": "ˈflɒrɪt",
+     "definition": "one of the small pieces that make up a head of broccoli or cauliflower",
+     "ko": "",
+     "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0xTs4pISyGw8a8pJdFJHGO.mpga",
+     "examples": [
+      {
+       "text": "Rinse the florets under cold water before adding them to the pot.",
+       "audio": "https://assets.app.engoo.com/sounds/1hh5J5PAlsvSCk7o8oPlHP.mpga"
+      }
+     ]
+    }
+   ],
+   "discussion": [
+    "What are your thoughts on the study's findings?",
+    "Are you surprised that fruit and vegetable scraps can be so rich in fiber?",
+    "Would you be interested in trying a watermelon salad made with the rind?",
+    "What do you normally do with your food scraps?",
+    "What fruits and vegetables do you use most often in cooking?"
+   ],
+   "furtherDiscussion": [
+    "Have you ever grown your own fruit and vegetables?",
+    "Are there any fruits or vegetables you dislike the taste of?",
+    "Where do you usually get your produce?",
+    "Are there many farmers' markets in your area?",
+    "Is food waste a big problem in your country?"
+   ],
+   "questions": [
+    {
+     "text": "What are your thoughts on the study's findings?",
+     "section": "Discussion"
+    },
+    {
+     "text": "Would you be interested in trying a watermelon salad made with the rind?",
+     "section": "Discussion"
+    },
+    {
+     "text": "Is food waste a big problem in your country?",
+     "section": "Further Discussion"
+    }
+   ]
+  },
+  {
    "id": "85518f14-d300-11f1-9cb0-e36cc2d0eb11",
    "title": "Paper Straws May Be Worse for Environment than Plastic",
    "intro": "This lesson explores a study comparing the environmental impact of paper, plastic, biodegradable, and plant-based straws.",
@@ -948,247 +2149,6 @@
     },
     {
      "text": "What kind of car would best suit your lifestyle at the moment?",
-     "section": "Further Discussion"
-    }
-   ]
-  },
-  {
-   "id": "5804c28c-d8ab-11f1-921f-676036cf3469",
-   "title": "Fruit and Vegetable Scraps Could Boost Health — Study",
-   "intro": "A study finds that fruit and vegetable scraps like skins and seeds contain more fiber and health benefits than parts we typically eat.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/7OUqXjIEKQhPMYeBKoEEs3.jpeg",
-   "contentLevel": 8,
-   "level": "advanced",
-   "publishedAt": "2026-11-12T17:00:00Z",
-   "url": "https://engoo.com/app/daily-news/article/fruit-and-vegetable-scraps-could-boost-health-study/WATCjNirEfGSH2dgNs80aQ",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/529EbquEMPH16TMsdoZb8J.mpga",
-   "paragraphs": [
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Many of us throw away things like the skins, stalks and seeds of fruits and vegetables.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/63BRpWWpUdX6M7yGogk4wC.mpga"
-      },
-      {
-       "text": "But we could be discarding important health benefits along with these scraps!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1MdvTDIQXQ32kPN1X6wPix.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "A study published in the _ International Journal of Food Sciences and Nutrition_ looked at 12 types of fruits and vegetables commonly eaten in the UK, including watermelon, broccoli and butternut squash.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1K9lrUHa7zU6NT9QeJc86W.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Researchers examined the parts of each fruit or vegetable that are commonly thrown away.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5gbLeWHBDTwYt6jMDpl7Il.mpga"
-      },
-      {
-       "text": "They found that in 10 out of 12, there are much higher levels of dietary fiber in the parts people don't usually consume compared with those they normally eat.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/58iTMPYgWqJeRyYa2Uc9BH.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "For example, watermelon rinds were found to contain around 2 grams of fiber per 100 grams, which is about the same as a slice of whole wheat bread.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/70qV5uHge2GvJEOe2p3Ydo.mpga"
-      },
-      {
-       "text": "But the softer inside part of a watermelon has just 0.4 grams of dietary fiber per 100 grams.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6up5bf8mkTRV4amQOPWGCT.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Butternut squash skin and seeds offer a little over 9 grams of fiber per 100 grams — about one-third of the 30 grams the UK government recommends adults eat each day.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/42kKwS1LnFMq55hSvnkyOv.mpga"
-      },
-      {
-       "text": "That's much higher than the 2 grams of fiber per 100 grams found in the part of butternut squash usually eaten.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6GB0UfcWEKYM4j7Ols6ygk.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Broccoli was the exception — the stalks that people usually throw away have 28% less fiber than the florets on top of them, which are usually eaten.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3EG2ahtUPxTr773Aj6Xv7L.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Fiber is an important part of a healthy diet, improving digestion and reducing the risk of heart disease and some cancers.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3FOZAoo04YVUraUKTOupEJ.mpga"
-      },
-      {
-       "text": "However, many people around the world don't get enough.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0QLjzSHwWjGIczi4bmEwm5.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Using the often-discarded parts of fruit and vegetables could help — but people usually don't want to eat them.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3zSFlONHpbJhcXpWYblLa4.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "So the researchers tried selling some recipes at foodservice outlets at King's College London.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/29ITKSj29Uo9bXm63Mnfpd.mpga"
-      },
-      {
-       "text": "For nine weeks, students could buy things like watermelon salad that included the rind, or an African-style peanut stew with butternut squash skin and seeds.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/06VElqwmWmngHDHSX6NkVm.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "These ended up representing around one-third of hot meal sales during those nine weeks — and in follow-up surveys, 77% of students said they'd likely choose them again!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3eSimx0XbPeKbSTDDSgj3R.mpga"
-      }
-     ]
-    }
-   ],
-   "vocab": [
-    {
-     "word": "stalk",
-     "pos": "Noun",
-     "pron": "stɔːk",
-     "definition": "the main stem of a plant",
-     "ko": "",
-     "audio": "https://assets.app.engoo.com/sounds/5TstgSBelQbC4q0gI7u6Zh.mpga",
-     "examples": [
-      {
-       "text": "Corn stalks typically grow to about 2.5 meters, but can be even taller than that.",
-       "audio": "https://assets.app.engoo.com/sounds/2MQllXyuDsCkEyvxt6aAVw.mpga"
-      }
-     ]
-    },
-    {
-     "word": "discard",
-     "pos": "Verb",
-     "pron": "dɪˈskɑːrd",
-     "definition": "to throw away or get rid of something",
-     "ko": "버리다, 폐기하다",
-     "audio": "https://assets.app.engoo.com/sounds/YgaVkKZ4BcqOD7gsORcTtesGqckFo6Q0Q7OUhs5wA6P.mpga",
-     "examples": [
-      {
-       "text": "Millions of tons of discarded plastic bottles end up in the oceans each year.",
-       "audio": "https://assets.app.engoo.com/sounds/044FZj7gvdafKk6xWmpvPO.mpga"
-      }
-     ]
-    },
-    {
-     "word": "scrap",
-     "pos": "Noun",
-     "pron": "skræp",
-     "definition": "something leftover that is not needed or wanted",
-     "ko": "남은 음식, 찌꺼기, 폐품",
-     "audio": "https://assets.app.engoo.com/sounds/21uABo6RCjOVV0UYJBNy71.mpga",
-     "examples": [
-      {
-       "text": "Put all fruit and vegetable scraps into the compost bin.",
-       "audio": "https://assets.app.engoo.com/sounds/2Dx19KKZ9bqYhZZjLrgu7k.mpga"
-      }
-     ]
-    },
-    {
-     "word": "fiber",
-     "pos": "Noun",
-     "pron": "ˈfaɪbər",
-     "definition": "a substance found in fruit, vegetables, etc. that helps food pass through the body",
-     "ko": "섬유, 섬유질",
-     "audio": "https://assets.app.engoo.com/sounds/3yctWxtoEAu69VkXW28DEg.mpga",
-     "examples": [
-      {
-       "text": "Apples are a good source of dietary fiber.",
-       "audio": "https://assets.app.engoo.com/sounds/0OQQXqCQwTqf1lCeM2UvFF.mpga"
-      }
-     ]
-    },
-    {
-     "word": "rind",
-     "pos": "Noun",
-     "pron": "raɪnd",
-     "definition": "the hard, outer edge of certain foods",
-     "ko": "",
-     "audio": "https://assets.app.engoo.com/sounds/3YTo8VQhMNjPjptRnhhyLH.mpga",
-     "examples": [
-      {
-       "text": "Brie has a hard rind but the inside is creamy.",
-       "audio": "https://assets.app.engoo.com/sounds/0JFqtfDRcmMKCVumIB8y0f.mpga"
-      }
-     ]
-    },
-    {
-     "word": "floret",
-     "pos": "Noun",
-     "pron": "ˈflɒrɪt",
-     "definition": "one of the small pieces that make up a head of broccoli or cauliflower",
-     "ko": "",
-     "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0xTs4pISyGw8a8pJdFJHGO.mpga",
-     "examples": [
-      {
-       "text": "Rinse the florets under cold water before adding them to the pot.",
-       "audio": "https://assets.app.engoo.com/sounds/1hh5J5PAlsvSCk7o8oPlHP.mpga"
-      }
-     ]
-    }
-   ],
-   "discussion": [
-    "What are your thoughts on the study's findings?",
-    "Are you surprised that fruit and vegetable scraps can be so rich in fiber?",
-    "Would you be interested in trying a watermelon salad made with the rind?",
-    "What do you normally do with your food scraps?",
-    "What fruits and vegetables do you use most often in cooking?"
-   ],
-   "furtherDiscussion": [
-    "Have you ever grown your own fruit and vegetables?",
-    "Are there any fruits or vegetables you dislike the taste of?",
-    "Where do you usually get your produce?",
-    "Are there many farmers' markets in your area?",
-    "Is food waste a big problem in your country?"
-   ],
-   "questions": [
-    {
-     "text": "What are your thoughts on the study's findings?",
-     "section": "Discussion"
-    },
-    {
-     "text": "Would you be interested in trying a watermelon salad made with the rind?",
-     "section": "Discussion"
-    },
-    {
-     "text": "Is food waste a big problem in your country?",
      "section": "Further Discussion"
     }
    ]
@@ -3029,228 +3989,6 @@
    ]
   },
   {
-   "id": "9e860024-d9a8-11f1-bbdd-43453f50bf6e",
-   "title": "One in Four Teens Not Getting Enough Exercise",
-   "intro": "This lesson explores a global study showing that most teens don't exercise enough, with activity levels lower for girls and in less wealthy regions.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/558cDdBCdB8JJcuvkT4AfU.png",
-   "contentLevel": 7,
-   "level": "advanced",
-   "publishedAt": "2026-11-10T18:00:00Z",
-   "url": "https://engoo.com/app/daily-news/article/one-in-four-teens-not-getting-enough-exercise/noYAJNmoEfG73UNFP1C_bg",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6Kavqlwyo55hzhnpj5eAEd.mpga",
-   "paragraphs": [
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Young people across the world are not getting enough physical activity, according to a new study, with one in four adolescents saying they are not active on any day of the week.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3ic4Qf4ABFzO47XNJ3Bmf7.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "An international team of researchers looked at around {{prn:390|three hundred and ninety}} surveys of 3.2 million adolescents aged 11 to 17 in {{prn:140|one hundred and forty}} countries.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5A2B2HAf6mOsZxcvTNAvt8.mpga"
-      },
-      {
-       "text": "The researchers counted an active day as one in which a person got at least 60 minutes of moderate-to-vigorous physical activity.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1EQElFxuughWBYnks9C3FD.mpga"
-      },
-      {
-       "text": "Sixty minutes is the World Health Organization's recommended daily amount of exercise for children and adolescents.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2ive4HbZcfUTlPqXufzJyz.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The researchers found that in 2025, almost 25% — around 240 million adolescents — reported no active days a week.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/72wHFK47vfkQWlDSo8ba8u.mpga"
-      },
-      {
-       "text": "The global average was 2.7 active days a week, and just 14% of adolescents were active every day.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5NlsOB6ukIIiEXhrbPNoZt.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Across the world, girls reported fewer active days than boys, at an average of 2.4 days compared to 3 days for boys.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5mX6ZicZdsZdL9Rmtq24ff.mpga"
-      },
-      {
-       "text": "And while average activity for boys didn't change much as they aged, for girls there was a decline from 2.6 days at 11 years old to 2.2 days at 17.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0JdzUPthYPohrZdOIXMcGM.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "There were also differences between regions.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5JzJe8cDAybALevSqarAJb.mpga"
-      },
-      {
-       "text": "In Central Asia, East Asia and the Pacific, Europe and other high-income Western countries the average was around 4 active days.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3NUfoycTVAtaej8HZmzakH.mpga"
-      },
-      {
-       "text": "In contrast, regions where incomes are lower, such as the Middle East and North Africa, South and Southeast Asia, and Sub-Saharan Africa, averaged around 2 active days.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/68WtCr8l83QsqgaKz79wjQ.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The study authors said regional differences could be explained by the fact that wealthier countries can afford to promote physical activity more and provide public spaces for it.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1RQLrloZ9MATG03M9UnTGi.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "In 2018, the World Health Organization set a target for 2030 of a 15% reduction in adolescents who don't get 60 minutes of activity each day.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3CbK286cmzrhz24OHOJ3pS.mpga"
-      },
-      {
-       "text": "However, according to the study, no country or region is on track to meet that target.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6BQnZALypGnfIjGQoNRriO.mpga"
-      }
-     ]
-    }
-   ],
-   "vocab": [
-    {
-     "word": "physical",
-     "pos": "Adjective",
-     "pron": "ˈfɪzɪkəl",
-     "definition": "relating to the body ",
-     "ko": "신체적인, 육체의, 신체의",
-     "audio": "https://assets.app.engoo.com/sounds/Ikyp6QwHBVkLMvmlHYuvzohxaAmGP15rhHDOzgi0GHk.mpga",
-     "examples": [
-      {
-       "text": "Research has shown that hiking benefits both our physical and mental health.",
-       "audio": "https://assets.app.engoo.com/sounds/63SlVVt2a53wr4EYg33X2u.mpga"
-      }
-     ]
-    },
-    {
-     "word": "adolescent",
-     "pos": "Noun",
-     "pron": "ˌædəˈlesnt",
-     "definition": "a person who is developing from a child into an adult",
-     "ko": "청소년",
-     "audio": "https://assets.app.engoo.com/sounds/TiAFP3DmtwSvtGNn3FByXylmRpKNycpcj6AA6eoqEo5.mpga",
-     "examples": [
-      {
-       "text": "As a teacher, I find working with adolescents the most challenging.",
-       "audio": "https://assets.app.engoo.com/sounds/0ujjNsIZ1soUgOsbQj1sWJ.mpga"
-      }
-     ]
-    },
-    {
-     "word": "moderate",
-     "pos": "Adjective",
-     "pron": "ˈmɑːdɛrət",
-     "definition": "average in size, quality, degree, etc.",
-     "ko": "보통의, 중간의, 적당한, 적정한",
-     "audio": "https://assets.app.engoo.com/sounds/AOWH3MNmCCoEx6jsjY5DoOWYA2ERUhktHl7eeLsvQu5.mpga",
-     "examples": [
-      {
-       "text": "Health experts say that adults should get at least 150 minutes of moderate exercise every week.",
-       "audio": "https://assets.app.engoo.com/sounds/5Lhticcd5ERL8elXqX7uUK.mpga"
-      }
-     ]
-    },
-    {
-     "word": "vigorous",
-     "pos": "Adjective",
-     "pron": "ˈvɪgərəs",
-     "definition": "involving strength or effort; active and full of energy",
-     "ko": "활기찬, 격렬한",
-     "audio": "https://assets.app.engoo.com/sounds/W9UzLUvPXr1b74LgvuKvmdhttyFqt47bWfuWyWQfdK3.mpga",
-     "examples": [
-      {
-       "text": "I do about an hour of vigorous exercise each week.",
-       "audio": "https://assets.app.engoo.com/sounds/77a6UjADyTaASi3juP0j5f.mpga"
-      },
-      {
-       "text": "Even after his heart attack, my grandad continued living a vigorous life.",
-       "audio": "https://assets.app.engoo.com/sounds/4OTuaRTlxqeRa91W7VzCyh.mpga"
-      }
-     ]
-    },
-    {
-     "word": "target",
-     "pos": "Noun",
-     "pron": "ˈtɑːrgɪt",
-     "definition": "a goal or result that efforts are directed towards",
-     "ko": "목표, 대상",
-     "audio": "https://assets.app.engoo.com/sounds/EyIewmOWT0FBS0Mp9F06hu8Iln5ykPfB7gyYOKlTOBb.mpga",
-     "examples": [
-      {
-       "text": "Japan has set a target to be carbon neutral by 2050.",
-       "audio": "https://assets.app.engoo.com/sounds/5idcPkq4thchaTEVQzqd8O.mpga"
-      }
-     ]
-    },
-    {
-     "word": "reduction",
-     "pos": "Noun",
-     "pron": "rɪˈdʌkʃn",
-     "definition": "the action or fact of making something smaller in amount, size, etc.",
-     "ko": "감소, 인하, 축소, 할인",
-     "audio": "https://assets.app.engoo.com/sounds/kgrvHJYU1GspsWa6awrfifym7ymYRASMJjqs7rq7MGm.mpga",
-     "examples": [
-      {
-       "text": "The discovery of insulin led to a significant reduction in deaths from diabetes.",
-       "audio": "https://assets.app.engoo.com/sounds/7Svta4o1AKnpFcNa5efA2q.mpga"
-      }
-     ]
-    }
-   ],
-   "discussion": [
-    "What are your thoughts on the researchers' findings?",
-    "Why do you think adolescents are getting so little exercise?",
-    "How much physical activity did you get per week as a teenager?",
-    "Did you play any sports growing up?",
-    "How did you spend most of your free time as a teenager?"
-   ],
-   "furtherDiscussion": [
-    "Do you have any exercise targets or goals?",
-    "Do you ever find it hard to fit exercise into your schedule?",
-    "How has your exercise routine changed over the years?",
-    "Do you have any hobbies that also let you get some exercise?",
-    "What advice would you give someone who's finding it hard to motivate themselves to exercise?"
-   ],
-   "questions": [
-    {
-     "text": "Why do you think adolescents are getting so little exercise?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What are your thoughts on the researchers' findings?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What advice would you give someone who's finding it hard to motivate themselves to exercise?",
-     "section": "Further Discussion"
-    }
-   ]
-  },
-  {
    "id": "ba3fad7e-d7af-11f1-b769-0f53a8de902c",
    "title": "Drinking Wine Has Lower Death Risk than Beer, Spirits",
    "intro": "This lesson explores a study on how different types of alcohol—wine, beer, and spirits—affect health risks and mortality rates.",
@@ -3505,6 +4243,228 @@
     },
     {
      "text": "What do you usually drink when you go out?",
+     "section": "Further Discussion"
+    }
+   ]
+  },
+  {
+   "id": "9e860024-d9a8-11f1-bbdd-43453f50bf6e",
+   "title": "One in Four Teens Not Getting Enough Exercise",
+   "intro": "This lesson explores a global study showing that most teens don't exercise enough, with activity levels lower for girls and in less wealthy regions.",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/558cDdBCdB8JJcuvkT4AfU.png",
+   "contentLevel": 7,
+   "level": "advanced",
+   "publishedAt": "2026-11-10T18:00:00Z",
+   "url": "https://engoo.com/app/daily-news/article/one-in-four-teens-not-getting-enough-exercise/noYAJNmoEfG73UNFP1C_bg",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6Kavqlwyo55hzhnpj5eAEd.mpga",
+   "paragraphs": [
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Young people across the world are not getting enough physical activity, according to a new study, with one in four adolescents saying they are not active on any day of the week.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3ic4Qf4ABFzO47XNJ3Bmf7.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "An international team of researchers looked at around {{prn:390|three hundred and ninety}} surveys of 3.2 million adolescents aged 11 to 17 in {{prn:140|one hundred and forty}} countries.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5A2B2HAf6mOsZxcvTNAvt8.mpga"
+      },
+      {
+       "text": "The researchers counted an active day as one in which a person got at least 60 minutes of moderate-to-vigorous physical activity.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1EQElFxuughWBYnks9C3FD.mpga"
+      },
+      {
+       "text": "Sixty minutes is the World Health Organization's recommended daily amount of exercise for children and adolescents.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2ive4HbZcfUTlPqXufzJyz.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The researchers found that in 2025, almost 25% — around 240 million adolescents — reported no active days a week.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/72wHFK47vfkQWlDSo8ba8u.mpga"
+      },
+      {
+       "text": "The global average was 2.7 active days a week, and just 14% of adolescents were active every day.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5NlsOB6ukIIiEXhrbPNoZt.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Across the world, girls reported fewer active days than boys, at an average of 2.4 days compared to 3 days for boys.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5mX6ZicZdsZdL9Rmtq24ff.mpga"
+      },
+      {
+       "text": "And while average activity for boys didn't change much as they aged, for girls there was a decline from 2.6 days at 11 years old to 2.2 days at 17.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0JdzUPthYPohrZdOIXMcGM.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "There were also differences between regions.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5JzJe8cDAybALevSqarAJb.mpga"
+      },
+      {
+       "text": "In Central Asia, East Asia and the Pacific, Europe and other high-income Western countries the average was around 4 active days.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3NUfoycTVAtaej8HZmzakH.mpga"
+      },
+      {
+       "text": "In contrast, regions where incomes are lower, such as the Middle East and North Africa, South and Southeast Asia, and Sub-Saharan Africa, averaged around 2 active days.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/68WtCr8l83QsqgaKz79wjQ.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The study authors said regional differences could be explained by the fact that wealthier countries can afford to promote physical activity more and provide public spaces for it.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1RQLrloZ9MATG03M9UnTGi.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "In 2018, the World Health Organization set a target for 2030 of a 15% reduction in adolescents who don't get 60 minutes of activity each day.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3CbK286cmzrhz24OHOJ3pS.mpga"
+      },
+      {
+       "text": "However, according to the study, no country or region is on track to meet that target.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6BQnZALypGnfIjGQoNRriO.mpga"
+      }
+     ]
+    }
+   ],
+   "vocab": [
+    {
+     "word": "physical",
+     "pos": "Adjective",
+     "pron": "ˈfɪzɪkəl",
+     "definition": "relating to the body ",
+     "ko": "신체적인, 육체의, 신체의",
+     "audio": "https://assets.app.engoo.com/sounds/Ikyp6QwHBVkLMvmlHYuvzohxaAmGP15rhHDOzgi0GHk.mpga",
+     "examples": [
+      {
+       "text": "Research has shown that hiking benefits both our physical and mental health.",
+       "audio": "https://assets.app.engoo.com/sounds/63SlVVt2a53wr4EYg33X2u.mpga"
+      }
+     ]
+    },
+    {
+     "word": "adolescent",
+     "pos": "Noun",
+     "pron": "ˌædəˈlesnt",
+     "definition": "a person who is developing from a child into an adult",
+     "ko": "청소년",
+     "audio": "https://assets.app.engoo.com/sounds/TiAFP3DmtwSvtGNn3FByXylmRpKNycpcj6AA6eoqEo5.mpga",
+     "examples": [
+      {
+       "text": "As a teacher, I find working with adolescents the most challenging.",
+       "audio": "https://assets.app.engoo.com/sounds/0ujjNsIZ1soUgOsbQj1sWJ.mpga"
+      }
+     ]
+    },
+    {
+     "word": "moderate",
+     "pos": "Adjective",
+     "pron": "ˈmɑːdɛrət",
+     "definition": "average in size, quality, degree, etc.",
+     "ko": "보통의, 중간의, 적당한, 적정한",
+     "audio": "https://assets.app.engoo.com/sounds/AOWH3MNmCCoEx6jsjY5DoOWYA2ERUhktHl7eeLsvQu5.mpga",
+     "examples": [
+      {
+       "text": "Health experts say that adults should get at least 150 minutes of moderate exercise every week.",
+       "audio": "https://assets.app.engoo.com/sounds/5Lhticcd5ERL8elXqX7uUK.mpga"
+      }
+     ]
+    },
+    {
+     "word": "vigorous",
+     "pos": "Adjective",
+     "pron": "ˈvɪgərəs",
+     "definition": "involving strength or effort; active and full of energy",
+     "ko": "활기찬, 격렬한",
+     "audio": "https://assets.app.engoo.com/sounds/W9UzLUvPXr1b74LgvuKvmdhttyFqt47bWfuWyWQfdK3.mpga",
+     "examples": [
+      {
+       "text": "I do about an hour of vigorous exercise each week.",
+       "audio": "https://assets.app.engoo.com/sounds/77a6UjADyTaASi3juP0j5f.mpga"
+      },
+      {
+       "text": "Even after his heart attack, my grandad continued living a vigorous life.",
+       "audio": "https://assets.app.engoo.com/sounds/4OTuaRTlxqeRa91W7VzCyh.mpga"
+      }
+     ]
+    },
+    {
+     "word": "target",
+     "pos": "Noun",
+     "pron": "ˈtɑːrgɪt",
+     "definition": "a goal or result that efforts are directed towards",
+     "ko": "목표, 대상",
+     "audio": "https://assets.app.engoo.com/sounds/EyIewmOWT0FBS0Mp9F06hu8Iln5ykPfB7gyYOKlTOBb.mpga",
+     "examples": [
+      {
+       "text": "Japan has set a target to be carbon neutral by 2050.",
+       "audio": "https://assets.app.engoo.com/sounds/5idcPkq4thchaTEVQzqd8O.mpga"
+      }
+     ]
+    },
+    {
+     "word": "reduction",
+     "pos": "Noun",
+     "pron": "rɪˈdʌkʃn",
+     "definition": "the action or fact of making something smaller in amount, size, etc.",
+     "ko": "감소, 인하, 축소, 할인",
+     "audio": "https://assets.app.engoo.com/sounds/kgrvHJYU1GspsWa6awrfifym7ymYRASMJjqs7rq7MGm.mpga",
+     "examples": [
+      {
+       "text": "The discovery of insulin led to a significant reduction in deaths from diabetes.",
+       "audio": "https://assets.app.engoo.com/sounds/7Svta4o1AKnpFcNa5efA2q.mpga"
+      }
+     ]
+    }
+   ],
+   "discussion": [
+    "What are your thoughts on the researchers' findings?",
+    "Why do you think adolescents are getting so little exercise?",
+    "How much physical activity did you get per week as a teenager?",
+    "Did you play any sports growing up?",
+    "How did you spend most of your free time as a teenager?"
+   ],
+   "furtherDiscussion": [
+    "Do you have any exercise targets or goals?",
+    "Do you ever find it hard to fit exercise into your schedule?",
+    "How has your exercise routine changed over the years?",
+    "Do you have any hobbies that also let you get some exercise?",
+    "What advice would you give someone who's finding it hard to motivate themselves to exercise?"
+   ],
+   "questions": [
+    {
+     "text": "Why do you think adolescents are getting so little exercise?",
+     "section": "Discussion"
+    },
+    {
+     "text": "What are your thoughts on the researchers' findings?",
+     "section": "Discussion"
+    },
+    {
+     "text": "What advice would you give someone who's finding it hard to motivate themselves to exercise?",
      "section": "Further Discussion"
     }
    ]
@@ -4424,7 +5384,7 @@
      "word": "treat",
      "pos": "Noun",
      "pron": "triːt",
-     "definition": "an item of sweet food",
+     "definition": "an item of sweet or special food",
      "ko": "특별한 것, 대접, 한턱, 간식",
      "audio": "https://assets.app.engoo.com/sounds/1JJcizMiqbneQjvLUqmHc6QAuKHSrtBJLyRhU3jcmx1.mpga",
      "examples": [
@@ -4460,742 +5420,6 @@
     },
     {
      "text": "What's your go-to meal when you don't feel like spending much time cooking?",
-     "section": "Further Discussion"
-    }
-   ]
-  },
-  {
-   "id": "98942920-dc37-11f1-babd-d7a603aabd59",
-   "title": "_Godzilla Minus Zero_ Breaks Box Office Record",
-   "intro": "Explore how \"Godzilla Minus Zero\" broke box office records, its impact on foreign films, and the growing success of non-English movies.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/3BDVUQdQFdpHSdkcec1dLr.png",
-   "contentLevel": 9,
-   "level": "advanced",
-   "publishedAt": "2026-11-09T18:00:00Z",
-   "url": "https://engoo.com/app/daily-news/article/godzilla-minus-zero-breaks-box-office-record/mJQpINw3EfG6vdemA6q9WQ",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2KRq77QXTp3x4WMu7Anek0.mpga",
-   "paragraphs": [
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Japanese monster movie _Godzilla Minus Zero_ topped the North American box office over the weekend, earning {{prn:$31.6 million|thirty one point six million dollars}} and setting a new opening record for a live-action foreign-language film.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6NT9aZtaPxtm1dIG5X0hXU.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Takashi Yamazaki's sequel to 2023's _Godzilla Minus One_ is set in Japan after World War II.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7jTtu7KqGkJFGIhncRLdds.mpga"
-      },
-      {
-       "text": "It continues one of cinema's longest-running franchises, with Godzilla recently celebrating his 72nd birthday.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2oKzgSAEXlNCqOA6EBRV2m.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The film broke the previous opening record for a live-action foreign-language movie, held by 2004's _Hero_, which earned $17.9 million, and added to the trend of international, non-English productions drawing American audiences to cinemas.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2Od7xUK9YevdtY3A45mUEj.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "_Godzilla Minus Zero_ also earned about $17 million in Japan, where it opened at the same time as in North America.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2SXROPBb5BvFq6MjEHSqOQ.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "\"This historic opening shows how deeply audiences around the world connect with Godzilla and with Takashi Yamazaki's vision,\" said Koji Ueda, president of Toho Global, the film's producer.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/54ekAKoQcmXLF1gGkN0SLQ.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The success follows that of _Godzilla Minus One_, which won an Oscar for best visual effects and became the highest-grossing Japanese live-action film in the US and Canada despite a modest budget under $15 million.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2cF0ZtSdZJUgFcQ0dzwrRC.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "_Godzilla Minus Zero_, made for less than $20 million, is expected to surpass its predecessor's record earnings of $57.1 million.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6eG9EesL7ER3rgaMBThyPD.mpga"
-      },
-      {
-       "text": "The film has been well received by both critics and audiences, earning a 90% positive rating on Rotten Tomatoes.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2bHMf4WS4Vj5olIMAWHalP.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Another international film, the Hindi-language epic _Ramayana: Rise of a Legend_, also had a strong opening weekend.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0pHFNYXmcLrtx0KxAnJcdR.mpga"
-      },
-      {
-       "text": "The first part of the two-film story, based on Indian mythology, earned $8.7 million in North America and $32 million in India.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/57lFNQZb7iI29C9kLFMcFy.mpga"
-      },
-      {
-       "text": "It is the most expensive Indian film ever made.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3NQ1USw5PQv2C93SQQg1Ww.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Both _Godzilla_ and _Ramayana_ were made for IMAX, a cinema format that uses larger screens and advanced sound and picture technology.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3BRfcalm7y54zrxFV8Jego.mpga"
-      },
-      {
-       "text": "_Godzilla Minus Zero_ earned $21.3 million worldwide from IMAX screenings, accounting for 34% of its total box-office earnings.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5KSQFJXILH0avm5MzUWAoH.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The film's success could either boost excitement or set a high bar for the next Hollywood, English-language Godzilla movie, _Godzilla x Kong: Supernova,_ which is due in March.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1zuqmKzX5axkAkT0ZnD4GR.mpga"
-      }
-     ]
-    }
-   ],
-   "vocab": [
-    {
-     "word": "franchise",
-     "pos": "Noun",
-     "pron": "ˈfræntʃaɪz",
-     "definition": "a series of related books, movies, etc.",
-     "ko": "프랜차이즈",
-     "audio": "https://assets.app.engoo.com/sounds/2Os9M2ghCGpKCuKIyn2JRc.mpga",
-     "examples": [
-      {
-       "text": "The Walt Disney Company acquired the rights to the Star Wars franchise in 2012.",
-       "audio": "https://assets.app.engoo.com/sounds/6tDmwmrgOJktAXWobBskNL.mpga"
-      }
-     ]
-    },
-    {
-     "word": "gross",
-     "pos": "Verb",
-     "pron": "groʊs",
-     "definition": "to earn an amount of money before tax",
-     "ko": "수익을 올리다",
-     "audio": "https://assets.app.engoo.com/sounds/ivMLhfmrbOluERJK9rfsNuV4QeGJbYAHswF7BeaTyd7.mpga",
-     "examples": [
-      {
-       "text": "\"Avengers: Endgame\" is the highest-grossing movie in history.",
-       "audio": "https://assets.app.engoo.com/sounds/25znO3T6SO8Yyo3MNFSF0W.mpga"
-      }
-     ]
-    },
-    {
-     "word": "surpass",
-     "pos": "Verb",
-     "pron": "sərˈpæs",
-     "definition": "to be or become larger, greater, etc. than someone or something",
-     "ko": "능가하다, 뛰어넘다",
-     "audio": "https://assets.app.engoo.com/sounds/5Pxf6fNCuqfmU9nqcNm2WuYF4vQMJj7dbLVBeMdHiV9.mpga",
-     "examples": [
-      {
-       "text": "The number of Spotify Premium subscribers surpassed 200 million at the end of 2022.",
-       "audio": "https://assets.app.engoo.com/sounds/0EmSCvxQ1eI4r2fSxxQakk.mpga"
-      }
-     ]
-    },
-    {
-     "word": "predecessor",
-     "pos": "Noun",
-     "pron": "ˈpredəsesər",
-     "definition": "a thing that has been replaced or followed by something else",
-     "ko": "전신, 이전 것, 이전 모델",
-     "audio": "https://assets.app.engoo.com/sounds/6nMayrkq3MZCI9VOfmCM08.mpga",
-     "examples": [
-      {
-       "text": "The PS5 sold out quickly upon release, offering significant performance upgrades over its predecessor.",
-       "audio": "https://assets.app.engoo.com/sounds/0x31UOEbeahljMzwm8lMgE.mpga"
-      }
-     ]
-    },
-    {
-     "word": "epic",
-     "pos": "Noun",
-     "pron": "ˈepɪk",
-     "definition": "a long film, book, etc. that tells a grand story about heroic events, adventures or an important period of history",
-     "ko": "",
-     "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/45GT769t2Theb2Sq9OqHfA.mpga",
-     "examples": [
-      {
-       "text": "\"Dune\" is a science-fiction epic about a struggle for control of a desert planet.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0NW5ZG8PuXPWQxTQxnpBRt.mpga"
-      }
-     ]
-    },
-    {
-     "word": "screening",
-     "pos": "Noun",
-     "pron": "ˈskriːnɪŋ",
-     "definition": "an act of showing a film, video, or TV show",
-     "ko": "상영, 방영",
-     "audio": "https://assets.app.engoo.com/sounds/1ND8n0wqzy6xHWJ0VYazHQ.mpga",
-     "examples": [
-      {
-       "text": "Shall we go to the screening at 6:30 tonight? ",
-       "audio": "https://assets.app.engoo.com/sounds/06oonafWdSUAsVZkQX82uc.mpga"
-      }
-     ]
-    }
-   ],
-   "discussion": [
-    "What are your thoughts on the record-breaking opening of _Godzilla Minus Zero_?",
-    "Do you find it surprising that a foreign-language film topped the North American box office?",
-    "Have you seen any of the Godzilla movies? Which ones did you like most?",
-    "What are some of the best monster movies you've seen?",
-    "Are there any big-budget Hollywood movies that you think are overrated?"
-   ],
-   "furtherDiscussion": [
-    "How often do you go to the cinema? Who do you usually go with?",
-    "Are there any movies you regret not seeing on the big screen?",
-    "Have you seen any sequels that you thought were better than the originals?",
-    "Do you know anyone who's obsessed with a particular movie franchise?",
-    "What movies would you say have blown you away with their special effects?"
-   ],
-   "questions": [
-    {
-     "text": "What are your thoughts on the record-breaking opening of _Godzilla Minus Zero_?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What are some of the best monster movies you've seen?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What movies would you say have blown you away with their special effects?",
-     "section": "Further Discussion"
-    }
-   ]
-  },
-  {
-   "id": "28e06166-d7f5-11f1-9ce9-a32b27fdba4e",
-   "title": "Why Cold Showers Are Good for You and the Planet",
-   "intro": "This lesson explores the health and environmental benefits of cold showers, including studies on well-being, illness, water, and energy use.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/0dnSMwDzTVympJFg8EP1Oa.png",
-   "contentLevel": 7,
-   "level": "advanced",
-   "publishedAt": "2026-11-09T18:00:00Z",
-   "url": "https://engoo.com/app/daily-news/article/why-cold-showers-are-good-for-you-and-the-planet/KOBhZtf1EfGc6aMrJ_26Tg",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2QlzO6YQvcKs7y23vKqO3u.mpga",
-   "paragraphs": [
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Starting or ending the day under a frosty shower might not be everyone's favorite thing.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1WBQNpBBtUofRQcg4JjjCz.mpga"
-      },
-      {
-       "text": "But it could have benefits for both your health and the environment.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5ThVPRg770DWUBt8QRc3DL.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Researchers from the University of Basel in Switzerland looked at over 700 people aged 18 to 65.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6L6qaEtVZyQ1agnlxnTyFA.mpga"
-      },
-      {
-       "text": "Some of these people took 30- to 120-second cold showers for 12 weeks.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5axdKusodgrcq1wuY6M1KR.mpga"
-      },
-      {
-       "text": "The others — the control group — took showers as usual.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2n4IGNaX5eE1LUtfwjgkYU.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "All the participants were in good health, and weren't already in the habit of taking cold showers.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/00RTRb6XYsvcZU9k3TjZGa.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "They regularly reported on how their showers were going, and also reported on their health, including whether they'd taken days off work due to illness.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7aWGd8JK84oYYVh9JtxpgE.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Not everyone was able to stick to cold showers, however.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4hD2gK89jbUjrKfaK8IuVc.mpga"
-      },
-      {
-       "text": "But the researchers continued to count anyone who took cold showers at least 70% of the time as part of the cold shower group.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/52fqkvVnXtRyizoq4wQG2z.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "And it was found that the cold shower group took 31% fewer days off for illness compared to the control group.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/54zkf4Xtz32yf1AmmDoZJK.mpga"
-      },
-      {
-       "text": "The cold shower group also got significantly better scores on tests of their psychological well-being.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4Jy9tB3azdkugkAbqjzRut.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The researchers weren't just interested in the health effects of cold showers.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4JQS8W9s2wgoyrRzIAj2We.mpga"
-      },
-      {
-       "text": "They also noted that people spend less time in the shower when the water is cold, which reduces their water consumption — a boon for the planet and their water bill!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0yx5oFLG01mbp9MLE2CsFI.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Cold showers also reduce energy consumption.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/13zOddETXkuLcRRG1fJUFT.mpga"
-      },
-      {
-       "text": "The researchers estimated that each cold shower saved enough energy to power an average refrigerator for almost four hours.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/07E8SRRXcYBIy1icxMxQzM.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "While cold showers may be good for health and the environment, researcher Lena Glaser says people don't need to force themselves under icy water — because any decrease in temperature should have benefits.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4NFTj1VzvATvp793V97xSV.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "\"The water doesn't have to be equally cold every day,\" she said.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6mtIwQeOKaU0lf92rgcW94.mpga"
-      },
-      {
-       "text": "\"We don't feel equally brave every day, and that's okay.\"",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1JNihN3KlBUAQVFsASEV5R.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "She also noted that participants seemed to gradually get used to cold showers as they continued to take them regularly.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1WkNOXSJFDfnViEwjiNM1G.mpga"
-      }
-     ]
-    }
-   ],
-   "vocab": [
-    {
-     "word": "frosty",
-     "pos": "Adjective",
-     "pron": "ˈfrɔːsti",
-     "definition": "(of the weather) very cold, with a thin layer of ice forming on surfaces",
-     "ko": "서리 낀, 차가운",
-     "audio": "https://assets.app.engoo.com/sounds/60j54zmvL2HIpAWtzl7fit.mpga",
-     "examples": [
-      {
-       "text": "It was a cold and frosty morning, but that didn't stop me from going on my daily run.",
-       "audio": "https://assets.app.engoo.com/sounds/7S8297QHjikiYziB8JToSH.mpga"
-      }
-     ]
-    },
-    {
-     "word": "stick to",
-     "pos": "Phrasal Verb",
-     "pron": "stɪk tʊ",
-     "definition": "to continue to use or do something",
-     "ko": "고수하다",
-     "audio": "https://assets.app.engoo.com/sounds/iwJe0XHSbFQOwZRfwaJaLiBRuYX4Znk3G4phS8BF5T0.mpga",
-     "examples": [
-      {
-       "text": "Experts recommend sticking to the same sleep schedule every day.",
-       "audio": "https://assets.app.engoo.com/sounds/4SE9wogUOajfSAV5zPTtYz.mpga"
-      }
-     ]
-    },
-    {
-     "word": "significantly",
-     "pos": "Adverb",
-     "pron": "sɪɡˈnɪfɪkəntli",
-     "definition": "in a way that is large enough to be noticed or have an effect",
-     "ko": "상당히, 크게",
-     "audio": "https://assets.app.engoo.com/sounds/ORWWNgawGCtEqcMWMXhVZZmC5XhvCba6QGERgAqxVVV.mpga",
-     "examples": [
-      {
-       "text": "His writing has significantly improved since the start of the semester. ",
-       "audio": "https://assets.app.engoo.com/sounds/4Yg7iWmAbVBaliCQ1GZIq5.mpga"
-      }
-     ]
-    },
-    {
-     "word": "psychological",
-     "pos": "Adjective",
-     "pron": "ˌsaɪkəˈlɑːdʒɪkəl",
-     "definition": "relating to the mind",
-     "ko": "정신의, 심리의, 정신적인",
-     "audio": "https://assets.app.engoo.com/sounds/O6hL1vPg3Lvyww1uG8AD6e1ntoKQ9z6xPyzc7w1B435.mpga",
-     "examples": [
-      {
-       "text": "The research looked into the psychological effects of heavy Instagram use among teenagers.",
-       "audio": "https://assets.app.engoo.com/sounds/4bB0aPvqaUePlRztTjEcRM.mpga"
-      }
-     ]
-    },
-    {
-     "word": "consumption",
-     "pos": "Noun",
-     "pron": "kənˈsʌmpʃn",
-     "definition": "the action of using food, energy, etc.; the amount of something used",
-     "ko": "소비, 소비량, 섭취, 섭취량",
-     "audio": "https://assets.app.engoo.com/sounds/OStgtcXpgDueTqEGP4iJvMZgaPFYWbwHaQJGsdNRwrU.mpga",
-     "examples": [
-      {
-       "text": "The FDA tests food products to make sure they are safe for human consumption.",
-       "audio": "https://assets.app.engoo.com/sounds/51lmmlHnss7FfYlSENIgXb.mpga"
-      },
-      {
-       "text": "The study highlighted the dangers of moderate alcohol consumption.",
-       "audio": "https://assets.app.engoo.com/sounds/5gMCSMU2J0gs0341mIiJQ3.mpga"
-      }
-     ]
-    },
-    {
-     "word": "boon",
-     "pos": "Noun",
-     "pron": "buːn",
-     "definition": "something that is helpful, useful, or beneficial",
-     "ko": "",
-     "audio": "https://assets.app.engoo.com/sounds/7dGgAe0MGbM07MHTvj5S9BhuB3A2AqajFFbk9B2HnvU.mpga",
-     "examples": [
-      {
-       "text": "The new road has proven to be a boon for the beach towns along the coast.",
-       "audio": "https://assets.app.engoo.com/sounds/0f5npGrQLfEWjYqqWm6bHI.mpga"
-      }
-     ]
-    }
-   ],
-   "discussion": [
-    "What do you make of the researchers' findings?",
-    "Do you ever have cold showers?",
-    "Do you think you could get used to having a cold shower every day?",
-    "Do you tend to take long or short baths or showers?",
-    "Do you typically shower or bathe in the morning or evening, or both?"
-   ],
-   "furtherDiscussion": [
-    "What do you do to try to save energy at home?",
-    "What are some eco-friendly habits you've adopted over the years?",
-    "Have you made any lifestyle changes for environmental reasons?",
-    "Do you know anyone who puts a lot of effort into reducing their impact on the environment?",
-    "What do you think are some of the easiest steps people can take to reduce their environmental impact?"
-   ],
-   "questions": [
-    {
-     "text": "Do you think you could get used to having a cold shower every day?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What do you make of the researchers' findings?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What do you think are some of the easiest steps people can take to reduce their environmental impact?",
-     "section": "Further Discussion"
-    }
-   ]
-  },
-  {
-   "id": "02aef4da-ce4f-11f1-87b7-e33635290892",
-   "title": "Change Employers for Career Progress, Workers Say",
-   "intro": "Explore why many workers believe changing employers is necessary for career advancement, and discuss the importance of skills and workplace growth.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/57X7Tm9Hn8QHzyEUAXabH7.png",
-   "contentLevel": 6,
-   "level": "intermediate",
-   "publishedAt": "2026-11-08T18:00:00Z",
-   "url": "https://engoo.com/app/daily-news/article/change-employers-for-career-progress-workers-say/Aq702s5PEfGHt-M2NSkIkg",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3JAtCb9mnh31imPcrGl4Ts.mpga",
-   "paragraphs": [
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "If you wanted to move forward in your career, would you look for opportunities at your current company, or start looking elsewhere?",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1bOwwoWcH1UGVwpIyf7lgw.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "A new survey of more than 2,000 workers across the US and UK has found that 66% think they would need to leave their current employer to advance their career.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1GTTpACQViJJSYizlQaH5a.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The survey, done by Propeller Insights for workplace assessment company SHL, found that many employees want to learn new skills and move into new roles — but do not always have opportunities to do so where they already work.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0mZYcy8qzDUNrcSbl2Gzdm.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "One problem may be that employers don't have a full picture of what their workers can do.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/18abMeHdAzzsWsYVZi9tkI.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Only two in five workers said their manager understands the skills they have beyond those needed for their current job.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0ptWeyynVsERO1lGpFT7Zc.mpga"
-      },
-      {
-       "text": "And 89% said they would take a skills assessment to show what they can do.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2uo1VmDueGNvf773dTulis.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Many employees also think companies are more interested in bringing in people from outside.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4NoeJivmi4IJjRorP3QY77.mpga"
-      },
-      {
-       "text": "Fifty-nine percent of US workers and 49% of UK workers said their employer prefers this to helping current staff move into new jobs.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0ORlGf7urPUkxse5efLHmE.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Managers may also get in the way.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2UlrG0loZzfMQ1f0hCpDcl.mpga"
-      },
-      {
-       "text": "Nearly a third of workers said their manager not wanting to lose a good employee was one of the main things stopping them from changing roles.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2an9arIc76ABbgqPdmqV6G.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "At the same time, 84% said they want employers to help them find opportunities within the company that match their skills and experience.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4yJtiMBnCCuuTHgu0BF6Do.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Learning new skills is also very important for many workers.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1qnzthpDFIMijVITDPwOR1.mpga"
-      },
-      {
-       "text": "More than 40% said the skills they would gain were more important than job title when considering a new job offer.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2x5koRaTPC12wh4QfTH9rf.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "And more than eight in 10 said they would retrain to get a higher-level job, while a similar share would retrain to move into a different type of job.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1oiKHt5e7SYB6SV0envm2X.mpga"
-      }
-     ]
-    }
-   ],
-   "vocab": [
-    {
-     "word": "career",
-     "pos": "Noun",
-     "pron": "kəˈriːr",
-     "definition": "a job or series of related jobs that a person has for a significant part of their life and with opportunities for progress",
-     "ko": "직업, 직장생활, 경력, 진로",
-     "audio": "https://assets.app.engoo.com/sounds/yUXZrOGxp8CXMN2lCg7bmy2ywK9xQMXnT0GMDlpv5g5.mpga",
-     "examples": [
-      {
-       "text": "A degree in computer science will give you a lot of career options.",
-       "audio": "https://assets.app.engoo.com/sounds/2OwgKEve1OKATBV69kpr1I.mpga"
-      }
-     ]
-    },
-    {
-     "word": "opportunity",
-     "pos": "Noun",
-     "pron": "ˌɑːpərˈtuːnɪtiː",
-     "definition": "a chance to be employed or promoted",
-     "ko": "기회",
-     "audio": "https://assets.app.engoo.com/sounds/04hk0ps55c5zEpmLX9OjVw.mpga",
-     "examples": [
-      {
-       "text": "LinkedIn is one of the best platforms for finding new job opportunities. ",
-       "audio": "https://assets.app.engoo.com/sounds/74NMGkWd8kIlm058it7gwt.mpga"
-      }
-     ]
-    },
-    {
-     "word": "advance",
-     "pos": "Verb",
-     "pron": "ædˈvæns",
-     "definition": "to make or cause to make progress",
-     "ko": "진출하다, 진전하다",
-     "audio": "https://assets.app.engoo.com/sounds/7iHl5ywPWkcFS4Pc3BXRkI.mpga",
-     "examples": [
-      {
-       "text": "French soccer fans were thrilled to see their country advance to the quarterfinals.",
-       "audio": "https://assets.app.engoo.com/sounds/4lU8PS1rVlr2vcBX3w2ADi.mpga"
-      }
-     ]
-    },
-    {
-     "word": "assessment",
-     "pos": "Noun",
-     "pron": "əˈsɛsmənt",
-     "definition": "the action of evaluating, judging, etc. someone or something",
-     "ko": "평가, 사정",
-     "audio": "https://assets.app.engoo.com/sounds/2OrbwHaZOYrdiQbi4em4XrM97OzsZJKhRNt5hTowuTa.mpga",
-     "examples": [
-      {
-       "text": "The initial assessment by the engineers revealed significant structural damage.",
-       "audio": "https://assets.app.engoo.com/sounds/2VlvLwTn2yVFJ6M8nPRrYy.mpga"
-      }
-     ]
-    },
-    {
-     "word": "picture",
-     "pos": "Noun",
-     "pron": "pɪktʃər",
-     "definition": "an impression or idea of something",
-     "ko": "그림, 묘사",
-     "audio": "https://assets.app.engoo.com/sounds/75IJ65rOKW4DVvd5CK5DMx.mpga",
-     "examples": [
-      {
-       "text": "The police are still trying to build up a clear picture of what happened that night.",
-       "audio": "https://assets.app.engoo.com/sounds/1jWZYadyFzGKCeeT1Ouwmr.mpga"
-      }
-     ]
-    },
-    {
-     "word": "retrain",
-     "pos": "Verb",
-     "pron": "ˌriːˈtreɪn",
-     "definition": "to teach someone new skills to allow them to do another job; to learn new skills to be able to do another job",
-     "ko": "재교육하다, 재훈련하다",
-     "audio": "https://assets.app.engoo.com/sounds/2hAHtIoOjoAsF59KtWXDcX.mpga",
-     "examples": [
-      {
-       "text": "We had to retrain all of our staff on the new checkout system.",
-       "audio": "https://assets.app.engoo.com/sounds/7cG1UuNAC1M6Gb4mKKJeLX.mpga"
-      },
-      {
-       "text": "A few years ago, I decided to retrain as a graphic designer because I wanted to do something creative.",
-       "audio": "https://assets.app.engoo.com/sounds/2k1x0KtJAL3NfNQ9FRImLa.mpga"
-      }
-     ]
-    }
-   ],
-   "discussion": [
-    "What are your thoughts on the survey's findings?",
-    "Would you look within or outside of your company if you wanted to advance your career?",
-    "Do you find it surprising that just 40% of workers think their manager fully understands their skills?",
-    "Is learning new professional skills important to you?",
-    "Would you consider retraining to get a different job?"
-   ],
-   "furtherDiscussion": [
-    "Which of your professional skills are you most confident in?",
-    "What do you think are some of the most valuable professional skills these days?",
-    "Do you think skill or experience is more important in the workplace?",
-    "Has your career progressed as you imagined it would?",
-    "Do you know anyone who made a big career change later in life?"
-   ],
-   "questions": [
-    {
-     "text": "What are your thoughts on the survey's findings?",
-     "section": "Discussion"
-    },
-    {
-     "text": "Would you look within or outside of your company if you wanted to advance your career?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What do you think are some of the most valuable professional skills these days?",
      "section": "Further Discussion"
     }
    ]
@@ -5464,6 +5688,243 @@
     },
     {
      "text": "What places in your country do you think deserve more attention from tourists?",
+     "section": "Further Discussion"
+    }
+   ]
+  },
+  {
+   "id": "02aef4da-ce4f-11f1-87b7-e33635290892",
+   "title": "Change Employers for Career Progress, Workers Say",
+   "intro": "Explore why many workers believe changing employers is necessary for career advancement, and discuss the importance of skills and workplace growth.",
+   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/57X7Tm9Hn8QHzyEUAXabH7.png",
+   "contentLevel": 6,
+   "level": "intermediate",
+   "publishedAt": "2026-11-08T18:00:00Z",
+   "url": "https://engoo.com/app/daily-news/article/change-employers-for-career-progress-workers-say/Aq702s5PEfGHt-M2NSkIkg",
+   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3JAtCb9mnh31imPcrGl4Ts.mpga",
+   "paragraphs": [
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "If you wanted to move forward in your career, would you look for opportunities at your current company, or start looking elsewhere?",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1bOwwoWcH1UGVwpIyf7lgw.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "A new survey of more than 2,000 workers across the US and UK has found that 66% think they would need to leave their current employer to advance their career.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1GTTpACQViJJSYizlQaH5a.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "The survey, done by Propeller Insights for workplace assessment company SHL, found that many employees want to learn new skills and move into new roles — but do not always have opportunities to do so where they already work.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0mZYcy8qzDUNrcSbl2Gzdm.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "One problem may be that employers don't have a full picture of what their workers can do.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/18abMeHdAzzsWsYVZi9tkI.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Only two in five workers said their manager understands the skills they have beyond those needed for their current job.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0ptWeyynVsERO1lGpFT7Zc.mpga"
+      },
+      {
+       "text": "And 89% said they would take a skills assessment to show what they can do.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2uo1VmDueGNvf773dTulis.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Many employees also think companies are more interested in bringing in people from outside.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4NoeJivmi4IJjRorP3QY77.mpga"
+      },
+      {
+       "text": "Fifty-nine percent of US workers and 49% of UK workers said their employer prefers this to helping current staff move into new jobs.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0ORlGf7urPUkxse5efLHmE.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Managers may also get in the way.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2UlrG0loZzfMQ1f0hCpDcl.mpga"
+      },
+      {
+       "text": "Nearly a third of workers said their manager not wanting to lose a good employee was one of the main things stopping them from changing roles.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2an9arIc76ABbgqPdmqV6G.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "At the same time, 84% said they want employers to help them find opportunities within the company that match their skills and experience.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4yJtiMBnCCuuTHgu0BF6Do.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "Learning new skills is also very important for many workers.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1qnzthpDFIMijVITDPwOR1.mpga"
+      },
+      {
+       "text": "More than 40% said the skills they would gain were more important than job title when considering a new job offer.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2x5koRaTPC12wh4QfTH9rf.mpga"
+      }
+     ]
+    },
+    {
+     "heading": "",
+     "sentences": [
+      {
+       "text": "And more than eight in 10 said they would retrain to get a higher-level job, while a similar share would retrain to move into a different type of job.",
+       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1oiKHt5e7SYB6SV0envm2X.mpga"
+      }
+     ]
+    }
+   ],
+   "vocab": [
+    {
+     "word": "career",
+     "pos": "Noun",
+     "pron": "kəˈriːr",
+     "definition": "a job or series of related jobs that a person has for a significant part of their life and with opportunities for progress",
+     "ko": "직업, 직장생활, 경력, 진로",
+     "audio": "https://assets.app.engoo.com/sounds/yUXZrOGxp8CXMN2lCg7bmy2ywK9xQMXnT0GMDlpv5g5.mpga",
+     "examples": [
+      {
+       "text": "A degree in computer science will give you a lot of career options.",
+       "audio": "https://assets.app.engoo.com/sounds/2OwgKEve1OKATBV69kpr1I.mpga"
+      }
+     ]
+    },
+    {
+     "word": "opportunity",
+     "pos": "Noun",
+     "pron": "ˌɑːpərˈtuːnɪtiː",
+     "definition": "a chance to be employed or promoted",
+     "ko": "기회",
+     "audio": "https://assets.app.engoo.com/sounds/04hk0ps55c5zEpmLX9OjVw.mpga",
+     "examples": [
+      {
+       "text": "LinkedIn is one of the best platforms for finding new job opportunities. ",
+       "audio": "https://assets.app.engoo.com/sounds/74NMGkWd8kIlm058it7gwt.mpga"
+      }
+     ]
+    },
+    {
+     "word": "advance",
+     "pos": "Verb",
+     "pron": "ædˈvæns",
+     "definition": "to make or cause to make progress",
+     "ko": "진출하다, 진전하다",
+     "audio": "https://assets.app.engoo.com/sounds/7iHl5ywPWkcFS4Pc3BXRkI.mpga",
+     "examples": [
+      {
+       "text": "French soccer fans were thrilled to see their country advance to the quarterfinals.",
+       "audio": "https://assets.app.engoo.com/sounds/4lU8PS1rVlr2vcBX3w2ADi.mpga"
+      }
+     ]
+    },
+    {
+     "word": "assessment",
+     "pos": "Noun",
+     "pron": "əˈsɛsmənt",
+     "definition": "the action of evaluating, judging, etc. someone or something",
+     "ko": "평가, 사정",
+     "audio": "https://assets.app.engoo.com/sounds/2OrbwHaZOYrdiQbi4em4XrM97OzsZJKhRNt5hTowuTa.mpga",
+     "examples": [
+      {
+       "text": "The initial assessment by the engineers revealed significant structural damage.",
+       "audio": "https://assets.app.engoo.com/sounds/2VlvLwTn2yVFJ6M8nPRrYy.mpga"
+      }
+     ]
+    },
+    {
+     "word": "picture",
+     "pos": "Noun",
+     "pron": "pɪktʃər",
+     "definition": "an impression or idea of something",
+     "ko": "그림, 묘사",
+     "audio": "https://assets.app.engoo.com/sounds/75IJ65rOKW4DVvd5CK5DMx.mpga",
+     "examples": [
+      {
+       "text": "The police are still trying to build up a clear picture of what happened that night.",
+       "audio": "https://assets.app.engoo.com/sounds/1jWZYadyFzGKCeeT1Ouwmr.mpga"
+      }
+     ]
+    },
+    {
+     "word": "retrain",
+     "pos": "Verb",
+     "pron": "ˌriːˈtreɪn",
+     "definition": "to teach someone new skills to allow them to do another job; to learn new skills to be able to do another job",
+     "ko": "재교육하다, 재훈련하다",
+     "audio": "https://assets.app.engoo.com/sounds/2hAHtIoOjoAsF59KtWXDcX.mpga",
+     "examples": [
+      {
+       "text": "We had to retrain all of our staff on the new checkout system.",
+       "audio": "https://assets.app.engoo.com/sounds/7cG1UuNAC1M6Gb4mKKJeLX.mpga"
+      },
+      {
+       "text": "A few years ago, I decided to retrain as a graphic designer because I wanted to do something creative.",
+       "audio": "https://assets.app.engoo.com/sounds/2k1x0KtJAL3NfNQ9FRImLa.mpga"
+      }
+     ]
+    }
+   ],
+   "discussion": [
+    "What are your thoughts on the survey's findings?",
+    "Would you look within or outside of your company if you wanted to advance your career?",
+    "Do you find it surprising that just 40% of workers think their manager fully understands their skills?",
+    "Is learning new professional skills important to you?",
+    "Would you consider retraining to get a different job?"
+   ],
+   "furtherDiscussion": [
+    "Which of your professional skills are you most confident in?",
+    "What do you think are some of the most valuable professional skills these days?",
+    "Do you think skill or experience is more important in the workplace?",
+    "Has your career progressed as you imagined it would?",
+    "Do you know anyone who made a big career change later in life?"
+   ],
+   "questions": [
+    {
+     "text": "What are your thoughts on the survey's findings?",
+     "section": "Discussion"
+    },
+    {
+     "text": "Would you look within or outside of your company if you wanted to advance your career?",
+     "section": "Discussion"
+    },
+    {
+     "text": "What do you think are some of the most valuable professional skills these days?",
      "section": "Further Discussion"
     }
    ]
@@ -5909,270 +6370,6 @@
     },
     {
      "text": "How quickly do you tend to recover from a bad night's sleep?",
-     "section": "Further Discussion"
-    }
-   ]
-  },
-  {
-   "id": "0e1e3128-d79b-11f1-a0ee-f77fdbc2865e",
-   "title": "Special Suits Could Make Japan's Castles More Accessible",
-   "intro": "Explore how special suits are helping make Japan's historic castles more accessible for wheelchair users and visitors.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/14beAdCklgilpX6alESQ0D.png",
-   "contentLevel": 6,
-   "level": "intermediate",
-   "publishedAt": "2026-11-06T18:00:00Z",
-   "url": "https://engoo.com/app/daily-news/article/special-suits-could-make-japans-castles-more-accessible/Dh4xKNebEfGg7vd_28KGXg",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6JXEqcD63bf4oPbXsKZahT.mpga",
-   "paragraphs": [
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Japan has lots of castles, but getting to them isn't always easy.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7OCtE7vQqtgbhpyGJClvei.mpga"
-      },
-      {
-       "text": "Visitors sometimes have to climb hundreds of steps, and some castles aren't accessible at all to people who can't walk.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7WVbPG3206lUMND1jKJAPP.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "However, that may soon change!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1qEWtHpq2WFJzM5mc1GJCV.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "A few years ago, a company called Techno Associates created a type of \"suit\" that makes it easier to walk and climb.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/01CUomAlDIS8Z2cvliKiu7.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "And last month, the city of Hikone decided to test whether these suits could help make Hikone Castle more accessible for wheelchair users.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2wZzypSn91ID71hOoVq0ra.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "However, the suit is really more of a set of straps worn over clothes.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/7USHU2fXCvXUdHkFxnpbJs.mpga"
-      },
-      {
-       "text": "It uses air pressure to provide extra support to the back and legs, reducing the effort needed to move.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3qvQCmxypmNB9I1iV7eOdq.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "They're not strong enough to help wheelchair users walk — but they can make it easier to carry them.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4jPte7bKeKapPnPMNXzWL5.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Hikone Castle is one of only 12 castles in Japan where the main tower is still standing.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0x8bPCzsRMlfAunP6HvrfZ.mpga"
-      },
-      {
-       "text": "And getting there isn't easy — there are about {{prn:140|one hundred and forty}} steps to the top.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4eZbWyKlCy7ts7lNFGK9Ez.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "So, on October 19, city employees and volunteers wore Techno Associates' suits to help them carry wheelchair users up to the top.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2LqBWqDZdwrTxNdaTZZiB2.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The wheelchair users sat in a wooden palanquin, which was held up by a long bar across two of the carriers' shoulders.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0osykFF5QUnmM68pQqwVAQ.mpga"
-      },
-      {
-       "text": "The suits helped the carriers support the weight as they climbed the steps.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1KLSjoQnr7q4sCduhzYBTg.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Each team had six people, who took turns carrying the palanquin.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0qvtdpgBRTfp1wiQdXox8y.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The carriers said the suits were very helpful on the climb, making it a lot easier to carry the palanquin.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/2YJLPtDGn46cOOvpok0Jq7.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The city is thinking of using this not only as a way to help wheelchair users visit the castle, but also as a way to let visitors experience being carried around like the nobility were in the past!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0k9KEjnIljlEdooJWlO1Ep.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "It could also be a way to make castles around Japan more accessible.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5oChoa5tH6g17dpYRxpA3q.mpga"
-      }
-     ]
-    }
-   ],
-   "vocab": [
-    {
-     "word": "accessible",
-     "pos": "Adjective",
-     "pron": "əkˈsesəbl",
-     "definition": "able to be reached, used, etc. by people who have a disability",
-     "ko": "접근 가능한, 접근하기 쉬운",
-     "audio": "https://assets.app.engoo.com/sounds/31gLehmQMa8IqDIiBCknrd.mpga",
-     "examples": [
-      {
-       "text": "Changes have been made to make the site accessible to wheelchair users.",
-       "audio": "https://assets.app.engoo.com/sounds/186jJadN3QYaJvEGW01DBP.mpga"
-      }
-     ]
-    },
-    {
-     "word": "strap",
-     "pos": "Noun",
-     "pron": "stræp",
-     "definition": "a narrow piece of flexible material used to close, secure, hold onto, etc. something",
-     "ko": "끈, 줄, 띠",
-     "audio": "https://assets.app.engoo.com/sounds/3edCVGshevlFN7XmCClEJr.mpga",
-     "examples": [
-      {
-       "text": "You can adjust the straps on the backpack to make it fit you better.",
-       "audio": "https://assets.app.engoo.com/sounds/32ktTPh0BhLNS1ga7tGnlA.mpga"
-      }
-     ]
-    },
-    {
-     "word": "pressure",
-     "pos": "Noun",
-     "pron": "ˈpreʃər",
-     "definition": "the force produced by gas or liquid in an area, container, etc.",
-     "ko": "압력",
-     "audio": "https://assets.app.engoo.com/sounds/0uFLe0ln5GbsbaYqvtJ0Fk.mpga",
-     "examples": [
-      {
-       "text": "I always check my car's oil level and tire pressure before going on a long road trip.",
-       "audio": "https://assets.app.engoo.com/sounds/0QD5JwUyE8OxYHLHC8BleW.mpga"
-      }
-     ]
-    },
-    {
-     "word": "effort",
-     "pos": "Noun",
-     "pron": "ˈɛfərt",
-     "definition": "physical or mental energy",
-     "ko": "노력, 수고",
-     "audio": "https://assets.app.engoo.com/sounds/uXGNBR33ibXCtMWRUXGhj7NK3PkpvyCJdq3bTlEmt5M.mpga",
-     "examples": [
-      {
-       "text": "We really appreciate all the effort you've put into this project.",
-       "audio": "https://assets.app.engoo.com/sounds/4HCrfgXoWXWiazuY7koK6D.mpga"
-      }
-     ]
-    },
-    {
-     "word": "palanquin",
-     "pos": "Noun",
-     "pron": "ˌpalənˈkiːn",
-     "definition": "a large box carried on two horizontal poles in which a person is carried by others",
-     "ko": "가마",
-     "audio": "https://assets.app.engoo.com/sounds/3RLweLEOZirWQV2parPbLH.mpga",
-     "examples": [
-      {
-       "text": "The museum had a beautiful replica of a Japanese palanquin from the 19th century.",
-       "audio": "https://assets.app.engoo.com/sounds/6QezqThLWKojG5wKEjz9uZ.mpga"
-      }
-     ]
-    },
-    {
-     "word": "nobility",
-     "pos": "Noun",
-     "pron": "nəʊˈbɪləti",
-     "definition": "the quality of belonging to the highest social class, usually made up of people related to a royal family; the group of people belonging to this class",
-     "ko": "귀족, 귀족 계급",
-     "audio": "https://assets.app.engoo.com/sounds/78Inog9Ak9A9CLfClk4XEY.mpga",
-     "examples": [
-      {
-       "text": "In the Middle Ages, kings could grant nobility to commoners for services to the crown.",
-       "audio": "https://assets.app.engoo.com/sounds/4L9gOnkFkiLrwVBrp0Qonz.mpga"
-      },
-      {
-       "text": "In pre-revolutionary France, members of the nobility were largely exempt from paying taxes.",
-       "audio": "https://assets.app.engoo.com/sounds/7dS13q3oWtXW9JCEmig7NO.mpga"
-      }
-     ]
-    }
-   ],
-   "discussion": [
-    "What are your thoughts on Techno Associates' \"suits\"?",
-    "Do you imagine most historical sites in your country are hard to get around for wheelchair users?",
-    "What are some of the most famous castles in your country? Have you been to any of them?",
-    "Have you been to any castles overseas? Are there any you want to visit?",
-    "What are some of your country's top historical sites? Have you been to them?"
-   ],
-   "furtherDiscussion": [
-    "Do you like checking out historical sites when you travel?",
-    "What are the most amazing historical sites you've visited?",
-    "What famous historical sites do you want to see in person someday?",
-    "Do you know much about the history of your town or city?",
-    "What parts of your country would you recommend to people who like history?"
-   ],
-   "questions": [
-    {
-     "text": "What are some of the most famous castles in your country? Have you been to any of them?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What are your thoughts on Techno Associates' \"suits\"?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What parts of your country would you recommend to people who like history?",
      "section": "Further Discussion"
     }
    ]
@@ -7128,239 +7325,6 @@
     },
     {
      "text": "What are your favorite outdoor activities? How often do you do them?",
-     "section": "Further Discussion"
-    }
-   ]
-  },
-  {
-   "id": "015fdc1c-d222-11f1-b59d-b737b51c80e7",
-   "title": "Tokyo Restaurant Adds Space for Content Creators",
-   "intro": "Explore how a Tokyo yakiniku restaurant created a special space for content creators to film, share, and enjoy meals with added privacy.",
-   "image": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/images/64Bc6smY4g1QiMrTiAVtYB.png",
-   "contentLevel": 5,
-   "level": "beginner",
-   "publishedAt": "2026-11-01T18:00:00Z",
-   "url": "https://engoo.com/app/daily-news/article/tokyo-restaurant-adds-space-for-content-creators/AV_cHNIiEfG1nbc3tRyA5w",
-   "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0lv4ZSoSUHNmoqnYO2tXjL.mpga",
-   "paragraphs": [
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "For some people, eating at restaurants isn't just about enjoying good food.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6Q205tkmfv4I9vPAdkAEqt.mpga"
-      },
-      {
-       "text": "It's also about taking photos, making videos and sharing the experience online.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3aAocs4CLf9e109urRVEsP.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "And now, a restaurant in Tokyo has designed a space especially for people who like to make every meal into a social media experience!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4YFhNbmXHJ9qLkGvxbky5J.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Yakiniku Like is a Japanese yakiniku chain, a type of restaurant where people cook meat on a grill at their table.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/10j6QKzhJEpyMByFZwuDJK.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "Usually, people enjoy yakiniku together with friends around a large grill.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4CCTnTFQmAcgMmLUgEFAwF.mpga"
-      },
-      {
-       "text": "But Yakiniku Like is designed for people to enjoy their own small grill, making it easy to eat alone.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/6emvZ6LtlkCTaVs5zNZxOd.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "However, eating alone doesn't mean you can't share your meal with others — even if they're not sitting at the table with you!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/4RrhlRKKtYXkAgh0B0YslT.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "That's the idea behind Studio Like, a new space at one of Yakiniku Like's Shinjuku locations.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/0qq1mQ7w7XyXaThyDU3Bnt.mpga"
-      },
-      {
-       "text": "It's designed for people who enjoy taking photos, making videos and sharing their meals on social media.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/5hK3cpqf3ETgdnx6SYGdM5.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "There's a mirror with lights for checking your hair and make-up, as well as special holders for cameras that can help you film!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/1zAeXWVOfapzcI62y4inuQ.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "The space also has walls right around your table to give you more privacy, and to help keep other diners out of your photos and videos.",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3RxND0i9bBKy8423NjEoyh.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "But there's a time limit — each visit lasts just 60 minutes, so you can't spend all day eating meat and making videos!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/14txqtRhKSDyLWMbbzwboW.mpga"
-      }
-     ]
-    },
-    {
-     "heading": "",
-     "sentences": [
-      {
-       "text": "For people who love posting their food adventures online, Studio Like offers a new way to enjoy a meal and share it with others!",
-       "audio": "https://assets.app.engoo.com/organizations/5d2656f1-9162-461d-88c7-b2505623d8cb/sounds/3KXy0zlXDK0QYK38HJ3kQJ.mpga"
-      }
-     ]
-    }
-   ],
-   "vocab": [
-    {
-     "word": "experience",
-     "pos": "Noun",
-     "pron": "ɪkˈspɪriəns",
-     "definition": "an event, situation, etc. that influences someone",
-     "ko": "경험",
-     "audio": "https://assets.app.engoo.com/sounds/3rMkDDPtTg0bf1yQ69bMYQ.mpga",
-     "examples": [
-      {
-       "text": "Hiking in the Himalayas was an unforgettable experience.",
-       "audio": "https://assets.app.engoo.com/sounds/3zmMvCI6FARxkGWRy9GhAy.mpga"
-      }
-     ]
-    },
-    {
-     "word": "design",
-     "pos": "Verb",
-     "pron": "dɪˈzaɪn",
-     "definition": "to do, plan, or make something for a particular purpose, goal, etc. ",
-     "ko": "고안하다, 디자인하다, 설계하다",
-     "audio": "https://assets.app.engoo.com/sounds/50m0XeBolg0M7z9BoHdDYW.mpga",
-     "examples": [
-      {
-       "text": "All of our materials are specifically designed for online learning. ",
-       "audio": "https://assets.app.engoo.com/sounds/7ULwYWMhpD4xFdzyiVwQzk.mpga"
-      }
-     ]
-    },
-    {
-     "word": "studio",
-     "pos": "Noun",
-     "pron": "ˈstjuːdɪoʊ",
-     "definition": "a room in which an artist works; a place where movies and TV shows are filmed or where music is recorded",
-     "ko": "스튜디오, 작업실",
-     "audio": "https://assets.app.engoo.com/sounds/HOq3bEHUBeNGNXkTkCGnGO1UezriDa2LgCkiHofgg4D.mpga",
-     "examples": [
-      {
-       "text": "He has an art studio in his house.",
-       "audio": "https://assets.app.engoo.com/sounds/NmL4tRswrL0Dyo1moJq8XhlZTQBgnLkguoZGekchimw.mpga"
-      },
-      {
-       "text": "The band spent months in the recording studio working on their album.",
-       "audio": "https://assets.app.engoo.com/sounds/2MKj5toIfYWppENL29wfJ3.mpga"
-      }
-     ]
-    },
-    {
-     "word": "make-up",
-     "pos": "Noun",
-     "pron": "meɪk əp",
-     "definition": "cosmetics such as lipstick or powder used on the face to improve or change the appearance",
-     "ko": "화장, 메이크업",
-     "audio": "https://assets.app.engoo.com/sounds/xIIWhNOGsuKGxPAruTqZnTNP4VV7DxyYv0DdtFeQryP.mpga",
-     "examples": [
-      {
-       "text": "I'll be ready in 10 minutes; I just need to put some make-up on.",
-       "audio": "https://assets.app.engoo.com/sounds/0GhFUpC5jD13yqibNPZwLS.mpga"
-      }
-     ]
-    },
-    {
-     "word": "privacy",
-     "pos": "Noun",
-     "pron": "ˈpraɪvəsiː",
-     "definition": "a state of not being watched, listened to, or disturbed by others",
-     "ko": "사생활, 남의 눈을 피함",
-     "audio": "https://assets.app.engoo.com/sounds/uJ4Z0NqauRAT3LDTP6FaZbbGqIK2jT7JzZRoQhE6FLj.mpga",
-     "examples": [
-      {
-       "text": "We put up a tall wooden fence to have a bit more privacy in the yard.",
-       "audio": "https://assets.app.engoo.com/sounds/2EJ2vjWHqwNQVIFAuaMvrp.mpga"
-      }
-     ]
-    },
-    {
-     "word": "limit",
-     "pos": "Noun",
-     "pron": "ˈlɪmɪt",
-     "definition": "the largest amount, number, etc. that is allowed or possible",
-     "ko": "제한, 한계, 허용치",
-     "audio": "https://assets.app.engoo.com/sounds/S7uaEkXYYimLh7X06Driwig4DnEWn2YNNvvGP1KBf5m.mpga",
-     "examples": [
-      {
-       "text": "The speed limit here is 20 kilometers an hour.",
-       "audio": "https://assets.app.engoo.com/sounds/fUR3opUkCWjqbRYduJhUsYiFV4a1qPfUJ2GWfSouhFE.mpga"
-      }
-     ]
-    }
-   ],
-   "discussion": [
-    "What are your thoughts on Yakiniku Like's new space for content creators?",
-    "When was the last time you went out for yakiniku?",
-    "Do you ever take photos of your food when eating out?",
-    "Do you ever eat at restaurants alone?",
-    "Do you think 60 minutes is enough time to enjoy a meal at a restaurant?"
-   ],
-   "furtherDiscussion": [
-    "Are there any restaurants in your area that are good for solo diners?",
-    "Does it annoy you when people stare at their phones during meals?",
-    "What are the most memorable restaurant experiences you've had?",
-    "Have you ever been to a restaurant with an unusual dining concept?",
-    "What's the longest you've ever waited for a table at a restaurant?"
-   ],
-   "questions": [
-    {
-     "text": "What are your thoughts on Yakiniku Like's new space for content creators?",
-     "section": "Discussion"
-    },
-    {
-     "text": "Do you think 60 minutes is enough time to enjoy a meal at a restaurant?",
-     "section": "Discussion"
-    },
-    {
-     "text": "What's the longest you've ever waited for a table at a restaurant?",
      "section": "Further Discussion"
     }
    ]
